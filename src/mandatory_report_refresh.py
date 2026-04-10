@@ -199,6 +199,9 @@ def main_refresh():
                     'Total weight' : 'undup_weight'
                     },axis=1), how = 'outer', on = 'year_month')
                     
+    drop_cols = [c for df_monthly_path.columns if "Unnamed" in c]
+    df_monthly.drop(drop_cols,axis=1,inplace=True)
+                    
     return upsert_dataframe(df_monthly_path, df_monthly, 'year_month')
 
 
