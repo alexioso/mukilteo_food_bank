@@ -100,6 +100,51 @@ def upsert_dataframe(csv_path: str, new_rows: pd.DataFrame, key_columns: list) -
 
     return result
 
+def read_time_entry():
+    options = Options()
+    options.add_argument("--headless")
+
+    try:
+        driver = webdriver.Chrome(options=options)
+        driver.get("https://mfbfp.soxbox.co/login/")
+
+        driver.find_element(By.NAME, "username").send_keys(os.environ["FOOD_BANK_MANAGER_USERNAME"])
+        driver.find_element(By.NAME, "password").send_keys(os.environ["FOOD_BANK_MANAGER_PASSWORD"])
+        driver.find_element(By.NAME, "action").click()
+
+        time.sleep(2)
+
+        #old report
+        #report_url = get_distribution_report_url(anchor_date)
+        report_url = "https://mfbfp.soxbox.co/reports/team/time-entry/"
+        driver.get(report_url)
+
+        time.sleep(2)
+
+        #click load button to the SCFC Total Report
+        search_button = driver.find_element(By.CSS_SELECTOR, "input[type='submit'][value='Search']")
+        driver.execute_script("arguments[0].click();", search_button)
+
+
+        #wait for export button and then click
+        export_button = WebDriverWait(driver, 120).until(
+            EC.element_to_be_clickable((
+                By.LINK_TEXT, "Export to CSV"
+            ))
+        )
+        export_button.click()
+        
+        time.sleep(5)
+
+        df = read_most_recent_csv(get_chrome_default_download_path())
+        
+        driver.quit()
+        
+        return df
+    except Exception as e:
+        driver.quit()
+        raise e    
+
 def read_loaded_report(report_title = 'SCFC Total Report'):
     
     print(f"Exporting: {report_title}")
@@ -201,6 +246,16 @@ def main_refresh():
                     'Total weight' : 'undup_weight'
                     },axis=1), how = 'outer', on = 'year_month')
                     
+    #compute time entry and merge to monthly
+    df_time_entry_temp = read_time_entry()
+    #upsert to source
+    df_time_entry_full = upsert_dataframe(time_entry_path, df_time_entry_temp, "Time Entry ID")
+    df_time_entry_full["Time Entry On"] = pd.to_datetime(df_time_entry_full["Time Entry On"])
+    df_time_entry_full["year_month"] = df_time_entry_full["Time Entry On"].dt.year.astype(str) + "-" + df_time_entry_full["Time Entry On"].dt.month.astype(str).str.zfill(2)
+    df_time_entry_grouped = df_time_entry_full.groupby("year_month")["Volunteer ID"].nunique().reset_index().rename({"Volunteer ID":"unique_volunteers"},axis=1)
+    df_monthly = df_monthly.merge(df_time_entry_grouped,how="left",on="year_month")
+                   
+                    
     df_total_daily = df_total_daily.rename({'# of HH Visits':'total_hh_visits', 
                     '0 to 2':'total_age_0_to_2', 
                     '3 to 18':'total_age_3_to_18', 
@@ -212,7 +267,7 @@ def main_refresh():
                     'Total weight' : 'total_weight'
                     },axis=1)
     
-    upsert_dataframe(total_report_daily_path, df_total_daily, 'date')
+    upsert_dataframe(df_monthly_path, df_monthly, 'year_month')
 
     return upsert_dataframe(total_report_daily_path, df_total_daily, 'date')
 
