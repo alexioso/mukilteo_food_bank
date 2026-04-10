@@ -1,0 +1,4 @@
+total_report_monthly_path = "../data/raw/total_report_monthly.csv"
+dup_report_monthly_path = "../data/raw/dup_report_monthly.csv"
+undup_report_monthly_path = "../data/raw/undup_report_monthly.csv"
+df_monthly_path = "../data/processed/df_monthly.csv"
