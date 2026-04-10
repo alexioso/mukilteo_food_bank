@@ -1,0 +1,3011 @@
+,Time Entry ID,Volunteer ID,First Name,Last Name,Hours Worked,Time Entry On
+0,1,,,,4.5,2023-07-19
+1,2,,,,2.0,2023-07-18
+2,3,,,,3.5,2023-08-01
+3,4,,,,0.0,2023-08-01
+4,5,,,,5.0,2023-08-02
+5,6,,,,3.3,2023-08-02
+6,7,,,,7.0,2023-08-02
+7,8,,,,4.5,2023-08-02
+8,9,,,,0.0,2023-08-02
+9,10,8.0,Nancy,Passovoy,4.0,2023-08-06
+10,12,1.0,Dorothy,Duff,5.0,2023-08-08
+11,13,1.0,Dorothy,Duff,45.0,2023-08-08
+12,14,1.0,Dorothy,Duff,0.0,2023-08-08
+13,15,1.0,Dorothy,Duff,5.5,2023-08-12
+14,16,1.0,Dorothy,Duff,5.5,2023-09-15
+15,17,1.0,Dorothy,Duff,12.5,2023-08-01
+16,18,1.0,Dorothy,Duff,12.537,2023-08-10
+17,19,1.0,Dorothy,Duff,8.0,2023-08-02
+18,20,23.0,Jericho,Church,19.0,2023-10-08
+19,21,1.0,Dorothy,Duff,73.5,2023-10-09
+20,22,1.0,Dorothy,Duff,33.0,2023-10-10
+21,23,4.0,Toni,Massey,2.0,2023-10-13
+22,24,24.0,Mike,Massey,0.0,2023-10-13
+23,25,10.0,Greg,Malland,1.0,2023-10-01
+24,26,10.0,Greg,Malland,2.0,2023-10-02
+25,27,10.0,Greg,Malland,3.0,2023-10-08
+26,28,10.0,Greg,Malland,2.0,2023-10-09
+27,29,10.0,Greg,Malland,1.0,2023-10-10
+28,30,10.0,Greg,Malland,3.0,2023-10-12
+29,31,10.0,Greg,Malland,2.0,2023-10-13
+30,32,10.0,Greg,Malland,1.0,2023-10-14
+31,33,10.0,Greg,Malland,1.0,2023-10-16
+32,34,5.0,Lisa,Edwards,2.0,2023-10-05
+33,35,5.0,Lisa,Edwards,1.5,2023-10-05
+34,36,6.0,Zhanna,Kochubey,0.0,2023-10-19
+35,37,10.0,Greg,Malland,2.0,2023-10-18
+36,38,10.0,Greg,Malland,3.5,2023-10-19
+37,39,5.0,Lisa,Edwards,2.0,2023-10-19
+38,40,10.0,Greg,Malland,2.0,2023-10-22
+39,41,10.0,Greg,Malland,1.5,2023-10-22
+40,42,1.0,Dorothy,Duff,1.5,2023-10-20
+41,43,1.0,Dorothy,Duff,3.0,2023-10-19
+42,44,1.0,Dorothy,Duff,2.0,2023-10-18
+43,45,1.0,Dorothy,Duff,1.5,2023-10-22
+44,46,1.0,Dorothy,Duff,2.0,2023-10-09
+45,47,10.0,Greg,Malland,2.0,2023-10-23
+46,48,10.0,Greg,Malland,1.5,2023-10-23
+47,49,25.0,Distribution,Team,68.0,2023-10-23
+48,50,5.0,Lisa,Edwards,1.0,2023-10-26
+49,51,5.0,Lisa,Edwards,5.0,2023-10-26
+50,52,5.0,Lisa,Edwards,1.5,2023-10-12
+51,53,25.0,Distribution,Team,47.0,2023-10-24
+52,54,4.0,Toni,Massey,2.0,2023-10-28
+53,55,4.0,Toni,Massey,0.5,2023-10-28
+54,56,24.0,Mike,Massey,2.0,2023-10-28
+55,57,5.0,Lisa,Edwards,1.0,2023-10-28
+56,58,10.0,Greg,Malland,4.0,2023-10-29
+57,59,10.0,Greg,Malland,2.0,2023-10-28
+58,60,8.0,Nancy,Passovoy,27.0,2023-10-22
+59,61,10.0,Greg,Malland,4.0,2023-10-30
+60,62,7.0,Greg,Bell,2.0,2023-10-02
+61,63,7.0,Greg,Bell,2.0,2023-10-09
+62,64,7.0,Greg,Bell,3.0,2023-10-16
+63,65,7.0,Greg,Bell,3.0,2023-10-23
+64,66,7.0,Greg,Bell,2.0,2023-10-30
+65,67,11.0,Roger,Long,2.0,2023-10-23
+66,68,11.0,Roger,Long,3.5,2023-10-23
+67,69,11.0,Roger,Long,1.75,2023-10-30
+68,70,11.0,Roger,Long,10.0,2023-10-31
+69,71,11.0,Roger,Long,2.0,2023-10-02
+70,72,11.0,Roger,Long,5.0,2023-10-08
+71,73,11.0,Roger,Long,2.0,2023-10-09
+72,74,11.0,Roger,Long,5.0,2023-10-16
+73,75,11.0,Roger,Long,3.0,2023-10-02
+74,81,1.0,Dorothy,Duff,3.0,2023-11-02
+75,77,6.0,Zhanna,Kochubey,1.0,2023-10-12
+76,78,6.0,Zhanna,Kochubey,2.5,2023-10-31
+77,80,5.0,Lisa,Edwards,2.0,2023-11-02
+78,82,5.0,Lisa,Edwards,15.0,2023-11-06
+79,83,28.0,Mari,Rogers,2.5,2023-11-06
+80,84,10.0,Greg,Malland,2.0,2023-11-05
+81,85,10.0,Greg,Malland,2.0,2023-11-06
+82,86,10.0,Greg,Malland,2.0,2023-11-07
+83,87,10.0,Greg,Malland,1.0,2023-11-08
+84,88,11.0,Roger,Long,2.25,2023-11-06
+85,89,11.0,Roger,Long,1.25,2023-11-06
+86,90,11.0,Roger,Long,5.0,2023-11-10
+87,91,5.0,Lisa,Edwards,3.0,2023-11-08
+88,92,5.0,Lisa,Edwards,1.0,2023-11-09
+89,93,5.0,Lisa,Edwards,5.0,2023-11-09
+90,94,5.0,Lisa,Edwards,1.0,2023-11-09
+91,95,4.0,Toni,Massey,2.0,2023-11-11
+92,96,23.0,Jericho,Church,19.5,2023-11-12
+93,97,26.0,John,Murray,2.0,2023-11-03
+94,98,27.0,Mark,Litzinger,2.0,2023-11-03
+95,99,25.0,Distribution,Team,61.75,2023-11-13
+96,100,11.0,Roger,Long,2.5,2023-11-13
+97,101,25.0,Distribution,Team,47.0,2023-11-14
+98,102,5.0,Lisa,Edwards,9.0,2023-11-16
+99,103,5.0,Lisa,Edwards,8.0,2023-11-15
+100,104,5.0,Lisa,Edwards,2.5,2023-11-13
+101,105,5.0,Lisa,Edwards,2.0,2023-11-08
+102,106,5.0,Lisa,Edwards,1.5,2023-11-16
+103,107,5.0,Lisa,Edwards,1.5,2023-11-13
+104,108,5.0,Lisa,Edwards,2.0,2023-11-11
+105,109,5.0,Lisa,Edwards,1.0,2023-11-03
+106,110,5.0,Lisa,Edwards,1.0,2023-11-03
+107,111,5.0,Lisa,Edwards,2.5,2023-11-01
+108,112,5.0,Lisa,Edwards,1.0,2023-11-16
+109,113,10.0,Greg,Malland,2.0,2023-11-18
+110,114,10.0,Greg,Malland,1.0,2023-11-18
+111,115,10.0,Greg,Malland,2.0,2023-11-15
+112,116,10.0,Greg,Malland,2.0,2023-11-13
+113,117,8.0,Nancy,Passovoy,29.0,2023-11-19
+114,118,5.0,Lisa,Edwards,5.0,2023-11-20
+115,119,25.0,Distribution,Team,64.5,2023-11-20
+116,120,5.0,Lisa,Edwards,2.0,2023-11-22
+117,121,5.0,Lisa,Edwards,1.0,2023-11-24
+118,122,25.0,Distribution,Team,32.0,2023-11-21
+119,123,1.0,Dorothy,Duff,2.0,2023-11-21
+120,124,1.0,Dorothy,Duff,2.0,2023-11-24
+121,125,4.0,Toni,Massey,2.5,2023-11-25
+122,126,24.0,Mike,Massey,2.5,2023-11-25
+123,127,5.0,Lisa,Edwards,2.5,2023-11-18
+124,128,5.0,Lisa,Edwards,1.5,2023-11-18
+125,129,5.0,Lisa,Edwards,1.0,2023-11-20
+126,130,27.0,Mark,Litzinger,2.0,2023-11-27
+127,131,5.0,Lisa,Edwards,1.5,2023-11-27
+128,132,5.0,Lisa,Edwards,4.0,2023-11-27
+129,133,5.0,Lisa,Edwards,3.0,2023-11-27
+130,134,1.0,Dorothy,Duff,2.0,2023-11-24
+131,135,1.0,Dorothy,Duff,8.0,2023-11-27
+132,136,1.0,Dorothy,Duff,8.0,2023-11-28
+133,137,5.0,Lisa,Edwards,2.0,2023-11-29
+134,138,5.0,Lisa,Edwards,6.0,2023-12-01
+135,139,5.0,Lisa,Edwards,12.0,2023-12-02
+136,140,5.0,Lisa,Edwards,1.0,2023-12-02
+137,141,10.0,Greg,Malland,2.0,2023-12-03
+138,142,10.0,Greg,Malland,1.0,2023-12-02
+139,143,10.0,Greg,Malland,1.0,2023-12-01
+140,144,10.0,Greg,Malland,2.0,2023-11-29
+141,145,10.0,Greg,Malland,1.0,2023-11-28
+142,146,10.0,Greg,Malland,2.0,2023-11-27
+143,147,5.0,Lisa,Edwards,5.0,2023-12-04
+144,148,5.0,Lisa,Edwards,3.0,2023-12-05
+145,149,5.0,Lisa,Edwards,2.5,2023-12-01
+146,150,5.0,Lisa,Edwards,1.0,2023-12-04
+147,151,23.0,Jericho,Church,23.0,2023-12-10
+148,152,25.0,Distribution,Team,0.0,2023-12-11
+149,153,25.0,Distribution,Team,55.5,2023-12-11
+150,154,5.0,Lisa,Edwards,36.0,2023-12-12
+151,155,10.0,Greg,Malland,3.0,2023-12-10
+152,156,10.0,Greg,Malland,1.0,2023-12-11
+153,157,10.0,Greg,Malland,2.0,2023-12-11
+154,158,10.0,Greg,Malland,2.0,2023-12-13
+155,159,5.0,Lisa,Edwards,3.0,2023-12-13
+156,160,5.0,Lisa,Edwards,4.0,2023-12-15
+157,161,5.0,Lisa,Edwards,1.5,2023-12-16
+158,162,5.0,Lisa,Edwards,1.5,2023-12-14
+159,163,25.0,Distribution,Team,65.5,2023-12-18
+160,164,5.0,Lisa,Edwards,2.0,2023-12-18
+161,165,5.0,Lisa,Edwards,3.0,2023-12-18
+162,166,5.0,Lisa,Edwards,31.0,2023-12-19
+163,167,5.0,Lisa,Edwards,4.5,2023-12-09
+164,168,5.0,Lisa,Edwards,19.0,2023-12-09
+165,169,5.0,Lisa,Edwards,3.5,2023-12-11
+166,170,5.0,Lisa,Edwards,2.0,2023-12-15
+167,171,5.0,Lisa,Edwards,2.0,2023-12-15
+168,172,5.0,Lisa,Edwards,4.0,2023-12-14
+169,173,5.0,Lisa,Edwards,2.0,2023-12-16
+170,174,5.0,Lisa,Edwards,0.0,2023-12-19
+171,175,5.0,Lisa,Edwards,1.0,2023-12-20
+172,176,1.0,Dorothy,Duff,2.0,2023-12-19
+173,177,1.0,Dorothy,Duff,1.5,2023-12-20
+174,178,10.0,Greg,Malland,2.0,2023-12-21
+175,179,10.0,Greg,Malland,1.0,2023-12-18
+176,180,10.0,Greg,Malland,1.0,2023-12-18
+177,181,10.0,Greg,Malland,2.0,2023-12-20
+178,182,4.0,Toni,Massey,4.0,2023-12-23
+179,183,5.0,Lisa,Edwards,4.0,2023-12-26
+180,184,8.0,Nancy,Passovoy,42.0,2023-12-27
+181,185,5.0,Lisa,Edwards,3.0,2023-12-28
+182,186,4.0,Toni,Massey,4.0,2023-12-30
+183,187,4.0,Toni,Massey,2.5,2023-12-30
+184,188,5.0,Lisa,Edwards,1.0,2024-01-03
+185,189,5.0,Lisa,Edwards,5.5,2024-01-04
+186,190,10.0,Greg,Malland,3.0,2024-01-03
+187,191,10.0,Greg,Malland,2.0,2024-01-03
+188,192,10.0,Greg,Malland,1.0,2024-01-04
+189,193,10.0,Greg,Malland,2.0,2024-01-04
+190,194,10.0,Greg,Malland,4.0,2024-01-06
+191,195,10.0,Greg,Malland,6.0,2024-01-07
+192,196,10.0,Greg,Malland,1.0,2024-01-07
+193,197,25.0,Distribution,Team,49.75,2024-01-08
+194,198,5.0,Lisa,Edwards,2.5,2024-01-08
+195,199,5.0,Lisa,Edwards,2.5,2024-01-08
+196,200,25.0,Distribution,Team,24.0,2024-01-09
+197,201,1.0,Dorothy,Duff,6.0,2024-01-02
+198,202,1.0,Dorothy,Duff,1.5,2024-01-04
+199,203,5.0,Lisa,Edwards,2.5,2024-01-11
+200,204,10.0,Greg,Malland,1.0,2024-01-12
+201,205,10.0,Greg,Malland,2.0,2024-01-11
+202,206,4.0,Toni,Massey,2.0,2024-01-14
+203,207,4.0,Toni,Massey,4.0,2024-01-13
+204,208,5.0,Lisa,Edwards,1.5,2024-01-16
+205,209,5.0,Lisa,Edwards,1.0,2024-01-18
+206,210,5.0,Lisa,Edwards,5.5,2024-01-19
+207,211,10.0,Greg,Malland,6.0,2024-01-21
+208,212,10.0,Greg,Malland,1.5,2024-01-20
+209,213,10.0,Greg,Malland,2.0,2024-01-19
+210,214,10.0,Greg,Malland,2.0,2024-01-18
+211,215,10.0,Greg,Malland,2.0,2024-01-17
+212,216,10.0,Greg,Malland,2.0,2024-01-19
+213,217,10.0,Greg,Malland,2.0,2024-01-22
+214,218,5.0,Lisa,Edwards,1.5,2024-01-06
+215,219,5.0,Lisa,Edwards,4.0,2024-01-03
+216,220,5.0,Lisa,Edwards,2.0,2024-01-04
+217,221,5.0,Lisa,Edwards,3.0,2024-01-22
+218,222,5.0,Lisa,Edwards,4.0,2024-01-08
+219,223,5.0,Lisa,Edwards,2.0,2024-01-10
+220,224,5.0,Lisa,Edwards,3.0,2024-01-12
+221,225,5.0,Lisa,Edwards,3.0,2024-01-17
+222,226,5.0,Lisa,Edwards,2.0,2024-01-17
+223,227,12.0,Kim,Voetberg,1.5,2024-01-19
+224,228,29.0,Volunteers,Grocery Rescue,2.0,2024-01-20
+225,229,30.0,Volunteers of,America,2.0,2024-01-20
+226,230,30.0,Volunteers of,America,0.0,2024-01-20
+227,231,29.0,Volunteers,Grocery Rescue,6.0,2024-01-19
+228,232,30.0,Volunteers of,America,1.5,2024-01-22
+229,233,30.0,Volunteers of,America,1.5,2024-01-22
+230,234,30.0,Volunteers of,America,1.25,2024-01-18
+231,235,30.0,Volunteers of,America,1.25,2024-01-18
+232,236,30.0,Volunteers of,America,1.25,2024-01-18
+233,237,31.0,Volunteers,Distribution Day - Tuesday,2.5,2024-01-23
+234,238,25.0,Distribution,Team,45.0,2024-01-22
+235,239,32.0,Bagging,Volunteers,43.0,2024-01-21
+236,240,1.0,Dorothy,Duff,2.0,2024-01-21
+237,241,1.0,Dorothy,Duff,3.0,2024-01-22
+238,242,1.0,Dorothy,Duff,2.0,2024-01-23
+239,243,5.0,Lisa,Edwards,1.0,2024-01-24
+240,244,33.0,Volunteers,Donation Work,10.5,2024-01-26
+241,245,11.0,Roger,Long,1.5,2023-12-04
+242,246,11.0,Roger,Long,1.5,2024-01-29
+243,247,11.0,Roger,Long,1.5,2023-12-11
+244,248,11.0,Roger,Long,0.75,2023-12-11
+245,249,11.0,Roger,Long,1.5,2023-12-14
+246,250,11.0,Roger,Long,1.5,2023-12-18
+247,251,11.0,Roger,Long,0.75,2023-12-18
+248,252,11.0,Roger,Long,0.0,2024-01-29
+249,253,11.0,Roger,Long,0.75,2023-12-18
+250,254,11.0,Roger,Long,1.5,2023-12-27
+251,255,11.0,Roger,Long,1.5,2024-01-05
+252,256,11.0,Roger,Long,1.5,2024-01-08
+253,257,11.0,Roger,Long,1.5,2024-01-11
+254,258,11.0,Roger,Long,1.5,2024-01-18
+255,259,11.0,Roger,Long,2.0,2024-01-20
+256,260,11.0,Roger,Long,2.0,2024-01-27
+257,261,11.0,Roger,Long,1.5,2024-01-29
+258,262,11.0,Roger,Long,5.0,2023-12-01
+259,263,11.0,Roger,Long,5.0,2023-12-08
+260,264,11.0,Roger,Long,5.0,2023-12-15
+261,265,11.0,Roger,Long,5.0,2023-12-22
+262,266,11.0,Roger,Long,5.0,2023-12-29
+263,267,11.0,Roger,Long,5.0,2024-01-05
+264,268,11.0,Roger,Long,5.0,2024-01-12
+265,269,11.0,Roger,Long,5.0,2024-01-19
+266,270,11.0,Roger,Long,5.0,2024-01-26
+267,271,5.0,Lisa,Edwards,1.0,2024-01-29
+268,272,5.0,Lisa,Edwards,0.0,2024-01-29
+269,273,33.0,Volunteers,Donation Work,4.0,2024-01-29
+270,274,10.0,Greg,Malland,1.5,2024-01-29
+271,275,10.0,Greg,Malland,1.0,2024-01-29
+272,276,10.0,Greg,Malland,2.0,2024-01-26
+273,277,10.0,Greg,Malland,1.0,2024-01-27
+274,278,10.0,Greg,Malland,0.0,2024-01-31
+275,279,10.0,Greg,Malland,1.0,2024-01-30
+276,280,5.0,Lisa,Edwards,1.5,2024-01-31
+277,281,12.0,Kim,Voetberg,2.0,2024-01-26
+278,282,12.0,Kim,Voetberg,2.0,2024-02-01
+279,283,33.0,Volunteers,Donation Work,2.0,2024-02-01
+280,284,33.0,Volunteers,Donation Work,0.0,2024-02-01
+281,285,33.0,Volunteers,Donation Work,0.0,2024-02-01
+282,286,5.0,Lisa,Edwards,2.5,2024-02-01
+283,287,33.0,Volunteers,Donation Work,4.0,2024-02-02
+284,288,5.0,Lisa,Edwards,1.5,2024-02-02
+285,289,10.0,Greg,Malland,2.0,2024-02-05
+286,290,10.0,Greg,Malland,2.0,2024-02-04
+287,291,11.0,Roger,Long,1.25,2024-02-05
+288,292,11.0,Roger,Long,5.0,2024-02-05
+289,293,10.0,Greg,Malland,1.5,2024-02-06
+290,294,10.0,Greg,Malland,2.0,2024-02-06
+291,295,10.0,Greg,Malland,0.0,2024-02-05
+292,296,4.0,Toni,Massey,1.5,2023-07-21
+293,297,1.0,Dorothy,Duff,3.0,2023-07-12
+294,298,7.0,Greg,Bell,0.0,2024-02-08
+295,299,33.0,Volunteers,Donation Work,4.0,2024-02-01
+296,300,33.0,Volunteers,Donation Work,5.0,2024-02-02
+297,301,33.0,Volunteers,Donation Work,4.0,2024-02-03
+298,302,33.0,Volunteers,Donation Work,0.0,2024-02-09
+299,303,33.0,Volunteers,Donation Work,0.0,2024-02-09
+300,304,33.0,Volunteers,Donation Work,4.0,2024-02-05
+301,305,33.0,Volunteers,Donation Work,4.0,2024-02-06
+302,306,33.0,Volunteers,Donation Work,2.0,2024-02-07
+303,307,12.0,Kim,Voetberg,2.0,2024-02-09
+304,308,33.0,Volunteers,Donation Work,6.0,2024-02-09
+305,309,5.0,Lisa,Edwards,3.0,2024-02-09
+306,310,4.0,Toni,Massey,2.5,2024-02-09
+307,311,4.0,Toni,Massey,4.0,2024-02-09
+308,312,26.0,John,Murray,2.0,2024-02-09
+309,313,26.0,John,Murray,2.0,2024-02-09
+310,314,26.0,John,Murray,1.0,2024-02-08
+311,315,26.0,John,Murray,2.0,2024-02-08
+312,316,26.0,John,Murray,2.0,2024-02-01
+313,317,10.0,Greg,Malland,6.0,2024-02-09
+314,318,10.0,Greg,Malland,1.3,2024-02-08
+315,319,10.0,Greg,Malland,1.0,2024-02-08
+316,320,5.0,Lisa,Edwards,2.0,2024-02-12
+317,321,31.0,Volunteers,Distribution Day - Tuesday,3.0,2024-02-13
+318,322,25.0,Distribution,Team,0.0,2024-02-13
+319,323,25.0,Distribution,Team,83.0,2024-02-12
+320,324,33.0,Volunteers,Donation Work,5.0,2024-02-16
+321,325,33.0,Volunteers,Donation Work,4.0,2024-02-16
+322,326,4.0,Toni,Massey,4.0,2024-02-17
+323,327,12.0,Kim,Voetberg,2.0,2024-02-16
+324,328,12.0,Kim,Voetberg,1.0,2024-02-19
+325,329,4.0,Toni,Massey,1.0,2024-02-25
+326,330,10.0,Greg,Malland,4.0,2024-02-18
+327,331,10.0,Greg,Malland,2.0,2024-02-19
+328,332,10.0,Greg,Malland,0.0,2024-02-25
+329,333,10.0,Greg,Malland,1.0,2024-02-19
+330,334,10.0,Greg,Malland,1.0,2024-02-25
+331,335,10.0,Greg,Malland,1.0,2024-02-25
+332,336,33.0,Volunteers,Donation Work,1.5,2024-02-11
+333,337,33.0,Volunteers,Donation Work,2.5,2024-02-12
+334,338,33.0,Volunteers,Donation Work,1.0,2024-02-05
+335,339,33.0,Volunteers,Donation Work,3.0,2024-02-17
+336,340,33.0,Volunteers,Donation Work,1.5,2024-02-22
+337,341,33.0,Volunteers,Donation Work,1.0,2024-02-26
+338,342,25.0,Distribution,Team,82.0,2024-02-26
+339,343,10.0,Greg,Malland,2.0,2024-02-26
+340,344,31.0,Volunteers,Distribution Day - Tuesday,3.0,2024-02-28
+341,345,10.0,Greg,Malland,3.0,2024-02-29
+342,346,10.0,Greg,Malland,1.0,2024-02-06
+343,347,33.0,Volunteers,Donation Work,13.0,2024-02-29
+344,348,33.0,Volunteers,Donation Work,12.75,2024-02-24
+345,349,33.0,Volunteers,Donation Work,4.0,2024-02-25
+346,350,29.0,Volunteers,Grocery Rescue,2.5,2024-02-29
+347,351,5.0,Lisa,Edwards,1.5,2024-03-04
+348,352,33.0,Volunteers,Donation Work,2.0,2024-03-08
+349,353,32.0,Bagging,Volunteers,18.0,2024-03-10
+350,354,5.0,Lisa,Edwards,1.0,2024-03-10
+351,355,25.0,Distribution,Team,67.0,2024-03-11
+352,356,25.0,Distribution,Team,3.0,2024-03-12
+353,357,8.0,Nancy,Passovoy,27.5,2024-02-25
+354,358,8.0,Nancy,Passovoy,38.0,2024-02-09
+355,359,8.0,Nancy,Passovoy,37.0,2024-03-12
+356,360,5.0,Lisa,Edwards,1.0,2024-03-13
+357,361,10.0,Greg,Malland,1.3,2024-03-14
+358,362,10.0,Greg,Malland,1.0,2024-03-14
+359,363,10.0,Greg,Malland,1.0,2024-03-14
+360,364,10.0,Greg,Malland,1.0,2024-03-09
+361,365,10.0,Greg,Malland,2.0,2024-03-10
+362,366,10.0,Greg,Malland,1.0,2024-03-11
+363,367,5.0,Lisa,Edwards,2.5,2024-03-14
+364,368,5.0,Lisa,Edwards,0.0,2024-03-14
+365,369,33.0,Volunteers,Donation Work,3.0,2024-03-14
+366,370,29.0,Volunteers,Grocery Rescue,2.5,2024-03-15
+367,371,5.0,Lisa,Edwards,1.0,2024-03-16
+368,372,27.0,Mark,Litzinger,4.5,2024-03-11
+369,373,27.0,Mark,Litzinger,1.0,2024-03-14
+370,374,5.0,Lisa,Edwards,2.0,2024-03-18
+371,375,30.0,Volunteers of,America,3.0,2024-03-04
+372,376,30.0,Volunteers of,America,6.0,2024-03-11
+373,377,30.0,Volunteers of,America,4.0,2024-03-18
+374,378,30.0,Volunteers of,America,1.5,2024-03-01
+375,379,30.0,Volunteers of,America,3.0,2024-03-02
+376,380,30.0,Volunteers of,America,4.5,2024-03-06
+377,381,30.0,Volunteers of,America,4.5,2024-03-18
+378,382,33.0,Volunteers,Donation Work,2.0,2024-03-06
+379,383,33.0,Volunteers,Donation Work,1.5,2024-03-18
+380,384,5.0,Lisa,Edwards,1.0,2024-03-16
+381,385,5.0,Lisa,Edwards,1.0,2024-03-19
+382,386,10.0,Greg,Malland,2.0,2024-03-21
+383,387,10.0,Greg,Malland,2.0,2024-03-18
+384,388,10.0,Greg,Malland,2.0,2024-03-19
+385,389,25.0,Distribution,Team,72.5,2024-03-25
+386,390,25.0,Distribution,Team,3.0,2024-03-26
+387,391,5.0,Lisa,Edwards,1.0,2024-03-27
+388,392,33.0,Volunteers,Donation Work,9.0,2024-03-28
+389,393,5.0,Lisa,Edwards,1.0,2024-03-28
+390,394,4.0,Toni,Massey,4.0,2024-03-30
+391,395,4.0,Toni,Massey,3.0,2024-03-30
+392,396,1.0,Dorothy,Duff,2.0,2024-03-23
+393,397,1.0,Dorothy,Duff,3.0,2024-03-18
+394,398,1.0,Dorothy,Duff,4.0,2024-03-15
+395,399,5.0,Lisa,Edwards,4.0,2024-04-02
+396,400,5.0,Lisa,Edwards,3.0,2024-04-01
+397,401,10.0,Greg,Malland,2.0,2024-03-25
+398,402,10.0,Greg,Malland,0.0,2024-03-27
+399,403,10.0,Greg,Malland,2.0,2024-04-01
+400,404,10.0,Greg,Malland,1.0,2024-04-01
+401,405,10.0,Greg,Malland,1.0,2024-04-02
+402,406,10.0,Greg,Malland,4.0,2024-03-27
+403,407,5.0,Lisa,Edwards,1.0,2024-04-03
+404,408,8.0,Nancy,Passovoy,25.0,2024-03-24
+405,409,28.0,Mari,Rogers,4.0,2024-04-01
+406,410,28.0,Mari,Rogers,0.0,2024-04-05
+407,411,33.0,Volunteers,Donation Work,5.5,2024-04-05
+408,412,10.0,Greg,Malland,1.5,2024-04-07
+409,413,10.0,Greg,Malland,0.5,2024-04-06
+410,414,10.0,Greg,Malland,2.0,2024-04-05
+411,415,10.0,Greg,Malland,0.5,2024-04-05
+412,416,25.0,Distribution,Team,72.5,2024-04-08
+413,417,25.0,Distribution,Team,3.0,2024-04-09
+414,418,12.0,Kim,Voetberg,2.0,2024-04-05
+415,419,11.0,Roger,Long,6.0,2024-03-31
+416,420,11.0,Roger,Long,20.0,2024-04-10
+417,421,26.0,John,Murray,2.0,2024-04-05
+418,422,10.0,Greg,Malland,2.0,2024-04-11
+419,423,10.0,Greg,Malland,1.0,2024-04-11
+420,424,36.0,Volunteer,Volunteers,8.0,2024-04-15
+421,425,36.0,Volunteer,Volunteers,1.0,2024-04-15
+422,426,10.0,Greg,Malland,1.0,2024-04-15
+423,427,10.0,Greg,Malland,0.001,2024-04-15
+424,428,10.0,Greg,Malland,1.0,2024-04-15
+425,429,10.0,Greg,Malland,1.0,2024-04-15
+426,430,25.0,Distribution,Team,65.0,2024-04-22
+427,431,8.0,Nancy,Passovoy,34.75,2024-04-21
+428,432,31.0,Volunteers,Distribution Day - Tuesday,28.5,2024-04-23
+429,433,5.0,Lisa,Edwards,1.0,2024-04-23
+430,434,33.0,Volunteers,Donation Work,6.0,2024-04-25
+431,435,36.0,Volunteer,Volunteers,2.5,2024-04-29
+432,436,36.0,Volunteer,Volunteers,6.0,2024-04-15
+433,437,36.0,Volunteer,Volunteers,6.0,2024-04-16
+434,438,36.0,Volunteer,Volunteers,5.0,2024-04-18
+435,439,1.0,Dorothy,Duff,4.0,2024-04-15
+436,440,1.0,Dorothy,Duff,2.0,2024-04-24
+437,441,1.0,Dorothy,Duff,5.0,2024-04-29
+438,442,1.0,Dorothy,Duff,1.0,2024-04-23
+439,443,1.0,Dorothy,Duff,2.0,2024-04-30
+440,444,27.0,Mark,Litzinger,1.0,2024-04-04
+441,445,27.0,Mark,Litzinger,3.5,2024-04-08
+442,446,27.0,Mark,Litzinger,2.0,2024-04-15
+443,447,27.0,Mark,Litzinger,3.5,2024-04-22
+444,448,30.0,Volunteers of,America,3.0,2024-04-01
+445,449,30.0,Volunteers of,America,0.0,2024-04-30
+446,450,33.0,Volunteers,Donation Work,2.5,2024-04-03
+447,451,33.0,Volunteers,Donation Work,3.0,2024-04-04
+448,452,33.0,Volunteers,Donation Work,3.0,2024-04-12
+449,453,30.0,Volunteers of,America,2.0,2024-04-08
+450,454,30.0,Volunteers of,America,2.0,2024-04-15
+451,455,29.0,Volunteers,Grocery Rescue,2.0,2024-04-12
+452,456,5.0,Lisa,Edwards,1.0,2024-04-30
+453,457,5.0,Lisa,Edwards,1.0,2024-05-01
+454,458,33.0,Volunteers,Donation Work,2.5,2024-05-04
+455,459,5.0,Lisa,Edwards,1.0,2024-05-04
+456,460,36.0,Volunteer,Volunteers,7.0,2024-04-29
+457,461,25.0,Distribution,Team,50.0,2024-05-06
+458,462,25.0,Distribution,Team,2.0,2024-05-07
+459,463,4.0,Toni,Massey,4.0,2024-04-30
+460,464,4.0,Toni,Massey,3.0,2024-04-30
+461,465,5.0,Lisa,Edwards,1.0,2024-05-07
+462,466,28.0,Mari,Rogers,4.5,2024-05-06
+463,467,4.0,Toni,Massey,4.0,2024-05-11
+464,468,4.0,Toni,Massey,2.5,2024-05-09
+465,469,10.0,Greg,Malland,1.5,2024-05-13
+466,470,10.0,Greg,Malland,2.0,2024-05-11
+467,471,10.0,Greg,Malland,0.0,2024-05-13
+468,472,10.0,Greg,Malland,1.0,2024-05-13
+469,473,12.0,Kim,Voetberg,4.0,2024-05-03
+470,474,12.0,Kim,Voetberg,3.0,2024-05-06
+471,475,12.0,Kim,Voetberg,2.0,2024-05-07
+472,476,12.0,Kim,Voetberg,4.0,2024-05-10
+473,477,12.0,Kim,Voetberg,2.0,2024-05-10
+474,478,29.0,Volunteers,Grocery Rescue,2.0,2024-05-15
+475,479,29.0,Volunteers,Grocery Rescue,3.0,2024-05-15
+476,480,30.0,Volunteers of,America,3.0,2024-05-15
+477,481,30.0,Volunteers of,America,3.0,2024-05-15
+478,482,30.0,Volunteers of,America,4.5,2024-05-06
+479,483,30.0,Volunteers of,America,2.0,2024-05-13
+480,484,33.0,Volunteers,Donation Work,4.0,2024-05-15
+481,485,33.0,Volunteers,Donation Work,3.0,2024-05-05
+482,486,33.0,Volunteers,Donation Work,4.0,2024-05-08
+483,487,33.0,Volunteers,Donation Work,2.5,2024-05-01
+484,488,5.0,Lisa,Edwards,1.0,2024-05-16
+485,489,10.0,Greg,Malland,0.5,2024-05-17
+486,490,10.0,Greg,Malland,1.5,2024-05-17
+487,491,10.0,Greg,Malland,1.0,2024-05-17
+488,492,10.0,Greg,Malland,2.0,2024-05-15
+489,493,10.0,Greg,Malland,3.0,2024-05-14
+490,494,10.0,Greg,Malland,2.0,2024-05-13
+491,495,25.0,Distribution,Team,53.0,2024-05-20
+492,496,25.0,Distribution,Team,2.0,2024-05-21
+493,497,30.0,Volunteers of,America,1.0,2024-05-20
+494,498,29.0,Volunteers,Grocery Rescue,2.0,2024-05-18
+495,499,31.0,Volunteers,Distribution Day - Tuesday,2.0,2024-05-21
+496,500,33.0,Volunteers,Donation Work,8.5,2024-05-22
+497,501,33.0,Volunteers,Donation Work,9.0,2024-05-25
+498,502,33.0,Volunteers,Donation Work,3.5,2024-05-28
+499,503,10.0,Greg,Malland,2.5,2024-05-29
+500,504,10.0,Greg,Malland,1.0,2024-05-29
+501,505,10.0,Greg,Malland,3.0,2024-05-23
+502,506,30.0,Volunteers of,America,1.5,2024-05-29
+503,507,33.0,Volunteers,Donation Work,8.5,2024-05-30
+504,508,5.0,Lisa,Edwards,1.0,2024-06-03
+505,509,6.0,Zhanna,Kochubey,2.5,2024-05-31
+506,510,10.0,Greg,Malland,3.0,2024-06-05
+507,511,10.0,Greg,Malland,3.5,2024-06-06
+508,512,5.0,Lisa,Edwards,1.0,2024-06-07
+509,513,25.0,Distribution,Team,55.0,2024-06-10
+510,514,31.0,Volunteers,Distribution Day - Tuesday,26.5,2024-06-11
+511,515,30.0,Volunteers of,America,3.0,2024-06-03
+512,516,30.0,Volunteers of,America,2.0,2024-06-03
+513,517,30.0,Volunteers of,America,2.5,2024-06-13
+514,518,30.0,Volunteers of,America,5.5,2024-06-10
+515,519,29.0,Volunteers,Grocery Rescue,1.0,2024-06-07
+516,520,29.0,Volunteers,Grocery Rescue,2.0,2024-06-08
+517,521,33.0,Volunteers,Donation Work,3.0,2024-06-07
+518,522,33.0,Volunteers,Donation Work,2.0,2024-06-05
+519,523,5.0,Lisa,Edwards,1.5,2024-06-13
+520,524,33.0,Volunteers,Donation Work,9.5,2024-06-13
+521,525,33.0,Volunteers,Donation Work,9.5,2024-06-17
+522,526,33.0,Volunteers,Donation Work,5.0,2024-06-17
+523,527,33.0,Volunteers,Donation Work,1.0,2024-06-17
+524,528,5.0,Lisa,Edwards,1.0,2024-06-19
+525,529,10.0,Greg,Malland,2.0,2024-06-23
+526,530,10.0,Greg,Malland,1.0,2024-06-19
+527,531,25.0,Distribution,Team,52.0,2024-06-24
+528,532,4.0,Toni,Massey,3.0,2024-06-13
+529,533,4.0,Toni,Massey,4.0,2024-06-15
+530,534,25.0,Distribution,Team,2.5,2024-06-25
+531,535,30.0,Volunteers of,America,5.0,2024-06-17
+532,536,30.0,Volunteers of,America,3.5,2024-06-24
+533,537,29.0,Volunteers,Grocery Rescue,2.0,2024-06-22
+534,538,33.0,Volunteers,Donation Work,3.0,2024-06-17
+535,539,5.0,Lisa,Edwards,1.0,2024-06-24
+536,540,12.0,Kim,Voetberg,1.0,2024-06-14
+537,541,12.0,Kim,Voetberg,2.0,2024-06-21
+538,542,12.0,Kim,Voetberg,2.0,2024-06-19
+539,543,12.0,Kim,Voetberg,2.0,2024-06-28
+540,544,36.0,Volunteer,Volunteers,1.5,2024-06-28
+541,545,5.0,Lisa,Edwards,1.5,2024-07-01
+542,546,36.0,Volunteer,Volunteers,13.0,2024-06-05
+543,547,36.0,Volunteer,Volunteers,13.0,2024-06-09
+544,548,1.0,Dorothy,Duff,2.0,2024-06-20
+545,549,1.0,Dorothy,Duff,2.0,2024-06-21
+546,550,5.0,Lisa,Edwards,1.0,2024-07-02
+547,551,33.0,Volunteers,Donation Work,1.5,2024-07-03
+548,552,5.0,Lisa,Edwards,1.0,2024-07-04
+549,553,26.0,John,Murray,1.0,2024-07-03
+550,554,26.0,John,Murray,1.0,2024-06-13
+551,555,11.0,Roger,Long,20.0,2024-07-06
+552,556,11.0,Roger,Long,0.0,2024-07-06
+553,557,11.0,Roger,Long,8.0,2024-07-06
+554,558,11.0,Roger,Long,1.5,2024-07-06
+555,559,10.0,Greg,Malland,2.0,2024-07-08
+556,560,10.0,Greg,Malland,1.0,2024-07-06
+557,561,10.0,Greg,Malland,0.0,2024-07-08
+558,562,10.0,Greg,Malland,2.0,2024-07-01
+559,563,10.0,Greg,Malland,1.0,2024-07-01
+560,564,10.0,Greg,Malland,3.0,2024-07-08
+561,565,10.0,Greg,Malland,1.0,2024-07-08
+562,566,12.0,Kim,Voetberg,1.75,2024-07-01
+563,567,12.0,Kim,Voetberg,5.0,2024-07-05
+564,568,12.0,Kim,Voetberg,1.5,2024-07-08
+565,569,25.0,Distribution,Team,50.0,2024-07-08
+566,570,12.0,Kim,Voetberg,3.0,2024-07-09
+567,571,5.0,Lisa,Edwards,3.0,2024-07-11
+568,572,33.0,Volunteers,Donation Work,2.0,2024-07-13
+569,573,33.0,Volunteers,Donation Work,3.5,2024-07-12
+570,574,4.0,Toni,Massey,4.0,2024-07-06
+571,575,4.0,Toni,Massey,4.0,2024-07-13
+572,576,4.0,Toni,Massey,3.0,2024-07-14
+573,577,10.0,Greg,Malland,1.0,2024-07-15
+574,578,10.0,Greg,Malland,1.0,2024-07-15
+575,579,10.0,Greg,Malland,2.0,2024-07-14
+576,580,10.0,Greg,Malland,5.0,2024-07-11
+577,581,10.0,Greg,Malland,1.5,2024-07-11
+578,582,10.0,Greg,Malland,1.0,2024-07-10
+579,583,8.0,Nancy,Passovoy,14.0,2024-07-21
+580,584,30.0,Volunteers of,America,2.0,2024-07-15
+581,585,30.0,Volunteers of,America,2.0,2024-07-23
+582,586,30.0,Volunteers of,America,2.0,2024-07-15
+583,587,30.0,Volunteers of,America,2.0,2024-07-22
+584,588,36.0,Volunteer,Volunteers,1.5,2024-07-13
+585,589,33.0,Volunteers,Donation Work,4.0,2024-07-15
+586,590,29.0,Volunteers,Grocery Rescue,2.0,2024-07-19
+587,591,29.0,Volunteers,Grocery Rescue,2.5,2024-07-20
+588,592,31.0,Volunteers,Distribution Day - Tuesday,39.5,2024-07-23
+589,593,5.0,Lisa,Edwards,1.5,2024-07-22
+590,594,25.0,Distribution,Team,51.0,2024-07-23
+591,595,10.0,Greg,Malland,3.5,2024-07-22
+592,596,10.0,Greg,Malland,3.0,2024-07-23
+593,597,10.0,Greg,Malland,1.0,2024-07-25
+594,598,33.0,Volunteers,Donation Work,15.5,2024-07-26
+595,599,10.0,Greg,Malland,4.0,2024-07-29
+596,600,5.0,Lisa,Edwards,1.5,2024-07-29
+597,601,5.0,Lisa,Edwards,2.0,2024-07-31
+598,602,36.0,Volunteer,Volunteers,6.0,2024-07-02
+599,603,36.0,Volunteer,Volunteers,15.0,2024-07-03
+600,604,1.0,Dorothy,Duff,1.0,2024-07-03
+601,605,1.0,Dorothy,Duff,2.0,2024-07-29
+602,606,36.0,Volunteer,Volunteers,31.0,2024-07-27
+603,607,10.0,Greg,Malland,5.0,2024-08-02
+604,608,10.0,Greg,Malland,1.0,2024-08-03
+605,609,10.0,Greg,Malland,0.0,2024-08-03
+606,610,29.0,Volunteers,Grocery Rescue,1.5,2024-08-02
+607,611,29.0,Volunteers,Grocery Rescue,2.0,2024-08-03
+608,612,33.0,Volunteers,Donation Work,3.0,2024-08-03
+609,613,33.0,Volunteers,Donation Work,3.5,2024-08-06
+610,614,30.0,Volunteers of,America,5.5,2024-08-05
+611,615,5.0,Lisa,Edwards,1.0,2024-08-08
+612,616,33.0,Volunteers,Donation Work,5.0,2024-08-08
+613,617,33.0,Volunteers,Donation Work,2.5,2024-08-09
+614,618,33.0,Volunteers,Donation Work,3.0,2024-08-09
+615,619,25.0,Distribution,Team,74.0,2024-08-12
+616,620,10.0,Greg,Malland,2.0,2024-08-12
+617,621,10.0,Greg,Malland,3.0,2024-08-13
+618,622,10.0,Greg,Malland,0.5,2024-08-13
+619,623,31.0,Volunteers,Distribution Day - Tuesday,35.0,2024-08-13
+620,624,33.0,Volunteers,Donation Work,7.5,2024-08-14
+621,625,5.0,Lisa,Edwards,1.0,2024-08-19
+622,626,10.0,Greg,Malland,1.5,2024-08-19
+623,627,4.0,Toni,Massey,4.0,2024-08-17
+624,628,4.0,Toni,Massey,3.0,2024-08-20
+625,629,36.0,Volunteer,Volunteers,8.0,2024-08-05
+626,630,36.0,Volunteer,Volunteers,10.0,2024-08-06
+627,631,36.0,Volunteer,Volunteers,14.0,2024-08-07
+628,632,1.0,Dorothy,Duff,2.0,2024-08-20
+629,633,1.0,Dorothy,Duff,4.0,2024-08-21
+630,634,10.0,Greg,Malland,1.0,2024-08-23
+631,635,10.0,Greg,Malland,1.0,2024-08-22
+632,636,10.0,Greg,Malland,1.0,2024-08-22
+633,637,10.0,Greg,Malland,1.0,2024-08-21
+634,638,29.0,Volunteers,Grocery Rescue,1.5,2024-08-12
+635,639,29.0,Volunteers,Grocery Rescue,1.5,2024-08-09
+636,640,29.0,Volunteers,Grocery Rescue,2.0,2024-08-16
+637,641,29.0,Volunteers,Grocery Rescue,1.0,2024-08-22
+638,642,30.0,Volunteers of,America,1.5,2024-08-16
+639,643,29.0,Volunteers,Grocery Rescue,1.5,2024-08-23
+640,644,36.0,Volunteer,Volunteers,1.5,2024-08-26
+641,645,31.0,Volunteers,Distribution Day - Tuesday,2.5,2024-08-27
+642,646,33.0,Volunteers,Donation Work,2.5,2024-08-23
+643,647,5.0,Lisa,Edwards,1.5,2024-08-26
+644,648,25.0,Distribution,Team,66.0,2024-08-26
+645,649,33.0,Volunteers,Donation Work,3.0,2024-08-28
+646,650,8.0,Nancy,Passovoy,21.5,2024-08-25
+647,651,12.0,Kim,Voetberg,1.5,2024-08-09
+648,652,12.0,Kim,Voetberg,1.5,2024-08-28
+649,653,12.0,Kim,Voetberg,1.5,2024-08-30
+650,654,5.0,Lisa,Edwards,3.0,2024-08-30
+651,655,1.0,Dorothy,Duff,1.0,2024-08-31
+652,656,36.0,Volunteer,Volunteers,34.5,2024-08-15
+653,657,5.0,Lisa,Edwards,1.5,2024-09-04
+654,658,10.0,Greg,Malland,2.0,2024-09-04
+655,659,10.0,Greg,Malland,1.0,2024-09-04
+656,660,10.0,Greg,Malland,1.0,2024-09-03
+657,661,25.0,Distribution,Team,74.0,2024-09-09
+658,662,33.0,Volunteers,Donation Work,1.0,2024-09-01
+659,663,29.0,Volunteers,Grocery Rescue,1.0,2024-09-01
+660,664,30.0,Volunteers of,America,1.0,2024-09-05
+661,665,30.0,Volunteers of,America,0.0,2024-09-10
+662,666,29.0,Volunteers,Grocery Rescue,4.0,2024-09-05
+663,667,29.0,Volunteers,Grocery Rescue,1.5,2024-09-06
+664,668,29.0,Volunteers,Grocery Rescue,1.5,2024-09-07
+665,669,29.0,Volunteers,Grocery Rescue,2.0,2024-09-07
+666,670,12.0,Kim,Voetberg,0.5,2024-09-08
+667,671,31.0,Volunteers,Distribution Day - Tuesday,2.5,2024-09-10
+668,672,5.0,Lisa,Edwards,2.0,2024-09-10
+669,673,33.0,Volunteers,Donation Work,1.5,2024-09-09
+670,674,10.0,Greg,Malland,1.0,2024-09-10
+671,675,10.0,Greg,Malland,2.0,2024-09-09
+672,676,10.0,Greg,Malland,1.0,2024-09-08
+673,677,5.0,Lisa,Edwards,1.5,2024-09-13
+674,678,33.0,Volunteers,Donation Work,1.5,2024-09-13
+675,679,5.0,Lisa,Edwards,1.0,2024-09-16
+676,680,36.0,Volunteer,Volunteers,3.0,2024-09-14
+677,681,33.0,Volunteers,Donation Work,3.5,2024-09-18
+678,682,5.0,Lisa,Edwards,1.5,2024-09-21
+679,683,36.0,Volunteer,Volunteers,2.0,2024-09-13
+680,684,36.0,Volunteer,Volunteers,0.0,2024-09-24
+681,685,36.0,Volunteer,Volunteers,2.0,2024-09-14
+682,686,36.0,Volunteer,Volunteers,1.5,2024-09-16
+683,687,36.0,Volunteer,Volunteers,1.5,2024-09-16
+684,688,36.0,Volunteer,Volunteers,1.5,2024-09-23
+685,689,36.0,Volunteer,Volunteers,2.0,2024-09-23
+686,690,31.0,Volunteers,Distribution Day - Tuesday,37.5,2024-09-24
+687,691,25.0,Distribution,Team,60.0,2024-09-24
+688,692,5.0,Lisa,Edwards,1.0,2024-09-26
+689,693,8.0,Nancy,Passovoy,29.5,2024-09-22
+690,694,8.0,Nancy,Passovoy,4.0,2024-09-24
+691,695,33.0,Volunteers,Donation Work,9.0,2024-09-27
+692,696,10.0,Greg,Malland,3.0,2024-09-30
+693,697,10.0,Greg,Malland,10.0,2024-09-28
+694,698,5.0,Lisa,Edwards,3.5,2024-09-30
+695,699,36.0,Volunteer,Volunteers,10.0,2024-09-30
+696,700,36.0,Volunteer,Volunteers,15.0,2024-10-02
+697,701,1.0,Dorothy,Duff,2.0,2024-10-02
+698,702,36.0,Volunteer,Volunteers,44.0,2024-10-03
+699,703,10.0,Greg,Malland,2.0,2024-10-06
+700,704,10.0,Greg,Malland,0.5,2024-10-04
+701,705,10.0,Greg,Malland,2.0,2024-10-06
+702,706,25.0,Distribution,Team,69.0,2024-10-07
+703,707,25.0,Distribution,Team,0.0,2024-10-07
+704,708,5.0,Lisa,Edwards,3.5,2024-10-07
+705,709,33.0,Volunteers,Donation Work,1.5,2024-10-02
+706,710,33.0,Volunteers,Donation Work,1.5,2024-10-02
+707,711,33.0,Volunteers,Donation Work,1.5,2024-10-04
+708,712,29.0,Volunteers,Grocery Rescue,2.5,2024-10-05
+709,713,30.0,Volunteers of,America,1.5,2024-10-05
+710,714,30.0,Volunteers of,America,1.5,2024-10-05
+711,715,31.0,Volunteers,Distribution Day - Tuesday,2.5,2024-10-08
+712,716,10.0,Greg,Malland,2.5,2024-10-08
+713,717,10.0,Greg,Malland,2.0,2024-10-07
+714,718,10.0,Greg,Malland,2.0,2024-10-10
+715,719,10.0,Greg,Malland,1.0,2024-10-10
+716,720,5.0,Lisa,Edwards,2.0,2024-10-10
+717,721,36.0,Volunteer,Volunteers,1.0,2024-10-10
+718,722,10.0,Greg,Malland,2.0,2024-10-11
+719,723,33.0,Volunteers,Donation Work,4.5,2024-10-14
+720,724,36.0,Volunteer,Volunteers,1.5,2024-10-05
+721,725,36.0,Volunteer,Volunteers,1.5,2024-10-11
+722,726,36.0,Volunteer,Volunteers,3.0,2024-10-16
+723,727,36.0,Volunteer,Volunteers,1.5,2024-10-18
+724,728,36.0,Volunteer,Volunteers,3.5,2024-10-21
+725,729,25.0,Distribution,Team,65.0,2024-10-21
+726,730,31.0,Volunteers,Distribution Day - Tuesday,34.0,2024-10-22
+727,731,31.0,Volunteers,Distribution Day - Tuesday,2.0,2024-10-22
+728,732,8.0,Nancy,Passovoy,23.0,2024-10-20
+729,733,5.0,Lisa,Edwards,1.5,2024-10-23
+730,734,33.0,Volunteers,Donation Work,2.5,2024-10-28
+731,735,36.0,Volunteer,Volunteers,4.0,2024-10-31
+732,736,5.0,Lisa,Edwards,5.0,2024-10-31
+733,737,36.0,Volunteer,Volunteers,4.0,2024-11-01
+734,738,4.0,Toni,Massey,3.0,2024-09-30
+735,739,4.0,Toni,Massey,4.0,2024-09-30
+736,740,36.0,Volunteer,Volunteers,4.5,2024-10-02
+737,741,36.0,Volunteer,Volunteers,1.5,2024-10-04
+738,742,36.0,Volunteer,Volunteers,4.0,2024-10-05
+739,743,36.0,Volunteer,Volunteers,1.5,2024-10-11
+740,744,36.0,Volunteer,Volunteers,3.0,2024-10-12
+741,745,36.0,Volunteer,Volunteers,3.0,2024-10-16
+742,746,36.0,Volunteer,Volunteers,4.0,2024-10-25
+743,747,36.0,Volunteer,Volunteers,3.0,2024-10-28
+744,748,4.0,Toni,Massey,3.0,2024-10-31
+745,749,4.0,Toni,Massey,4.0,2024-10-31
+746,750,5.0,Lisa,Edwards,2.0,2024-11-07
+747,751,10.0,Greg,Malland,1.0,2024-11-09
+748,752,10.0,Greg,Malland,3.0,2024-11-08
+749,753,10.0,Greg,Malland,1.0,2024-11-06
+750,754,29.0,Volunteers,Grocery Rescue,2.0,2024-11-02
+751,755,30.0,Volunteers of,America,3.0,2024-11-04
+752,756,30.0,Volunteers of,America,1.0,2024-11-02
+753,757,33.0,Volunteers,Donation Work,2.0,2024-11-06
+754,758,29.0,Volunteers,Grocery Rescue,2.5,2024-11-09
+755,759,30.0,Volunteers of,America,7.0,2024-11-09
+756,760,25.0,Distribution,Team,70.0,2024-11-11
+757,761,31.0,Volunteers,Distribution Day - Tuesday,2.5,2024-11-12
+758,762,5.0,Lisa,Edwards,1.0,2024-11-13
+759,763,36.0,Volunteer,Volunteers,6.5,2024-11-15
+760,764,5.0,Lisa,Edwards,2.0,2024-11-14
+761,765,10.0,Greg,Malland,2.0,2024-11-11
+762,766,10.0,Greg,Malland,2.0,2024-11-14
+763,767,10.0,Greg,Malland,0.5,2024-11-11
+764,768,33.0,Volunteers,Donation Work,3.0,2024-11-18
+765,769,5.0,Lisa,Edwards,1.5,2024-11-19
+766,770,33.0,Volunteers,Donation Work,7.0,2024-11-21
+767,771,33.0,Volunteers,Donation Work,6.5,2024-11-22
+768,772,8.0,Nancy,Passovoy,23.25,2024-11-24
+769,773,33.0,Volunteers,Donation Work,1.0,2024-11-14
+770,774,29.0,Volunteers,Grocery Rescue,2.5,2024-11-16
+771,775,33.0,Volunteers,Donation Work,2.0,2024-11-16
+772,776,30.0,Volunteers of,America,1.0,2024-11-18
+773,777,33.0,Volunteers,Donation Work,1.5,2024-11-20
+774,778,36.0,Volunteer,Volunteers,0.5,2024-11-20
+775,779,30.0,Volunteers of,America,2.0,2024-11-20
+776,780,31.0,Volunteers,Distribution Day - Tuesday,2.5,2024-11-26
+777,781,25.0,Distribution,Team,90.0,2024-11-25
+778,782,4.0,Toni,Massey,4.0,2024-11-26
+779,783,4.0,Toni,Massey,3.0,2024-11-26
+780,784,36.0,Volunteer,Volunteers,6.0,2024-11-27
+781,785,5.0,Lisa,Edwards,4.0,2024-11-27
+782,786,12.0,Kim,Voetberg,1.5,2024-11-08
+783,787,12.0,Kim,Voetberg,2.0,2024-11-15
+784,788,12.0,Kim,Voetberg,2.5,2024-11-20
+785,789,12.0,Kim,Voetberg,2.0,2024-11-22
+786,790,10.0,Greg,Malland,1.0,2024-11-30
+787,791,10.0,Greg,Malland,1.0,2024-11-30
+788,792,10.0,Greg,Malland,1.0,2024-11-15
+789,793,10.0,Greg,Malland,1.0,2024-11-16
+790,794,10.0,Greg,Malland,2.0,2024-11-18
+791,795,10.0,Greg,Malland,1.5,2024-11-19
+792,796,10.0,Greg,Malland,1.5,2024-11-20
+793,797,10.0,Greg,Malland,3.0,2024-11-21
+794,798,10.0,Greg,Malland,2.0,2024-11-25
+795,799,10.0,Greg,Malland,3.0,2024-11-26
+796,800,10.0,Greg,Malland,2.0,2024-11-29
+797,801,12.0,Kim,Voetberg,3.0,2024-11-29
+798,802,36.0,Volunteer,Volunteers,16.0,2024-11-04
+799,803,36.0,Volunteer,Volunteers,8.0,2024-11-18
+800,804,1.0,Dorothy,Duff,2.0,2024-11-30
+801,805,5.0,Lisa,Edwards,1.0,2024-12-02
+802,806,36.0,Volunteer,Volunteers,6.0,2024-12-03
+803,807,10.0,Greg,Malland,2.0,2024-12-02
+804,808,10.0,Greg,Malland,1.0,2024-12-03
+805,809,10.0,Greg,Malland,1.0,2024-12-02
+806,810,36.0,Volunteer,Volunteers,8.0,2024-11-02
+807,811,36.0,Volunteer,Volunteers,4.0,2024-11-04
+808,812,36.0,Volunteer,Volunteers,4.0,2024-11-06
+809,813,36.0,Volunteer,Volunteers,2.5,2024-11-09
+810,814,36.0,Volunteer,Volunteers,7.0,2024-11-11
+811,815,36.0,Volunteer,Volunteers,2.0,2024-11-14
+812,816,36.0,Volunteer,Volunteers,6.5,2024-11-16
+813,817,36.0,Volunteer,Volunteers,1.0,2024-11-18
+814,818,36.0,Volunteer,Volunteers,2.0,2024-11-20
+815,819,36.0,Volunteer,Volunteers,8.5,2024-11-25
+816,820,36.0,Volunteer,Volunteers,2.25,2024-11-30
+817,821,1.0,Dorothy,Duff,4.0,2024-12-01
+818,822,1.0,Dorothy,Duff,2.0,2024-12-02
+819,823,1.0,Dorothy,Duff,2.0,2024-12-03
+820,824,36.0,Volunteer,Volunteers,8.0,2024-12-03
+821,825,33.0,Volunteers,Donation Work,11.0,2024-12-05
+822,826,30.0,Volunteers of,America,1.0,2024-12-02
+823,827,30.0,Volunteers of,America,2.0,2024-12-10
+824,828,30.0,Volunteers of,America,1.0,2024-12-10
+825,829,30.0,Volunteers of,America,2.5,2024-12-02
+826,830,30.0,Volunteers of,America,2.0,2024-12-04
+827,831,30.0,Volunteers of,America,0.0,2024-12-10
+828,832,30.0,Volunteers of,America,2.0,2024-12-07
+829,833,30.0,Volunteers of,America,2.0,2024-12-07
+830,834,30.0,Volunteers of,America,1.5,2024-12-09
+831,835,31.0,Volunteers,Distribution Day - Tuesday,40.0,2024-12-10
+832,836,10.0,Greg,Malland,3.0,2024-12-10
+833,837,10.0,Greg,Malland,2.0,2024-12-09
+834,838,10.0,Greg,Malland,1.0,2024-12-09
+835,839,10.0,Greg,Malland,0.0,2024-12-10
+836,840,10.0,Greg,Malland,0.0,2024-12-10
+837,841,10.0,Greg,Malland,2.0,2024-12-08
+838,842,10.0,Greg,Malland,1.0,2024-12-05
+839,843,25.0,Distribution,Team,69.0,2024-12-09
+840,844,5.0,Lisa,Edwards,1.0,2024-12-11
+841,845,10.0,Greg,Malland,1.0,2024-12-12
+842,846,10.0,Greg,Malland,1.5,2024-12-12
+843,847,10.0,Greg,Malland,0.5,2024-12-12
+844,848,33.0,Volunteers,Donation Work,9.0,2024-12-12
+845,849,4.0,Toni,Massey,3.0,2024-12-15
+846,850,4.0,Toni,Massey,4.0,2024-12-15
+847,851,10.0,Greg,Malland,1.5,2024-12-16
+848,852,10.0,Greg,Malland,0.5,2024-12-16
+849,853,10.0,Greg,Malland,0.5,2024-12-16
+850,854,10.0,Greg,Malland,0.0,2024-12-16
+851,855,10.0,Greg,Malland,0.0,2024-12-16
+852,856,10.0,Greg,Malland,0.0,2024-12-16
+853,857,25.0,Distribution,Team,76.0,2024-12-16
+854,858,33.0,Volunteers,Donation Work,5.0,2024-12-11
+855,859,30.0,Volunteers of,America,1.5,2024-12-16
+856,860,30.0,Volunteers of,America,3.0,2024-12-16
+857,861,31.0,Volunteers,Distribution Day - Tuesday,37.5,2024-12-17
+858,862,8.0,Nancy,Passovoy,21.5,2024-12-15
+859,863,33.0,Volunteers,Donation Work,3.5,2024-12-21
+860,864,10.0,Greg,Malland,2.0,2024-12-23
+861,865,10.0,Greg,Malland,1.0,2024-12-22
+862,866,1.0,Dorothy,Duff,4.0,2024-12-27
+863,867,1.0,Dorothy,Duff,3.0,2024-12-12
+864,868,5.0,Lisa,Edwards,3.0,2024-12-28
+865,869,36.0,Volunteer,Volunteers,15.0,2024-12-27
+866,870,33.0,Volunteers,Donation Work,4.0,2024-12-11
+867,871,33.0,Volunteers,Donation Work,2.5,2024-12-12
+868,872,33.0,Volunteers,Donation Work,4.0,2024-12-13
+869,873,33.0,Volunteers,Donation Work,2.0,2024-12-27
+870,874,33.0,Volunteers,Donation Work,10.5,2024-12-30
+871,875,10.0,Greg,Malland,1.5,2024-12-30
+872,876,10.0,Greg,Malland,1.0,2024-12-30
+873,877,36.0,Volunteer,Volunteers,1.0,2024-12-31
+874,878,1.0,Dorothy,Duff,4.0,2024-12-30
+875,879,1.0,Dorothy,Duff,3.5,2024-12-31
+876,880,36.0,Volunteer,Volunteers,7.0,2025-11-18
+877,881,36.0,Volunteer,Volunteers,2.0,2025-12-04
+878,882,36.0,Volunteer,Volunteers,4.0,2025-12-23
+879,883,36.0,Volunteer,Volunteers,5.0,2025-12-26
+880,884,36.0,Volunteer,Volunteers,2.5,2025-12-31
+881,885,36.0,Volunteer,Volunteers,2.5,2024-12-31
+882,886,5.0,Lisa,Edwards,2.0,2025-01-03
+883,887,10.0,Greg,Malland,2.0,2025-01-05
+884,888,10.0,Greg,Malland,2.0,2025-01-06
+885,889,10.0,Greg,Malland,2.0,2025-01-07
+886,890,33.0,Volunteers,Donation Work,4.0,2025-01-06
+887,891,5.0,Lisa,Edwards,2.0,2025-01-07
+888,892,5.0,Lisa,Edwards,3.0,2025-01-09
+889,893,5.0,Lisa,Edwards,3.5,2025-01-09
+890,894,25.0,Distribution,Team,72.0,2025-01-13
+891,895,29.0,Volunteers,Grocery Rescue,3.0,2025-01-02
+892,896,29.0,Volunteers,Grocery Rescue,0.5,2025-01-06
+893,897,33.0,Volunteers,Donation Work,7.0,2025-01-08
+894,898,33.0,Volunteers,Donation Work,3.0,2025-01-09
+895,899,33.0,Volunteers,Donation Work,1.0,2025-01-10
+896,900,33.0,Volunteers,Donation Work,0.0,2025-01-14
+897,901,33.0,Volunteers,Donation Work,2.5,2025-01-13
+898,902,33.0,Volunteers,Donation Work,37.5,2025-01-14
+899,903,5.0,Lisa,Edwards,1.0,2025-01-15
+900,904,33.0,Volunteers,Donation Work,3.5,2025-01-15
+901,905,5.0,Lisa,Edwards,1.0,2025-01-15
+902,906,10.0,Greg,Malland,2.5,2025-01-13
+903,907,10.0,Greg,Malland,1.0,2025-01-13
+904,908,10.0,Greg,Malland,1.0,2025-01-14
+905,909,33.0,Volunteers,Donation Work,5.5,2025-01-20
+906,910,10.0,Greg,Malland,1.0,2025-01-22
+907,911,10.0,Greg,Malland,2.5,2025-01-22
+908,912,33.0,Volunteers,Donation Work,42.0,2025-01-20
+909,913,33.0,Volunteers,Donation Work,4.0,2025-01-18
+910,914,33.0,Volunteers,Donation Work,6.0,2025-01-23
+911,915,10.0,Greg,Malland,1.5,2025-01-23
+912,916,5.0,Lisa,Edwards,2.0,2025-01-25
+913,917,33.0,Volunteers,Donation Work,2.0,2025-01-24
+914,918,33.0,Volunteers,Donation Work,1.5,2025-01-25
+915,919,33.0,Volunteers,Donation Work,3.0,2025-01-27
+916,920,30.0,Volunteers of,America,0.5,2025-01-27
+917,921,30.0,Volunteers of,America,2.0,2025-01-27
+918,922,31.0,Volunteers,Distribution Day - Tuesday,61.0,2025-01-27
+919,923,31.0,Volunteers,Distribution Day - Tuesday,52.0,2025-01-28
+920,924,36.0,Volunteer,Volunteers,5.0,2025-01-20
+921,925,36.0,Volunteer,Volunteers,4.0,2025-01-07
+922,926,1.0,Dorothy,Duff,3.0,2025-01-14
+923,927,1.0,Dorothy,Duff,2.0,2025-01-04
+924,928,1.0,Dorothy,Duff,8.0,2025-01-16
+925,929,1.0,Dorothy,Duff,5.0,2025-01-17
+926,930,1.0,Dorothy,Duff,0.0,2025-01-30
+927,931,1.0,Dorothy,Duff,0.0,2025-01-30
+928,932,1.0,Dorothy,Duff,2.0,2025-01-30
+929,933,8.0,Nancy,Passovoy,29.0,2025-01-22
+930,934,10.0,Greg,Malland,1.0,2025-01-31
+931,935,10.0,Greg,Malland,2.0,2025-01-27
+932,936,10.0,Greg,Malland,4.0,2025-01-27
+933,937,10.0,Greg,Malland,1.0,2025-01-28
+934,938,5.0,Lisa,Edwards,1.0,2025-02-01
+935,939,36.0,Volunteer,Volunteers,1.5,2025-01-31
+936,940,6.0,Zhanna,Kochubey,2.5,2025-01-31
+937,941,36.0,Volunteer,Volunteers,5.0,2025-02-01
+938,942,36.0,Volunteer,Volunteers,0.5,2025-02-04
+939,943,36.0,Volunteer,Volunteers,0.5,2025-01-31
+940,944,36.0,Volunteer,Volunteers,17.5,2025-02-05
+941,945,33.0,Volunteers,Donation Work,2.5,2025-02-05
+942,946,36.0,Volunteer,Volunteers,4.5,2025-02-05
+943,947,10.0,Greg,Malland,2.5,2025-02-06
+944,948,25.0,Distribution,Team,62.0,2025-02-10
+945,949,31.0,Volunteers,Distribution Day - Tuesday,35.0,2025-02-11
+946,950,5.0,Lisa,Edwards,2.0,2025-02-13
+947,951,28.0,Mari,Rogers,1.5,2025-02-13
+948,952,5.0,Lisa,Edwards,1.5,2025-02-17
+949,953,5.0,Lisa,Edwards,1.5,2025-02-19
+950,954,25.0,Distribution,Team,60.0,2025-02-24
+951,955,31.0,Volunteers,Distribution Day - Tuesday,42.5,2025-02-25
+952,956,10.0,Greg,Malland,3.0,2025-02-25
+953,957,10.0,Greg,Malland,2.0,2025-02-24
+954,958,10.0,Greg,Malland,1.0,2025-02-23
+955,959,10.0,Greg,Malland,2.0,2025-02-17
+956,960,10.0,Greg,Malland,2.0,2025-02-10
+957,961,10.0,Greg,Malland,0.0,2025-02-25
+958,962,8.0,Nancy,Passovoy,35.0,2025-02-23
+959,963,5.0,Lisa,Edwards,1.0,2025-02-25
+960,964,5.0,Lisa,Edwards,5.0,2025-02-26
+961,965,5.0,Lisa,Edwards,1.5,2025-02-27
+962,966,1.0,Dorothy,Duff,5.0,2025-02-02
+963,967,1.0,Dorothy,Duff,3.0,2025-02-03
+964,968,1.0,Dorothy,Duff,0.0,2025-02-05
+965,969,1.0,Dorothy,Duff,1.0,2025-02-02
+966,970,1.0,Dorothy,Duff,1.5,2025-02-13
+967,971,1.0,Dorothy,Duff,4.0,2025-02-17
+968,972,1.0,Dorothy,Duff,2.0,2025-02-20
+969,973,1.0,Dorothy,Duff,6.0,2025-02-25
+970,974,1.0,Dorothy,Duff,8.0,2025-02-26
+971,975,1.0,Dorothy,Duff,7.0,2025-02-28
+972,976,36.0,Volunteer,Volunteers,16.0,2025-02-05
+973,977,1.0,Dorothy,Duff,3.5,2025-02-14
+974,978,12.0,Kim,Voetberg,4.0,2025-02-07
+975,979,12.0,Kim,Voetberg,2.0,2025-02-13
+976,980,12.0,Kim,Voetberg,4.0,2025-02-15
+977,981,12.0,Kim,Voetberg,4.0,2025-02-19
+978,982,12.0,Kim,Voetberg,2.0,2025-02-21
+979,983,12.0,Kim,Voetberg,2.0,2025-02-21
+980,984,10.0,Greg,Malland,1.0,2025-03-02
+981,985,10.0,Greg,Malland,1.5,2025-02-27
+982,986,5.0,Lisa,Edwards,1.0,2025-03-02
+983,987,36.0,Volunteer,Volunteers,3.0,2025-02-08
+984,988,36.0,Volunteer,Volunteers,2.0,2025-02-17
+985,989,36.0,Volunteer,Volunteers,5.0,2025-02-27
+986,990,36.0,Volunteer,Volunteers,2.0,2025-02-19
+987,991,36.0,Volunteer,Volunteers,1.0,2025-02-09
+988,992,36.0,Volunteer,Volunteers,1.0,2025-02-17
+989,993,36.0,Volunteer,Volunteers,1.5,2025-02-22
+990,994,36.0,Volunteer,Volunteers,1.5,2025-02-24
+991,995,36.0,Volunteer,Volunteers,3.0,2025-02-10
+992,996,36.0,Volunteer,Volunteers,1.5,2025-02-22
+993,997,36.0,Volunteer,Volunteers,1.0,2025-02-24
+994,998,6.0,Zhanna,Kochubey,1.0,2025-02-13
+995,999,6.0,Zhanna,Kochubey,1.0,2025-02-25
+996,1000,6.0,Zhanna,Kochubey,2.5,2025-02-28
+997,1001,28.0,Mari,Rogers,4.0,2025-03-03
+998,1002,36.0,Volunteer,Volunteers,13.0,2025-03-03
+999,1003,10.0,Greg,Malland,2.5,2025-03-03
+1000,1004,6.0,Zhanna,Kochubey,0.5,2025-02-28
+1001,1005,5.0,Lisa,Edwards,1.5,2025-03-05
+1002,1006,10.0,Greg,Malland,1.0,2025-03-07
+1003,1007,10.0,Greg,Malland,2.0,2025-03-10
+1004,1008,10.0,Greg,Malland,1.0,2025-03-10
+1005,1009,30.0,Volunteers of,America,2.0,2025-03-03
+1006,1010,30.0,Volunteers of,America,1.5,2025-03-05
+1007,1011,30.0,Volunteers of,America,1.0,2025-03-05
+1008,1012,30.0,Volunteers of,America,4.0,2025-03-05
+1009,1013,30.0,Volunteers of,America,1.0,2025-03-07
+1010,1014,30.0,Volunteers of,America,4.0,2025-03-09
+1011,1015,25.0,Distribution,Team,64.0,2025-03-10
+1012,1016,4.0,Toni,Massey,2.0,2025-01-15
+1013,1017,4.0,Toni,Massey,2.0,2025-02-15
+1014,1018,4.0,Toni,Massey,2.0,2025-03-08
+1015,1019,4.0,Toni,Massey,3.0,2025-01-31
+1016,1020,4.0,Toni,Massey,10.0,2025-02-28
+1017,1021,31.0,Volunteers,Distribution Day - Tuesday,51.0,2025-03-11
+1018,1022,5.0,Lisa,Edwards,2.5,2025-03-13
+1019,1023,5.0,Lisa,Edwards,1.0,2025-03-13
+1020,1024,26.0,John,Murray,1.5,2025-03-13
+1021,1025,33.0,Volunteers,Donation Work,5.5,2025-03-18
+1022,1026,36.0,Volunteer,Volunteers,8.0,2025-03-17
+1023,1027,12.0,Kim,Voetberg,4.0,2025-03-01
+1024,1028,12.0,Kim,Voetberg,2.0,2025-03-10
+1025,1029,12.0,Kim,Voetberg,2.0,2025-03-13
+1026,1030,12.0,Kim,Voetberg,4.0,2025-03-19
+1027,1031,10.0,Greg,Malland,2.0,2025-03-20
+1028,1032,10.0,Greg,Malland,1.0,2025-03-21
+1029,1033,10.0,Greg,Malland,0.0,2025-03-22
+1030,1034,5.0,Lisa,Edwards,0.5,2025-03-24
+1031,1035,5.0,Lisa,Edwards,2.0,2025-03-24
+1032,1036,29.0,Volunteers,Grocery Rescue,3.0,2025-03-15
+1033,1037,29.0,Volunteers,Grocery Rescue,2.0,2025-03-15
+1034,1038,29.0,Volunteers,Grocery Rescue,1.5,2025-03-15
+1035,1039,29.0,Volunteers,Grocery Rescue,2.5,2025-03-17
+1036,1040,29.0,Volunteers,Grocery Rescue,3.5,2025-03-17
+1037,1041,29.0,Volunteers,Grocery Rescue,1.5,2025-03-21
+1038,1042,29.0,Volunteers,Grocery Rescue,30.0,2025-03-21
+1039,1043,29.0,Volunteers,Grocery Rescue,2.0,2025-03-21
+1040,1044,29.0,Volunteers,Grocery Rescue,2.0,2025-03-24
+1041,1045,31.0,Volunteers,Distribution Day - Tuesday,45.0,2025-03-25
+1042,1046,31.0,Volunteers,Distribution Day - Tuesday,45.0,2025-03-25
+1043,1047,25.0,Distribution,Team,70.0,2025-03-24
+1044,1048,10.0,Greg,Malland,2.0,2025-03-24
+1045,1049,10.0,Greg,Malland,1.5,2025-03-25
+1046,1050,10.0,Greg,Malland,1.0,2025-03-26
+1047,1051,5.0,Lisa,Edwards,1.0,2025-03-29
+1048,1052,36.0,Volunteer,Volunteers,6.0,2025-03-28
+1049,1053,12.0,Kim,Voetberg,3.0,2025-03-29
+1050,1054,1.0,Dorothy,Duff,2.0,2025-03-01
+1051,1055,1.0,Dorothy,Duff,3.0,2025-03-02
+1052,1056,1.0,Dorothy,Duff,5.0,2025-03-03
+1053,1057,1.0,Dorothy,Duff,3.0,2025-03-04
+1054,1058,1.0,Dorothy,Duff,3.0,2025-03-05
+1055,1059,1.0,Dorothy,Duff,2.0,2025-03-06
+1056,1060,1.0,Dorothy,Duff,1.5,2025-03-07
+1057,1061,1.0,Dorothy,Duff,3.0,2025-03-08
+1058,1062,1.0,Dorothy,Duff,1.0,2025-03-09
+1059,1063,1.0,Dorothy,Duff,1.5,2025-03-10
+1060,1064,1.0,Dorothy,Duff,2.0,2025-03-11
+1061,1065,1.0,Dorothy,Duff,2.5,2025-03-12
+1062,1066,1.0,Dorothy,Duff,3.0,2025-03-13
+1063,1067,1.0,Dorothy,Duff,2.0,2025-03-14
+1064,1068,1.0,Dorothy,Duff,1.5,2025-03-15
+1065,1069,1.0,Dorothy,Duff,1.5,2025-03-17
+1066,1070,1.0,Dorothy,Duff,2.0,2025-03-18
+1067,1071,1.0,Dorothy,Duff,2.5,2025-03-19
+1068,1072,1.0,Dorothy,Duff,2.5,2025-03-21
+1069,1073,4.0,Toni,Massey,12.0,2025-03-31
+1070,1074,1.0,Dorothy,Duff,3.5,2025-03-23
+1071,1075,1.0,Dorothy,Duff,2.0,2025-03-25
+1072,1076,1.0,Dorothy,Duff,4.0,2025-03-26
+1073,1077,1.0,Dorothy,Duff,3.0,2025-03-27
+1074,1078,1.0,Dorothy,Duff,3.0,2025-03-28
+1075,1079,1.0,Dorothy,Duff,5.0,2025-03-29
+1076,1080,1.0,Dorothy,Duff,2.5,2025-03-30
+1077,1081,1.0,Dorothy,Duff,8.0,2025-03-31
+1078,1082,36.0,Volunteer,Volunteers,6.0,2025-03-04
+1079,1083,36.0,Volunteer,Volunteers,12.0,2025-03-05
+1080,1084,36.0,Volunteer,Volunteers,19.0,2025-03-23
+1081,1085,36.0,Volunteer,Volunteers,12.0,2025-03-01
+1082,1086,5.0,Lisa,Edwards,3.0,2025-03-31
+1083,1087,5.0,Lisa,Edwards,3.0,2025-04-01
+1084,1088,33.0,Volunteers,Donation Work,18.0,2025-04-01
+1085,1089,33.0,Volunteers,Donation Work,19.0,2025-03-31
+1086,1090,1.0,Dorothy,Duff,4.0,2025-04-01
+1087,1091,36.0,Volunteer,Volunteers,5.0,2025-04-01
+1088,1092,36.0,Volunteer,Volunteers,2.0,2025-03-24
+1089,1093,36.0,Volunteer,Volunteers,3.0,2025-03-29
+1090,1100,10.0,Greg,Malland,2.0,2025-04-02
+1091,1096,6.0,Zhanna,Kochubey,1.0,2025-03-13
+1092,1097,6.0,Zhanna,Kochubey,2.5,2025-03-31
+1093,1098,6.0,Zhanna,Kochubey,0.0,2025-04-01
+1094,1101,25.0,Distribution,Team,72.0,2025-04-07
+1095,1102,10.0,Greg,Malland,2.0,2025-04-07
+1096,1103,36.0,Volunteer,Volunteers,43.0,2025-04-08
+1097,1104,12.0,Kim,Voetberg,3.0,2025-04-07
+1098,1105,5.0,Lisa,Edwards,2.0,2025-04-11
+1099,1106,5.0,Lisa,Edwards,1.5,2025-04-14
+1100,1107,5.0,Lisa,Edwards,1.0,2025-04-14
+1101,1108,33.0,Volunteers,Donation Work,2.5,2025-04-14
+1102,1109,5.0,Lisa,Edwards,1.0,2025-04-15
+1103,1110,4.0,Toni,Massey,6.0,2025-04-19
+1104,1111,25.0,Distribution,Team,82.0,2025-04-21
+1105,1112,8.0,Nancy,Passovoy,25.0,2025-04-20
+1106,1113,31.0,Volunteers,Distribution Day - Tuesday,49.5,2025-04-22
+1107,1114,10.0,Greg,Malland,3.0,2025-04-21
+1108,1115,10.0,Greg,Malland,1.0,2025-04-23
+1109,1116,10.0,Greg,Malland,3.0,2025-04-28
+1110,1117,5.0,Lisa,Edwards,2.5,2025-04-28
+1111,1118,5.0,Lisa,Edwards,1.0,2025-04-28
+1112,1119,33.0,Volunteers,Donation Work,1.5,2025-04-28
+1113,1120,1.0,Dorothy,Duff,4.0,2025-04-02
+1114,1121,1.0,Dorothy,Duff,1.0,2025-04-03
+1115,1122,1.0,Dorothy,Duff,2.0,2025-04-24
+1116,1123,1.0,Dorothy,Duff,5.5,2025-04-25
+1117,1124,1.0,Dorothy,Duff,6.0,2025-04-28
+1118,1125,1.0,Dorothy,Duff,3.0,2025-04-10
+1119,1126,1.0,Dorothy,Duff,2.0,2025-04-12
+1120,1127,1.0,Dorothy,Duff,4.0,2025-04-07
+1121,1128,1.0,Dorothy,Duff,1.0,2025-04-23
+1122,1129,1.0,Dorothy,Duff,1.0,2025-04-18
+1123,1130,1.0,Dorothy,Duff,4.0,2025-04-15
+1124,1131,36.0,Volunteer,Volunteers,14.0,2025-04-02
+1125,1132,10.0,Greg,Malland,2.0,2025-04-29
+1126,1133,5.0,Lisa,Edwards,2.5,2025-04-30
+1127,1134,36.0,Volunteer,Volunteers,6.0,2025-04-30
+1128,1135,1.0,Dorothy,Duff,8.0,2025-04-30
+1129,1136,36.0,Volunteer,Volunteers,2.0,2025-04-28
+1130,1137,36.0,Volunteer,Volunteers,2.0,2025-04-29
+1131,1138,36.0,Volunteer,Volunteers,4.0,2025-04-30
+1132,1139,36.0,Volunteer,Volunteers,3.0,2025-04-01
+1133,1140,36.0,Volunteer,Volunteers,4.0,2025-04-02
+1134,1141,36.0,Volunteer,Volunteers,3.0,2025-04-03
+1135,1142,36.0,Volunteer,Volunteers,1.5,2025-04-04
+1136,1143,36.0,Volunteer,Volunteers,26.0,2025-04-05
+1137,1144,36.0,Volunteer,Volunteers,1.0,2025-04-04
+1138,1145,36.0,Volunteer,Volunteers,1.0,2025-04-05
+1139,1146,36.0,Volunteer,Volunteers,2.5,2025-04-05
+1140,1147,36.0,Volunteer,Volunteers,3.0,2025-04-07
+1141,1148,36.0,Volunteer,Volunteers,3.0,2025-04-11
+1142,1149,36.0,Volunteer,Volunteers,3.5,2025-04-12
+1143,1150,36.0,Volunteer,Volunteers,6.5,2025-04-14
+1144,1151,36.0,Volunteer,Volunteers,3.0,2025-04-17
+1145,1152,36.0,Volunteer,Volunteers,2.0,2025-05-01
+1146,1153,36.0,Volunteer,Volunteers,1.0,2025-04-21
+1147,1154,36.0,Volunteer,Volunteers,1.5,2025-04-25
+1148,1155,36.0,Volunteer,Volunteers,7.5,2025-04-26
+1149,1156,36.0,Volunteer,Volunteers,3.0,2025-04-28
+1150,1157,36.0,Volunteer,Volunteers,1.0,2025-04-09
+1151,1158,36.0,Volunteer,Volunteers,3.0,2025-04-30
+1152,1159,36.0,Volunteer,Volunteers,0.0,2025-05-01
+1153,1160,36.0,Volunteer,Volunteers,0.5,2025-04-09
+1154,1161,36.0,Volunteer,Volunteers,0.0,2025-05-01
+1155,1162,36.0,Volunteer,Volunteers,1.0,2025-04-09
+1156,1163,36.0,Volunteer,Volunteers,0.0,2025-05-01
+1157,1164,36.0,Volunteer,Volunteers,0.0,2025-05-01
+1158,1165,11.0,Roger,Long,7.5,2025-04-05
+1159,1166,11.0,Roger,Long,7.5,2025-04-11
+1160,1167,11.0,Roger,Long,7.5,2025-04-18
+1161,1168,11.0,Roger,Long,7.5,2025-04-25
+1162,1169,25.0,Distribution,Team,78.0,2025-05-05
+1163,1170,36.0,Volunteer,Volunteers,3.0,2025-05-01
+1164,1171,36.0,Volunteer,Volunteers,1.0,2025-05-02
+1165,1172,36.0,Volunteer,Volunteers,0.0,2025-05-06
+1166,1173,36.0,Volunteer,Volunteers,6.0,2025-05-05
+1167,1174,31.0,Volunteers,Distribution Day - Tuesday,51.0,2025-05-06
+1168,1175,5.0,Lisa,Edwards,2.0,2025-05-03
+1169,1176,33.0,Volunteers,Donation Work,1.5,2025-05-03
+1170,1177,10.0,Greg,Malland,2.0,2025-05-06
+1171,1178,10.0,Greg,Malland,1.0,2025-05-04
+1172,1179,5.0,Lisa,Edwards,5.5,2025-05-08
+1173,1180,5.0,Lisa,Edwards,1.5,2025-05-09
+1174,1181,10.0,Greg,Malland,2.0,2025-05-08
+1175,1182,10.0,Greg,Malland,1.0,2025-05-08
+1176,1183,10.0,Greg,Malland,1.5,2025-05-09
+1177,1184,5.0,Lisa,Edwards,2.5,2025-05-10
+1178,1185,5.0,Lisa,Edwards,3.5,2025-05-14
+1179,1186,33.0,Volunteers,Donation Work,9.5,2025-05-14
+1180,1187,25.0,Distribution,Team,88.0,2025-05-19
+1181,1188,33.0,Volunteers,Donation Work,3.0,2025-05-07
+1182,1189,33.0,Volunteers,Donation Work,4.0,2025-05-15
+1183,1190,33.0,Volunteers,Donation Work,4.5,2025-05-18
+1184,1191,33.0,Volunteers,Donation Work,2.0,2025-05-18
+1185,1192,29.0,Volunteers,Grocery Rescue,1.5,2025-05-09
+1186,1193,36.0,Volunteer,Volunteers,2.0,2025-05-17
+1187,1194,36.0,Volunteer,Volunteers,3.0,2025-05-17
+1188,1195,33.0,Volunteers,Donation Work,6.0,2025-05-10
+1189,1196,29.0,Volunteers,Grocery Rescue,2.0,2025-05-16
+1190,1197,30.0,Volunteers of,America,3.0,2025-05-19
+1191,1198,31.0,Volunteers,Distribution Day - Tuesday,63.0,2025-05-20
+1192,1199,5.0,Lisa,Edwards,1.5,2025-05-20
+1193,1200,36.0,Volunteer,Volunteers,16.0,2025-05-18
+1194,1201,33.0,Volunteers,Donation Work,14.0,2025-05-10
+1195,1202,33.0,Volunteers,Donation Work,22.0,2025-05-12
+1196,1203,33.0,Volunteers,Donation Work,18.0,2025-05-13
+1197,1204,33.0,Volunteers,Donation Work,4.0,2025-05-15
+1198,1205,1.0,Dorothy,Duff,8.0,2025-05-10
+1199,1206,1.0,Dorothy,Duff,3.0,2025-05-11
+1200,1207,1.0,Dorothy,Duff,8.0,2025-05-12
+1201,1208,1.0,Dorothy,Duff,8.0,2025-05-13
+1202,1209,1.0,Dorothy,Duff,6.0,2025-05-15
+1203,1210,1.0,Dorothy,Duff,4.0,2025-05-20
+1204,1211,5.0,Lisa,Edwards,1.0,2025-05-21
+1205,1212,1.0,Dorothy,Duff,4.0,2025-05-22
+1206,1213,4.0,Toni,Massey,4.0,2025-05-25
+1207,1214,4.0,Toni,Massey,10.0,2025-05-25
+1208,1215,5.0,Lisa,Edwards,2.5,2025-05-27
+1209,1216,33.0,Volunteers,Donation Work,4.5,2025-05-27
+1210,1217,5.0,Lisa,Edwards,3.0,2025-05-30
+1211,1218,11.0,Roger,Long,7.5,2025-05-02
+1212,1219,11.0,Roger,Long,7.5,2025-05-09
+1213,1220,11.0,Roger,Long,7.5,2025-05-16
+1214,1221,11.0,Roger,Long,7.5,2025-05-23
+1215,1222,11.0,Roger,Long,7.5,2025-06-27
+1216,1223,1.0,Dorothy,Duff,2.5,2025-05-31
+1217,1224,1.0,Dorothy,Duff,2.0,2025-05-30
+1218,1225,1.0,Dorothy,Duff,2.5,2025-05-28
+1219,1226,1.0,Dorothy,Duff,5.0,2025-05-07
+1220,1227,1.0,Dorothy,Duff,4.0,2025-05-05
+1221,1228,1.0,Dorothy,Duff,1.5,2025-06-01
+1222,1229,1.0,Dorothy,Duff,2.0,2025-05-01
+1223,1230,1.0,Dorothy,Duff,2.5,2025-05-02
+1224,1231,1.0,Dorothy,Duff,2.0,2025-05-03
+1225,1232,36.0,Volunteer,Volunteers,3.5,2025-05-23
+1226,1233,36.0,Volunteer,Volunteers,4.0,2025-06-01
+1227,1234,36.0,Volunteer,Volunteers,2.0,2025-06-01
+1228,1235,36.0,Volunteer,Volunteers,8.0,2025-05-28
+1229,1236,36.0,Volunteer,Volunteers,3.5,2025-05-31
+1230,1237,36.0,Volunteer,Volunteers,4.0,2025-05-31
+1231,1238,36.0,Volunteer,Volunteers,0.5,2025-05-31
+1232,1239,5.0,Lisa,Edwards,2.5,2025-06-04
+1233,1240,10.0,Greg,Malland,2.0,2025-06-02
+1234,1241,10.0,Greg,Malland,1.0,2025-06-03
+1235,1242,10.0,Greg,Malland,1.0,2025-06-04
+1236,1243,10.0,Greg,Malland,2.0,2025-05-29
+1237,1244,25.0,Distribution,Team,82.0,2025-06-09
+1238,1245,30.0,Volunteers of,America,1.5,2025-06-02
+1239,1246,30.0,Volunteers of,America,2.5,2025-06-02
+1240,1247,30.0,Volunteers of,America,0.0,2025-06-10
+1241,1248,30.0,Volunteers of,America,1.5,2025-06-04
+1242,1249,30.0,Volunteers of,America,1.5,2025-06-04
+1243,1250,30.0,Volunteers of,America,0.0,2025-06-10
+1244,1251,33.0,Volunteers,Donation Work,2.0,2025-06-04
+1245,1252,33.0,Volunteers,Donation Work,1.5,2025-06-06
+1246,1253,33.0,Volunteers,Donation Work,4.0,2025-06-06
+1247,1254,33.0,Volunteers,Donation Work,2.5,2025-06-09
+1248,1255,33.0,Volunteers,Donation Work,2.75,2025-06-09
+1249,1256,31.0,Volunteers,Distribution Day - Tuesday,42.5,2025-06-10
+1250,1257,10.0,Greg,Malland,3.0,2025-06-09
+1251,1258,10.0,Greg,Malland,0.5,2025-06-09
+1252,1259,5.0,Lisa,Edwards,2.0,2025-06-12
+1253,1260,33.0,Volunteers,Donation Work,3.0,2025-06-12
+1254,1261,10.0,Greg,Malland,2.0,2025-06-12
+1255,1262,10.0,Greg,Malland,1.0,2025-06-12
+1256,1263,10.0,Greg,Malland,1.0,2025-06-12
+1257,1264,36.0,Volunteer,Volunteers,7.0,2025-06-03
+1258,1265,36.0,Volunteer,Volunteers,16.0,2025-06-04
+1259,1266,1.0,Dorothy,Duff,4.0,2025-06-02
+1260,1267,1.0,Dorothy,Duff,3.0,2025-06-03
+1261,1268,1.0,Dorothy,Duff,2.5,2025-06-04
+1262,1269,1.0,Dorothy,Duff,3.0,2025-06-05
+1263,1270,1.0,Dorothy,Duff,3.5,2025-06-06
+1264,1271,1.0,Dorothy,Duff,1.5,2025-06-08
+1265,1272,1.0,Dorothy,Duff,2.5,2025-06-10
+1266,1273,1.0,Dorothy,Duff,2.0,2025-06-11
+1267,1274,1.0,Dorothy,Duff,2.0,2025-06-11
+1268,1275,1.0,Dorothy,Duff,6.5,2025-06-12
+1269,1276,1.0,Dorothy,Duff,3.0,2025-06-13
+1270,1277,1.0,Dorothy,Duff,1.5,2025-06-15
+1271,1278,1.0,Dorothy,Duff,6.5,2025-06-16
+1272,1279,5.0,Lisa,Edwards,2.5,2025-06-17
+1273,1280,40.0,Maureen,Traxler,2.0,2025-06-17
+1274,1281,36.0,Volunteer,Volunteers,33.0,2025-06-17
+1275,1282,31.0,Volunteers,Distribution Day - Tuesday,5.0,2025-06-10
+1276,1283,31.0,Volunteers,Distribution Day - Tuesday,2.0,2025-06-12
+1277,1284,31.0,Volunteers,Distribution Day - Tuesday,1.5,2025-06-13
+1278,1285,31.0,Volunteers,Distribution Day - Tuesday,4.0,2025-06-18
+1279,1286,31.0,Volunteers,Distribution Day - Tuesday,3.5,2025-06-18
+1280,1287,31.0,Volunteers,Distribution Day - Tuesday,1.0,2025-06-18
+1281,1288,25.0,Distribution,Team,32.0,2025-06-24
+1282,1289,1.0,Dorothy,Duff,3.5,2025-06-23
+1283,1290,1.0,Dorothy,Duff,6.5,2025-06-24
+1284,1291,1.0,Dorothy,Duff,0.0,2025-06-22
+1285,1292,1.0,Dorothy,Duff,6.0,2025-06-25
+1286,1293,5.0,Lisa,Edwards,5.0,2025-06-27
+1287,1294,25.0,Distribution,Team,80.0,2025-06-23
+1288,1295,4.0,Toni,Massey,4.0,2025-06-29
+1289,1296,4.0,Toni,Massey,0.0,2025-06-29
+1290,1297,4.0,Toni,Massey,10.0,2025-06-29
+1291,1298,42.0,Pam,Anderson,1.5,2025-06-30
+1292,1299,5.0,Lisa,Edwards,3.0,2025-06-30
+1293,1300,33.0,Volunteers,Donation Work,2.5,2025-06-30
+1294,1301,66.0,Rick,Nelson,2.5,2025-06-30
+1295,1302,48.0,Erik,Wold,1.5,2025-06-30
+1296,1303,36.0,Volunteer,Volunteers,2.0,2025-06-10
+1297,1304,36.0,Volunteer,Volunteers,1.0,2025-06-11
+1298,1305,36.0,Volunteer,Volunteers,1.5,2025-06-17
+1299,1306,36.0,Volunteer,Volunteers,3.0,2025-06-18
+1300,1307,36.0,Volunteer,Volunteers,1.0,2025-06-20
+1301,1308,36.0,Volunteer,Volunteers,2.5,2025-06-21
+1302,1309,36.0,Volunteer,Volunteers,6.0,2025-06-23
+1303,1310,36.0,Volunteer,Volunteers,1.5,2025-06-26
+1304,1311,36.0,Volunteer,Volunteers,5.5,2025-06-30
+1305,1312,36.0,Volunteer,Volunteers,5.0,2025-06-30
+1306,1313,36.0,Volunteer,Volunteers,0.0,2025-06-30
+1307,1314,12.0,Kim,Voetberg,2.0,2025-06-16
+1308,1315,12.0,Kim,Voetberg,4.0,2025-06-28
+1309,1316,12.0,Kim,Voetberg,0.0,2025-07-03
+1310,1317,10.0,Greg,Malland,2.5,2025-06-30
+1311,1318,10.0,Greg,Malland,0.5,2025-06-30
+1312,1319,10.0,Greg,Malland,0.0,2025-07-03
+1313,1320,10.0,Greg,Malland,1.5,2025-07-02
+1314,1321,10.0,Greg,Malland,1.0,2025-07-01
+1315,1322,10.0,Greg,Malland,2.0,2025-06-23
+1316,1323,36.0,Volunteer,Volunteers,4.25,2025-07-03
+1317,1324,36.0,Volunteer,Volunteers,0.0,2025-07-03
+1318,1325,36.0,Volunteer,Volunteers,0.75,2025-06-30
+1319,1326,11.0,Roger,Long,2.0,2025-06-02
+1320,1327,11.0,Roger,Long,2.0,2025-06-09
+1321,1328,11.0,Roger,Long,2.0,2025-06-16
+1322,1329,11.0,Roger,Long,2.0,2025-06-23
+1323,1330,11.0,Roger,Long,2.0,2025-06-30
+1324,1331,11.0,Roger,Long,5.0,2025-06-04
+1325,1332,11.0,Roger,Long,5.0,2025-06-11
+1326,1333,11.0,Roger,Long,5.0,2025-06-18
+1327,1334,11.0,Roger,Long,5.0,2025-06-25
+1328,1335,11.0,Roger,Long,2.0,2025-06-12
+1329,1336,11.0,Roger,Long,1.5,2025-06-20
+1330,1337,11.0,Roger,Long,0.0,2025-07-05
+1331,1338,11.0,Roger,Long,0.5,2025-06-20
+1332,1339,11.0,Roger,Long,0.0,2025-07-05
+1333,1340,5.0,Lisa,Edwards,1.5,2025-07-07
+1334,1341,25.0,Distribution,Team,75.0,2025-07-07
+1335,1342,10.0,Greg,Malland,1.0,2025-07-09
+1336,1343,10.0,Greg,Malland,2.0,2025-07-07
+1337,1344,31.0,Volunteers,Distribution Day - Tuesday,42.5,2025-07-08
+1338,1345,5.0,Lisa,Edwards,3.5,2025-07-10
+1339,1346,28.0,Mari,Rogers,1.0,2025-07-10
+1340,1347,87.0,Genelle,Doten,1.5,2025-07-10
+1341,1348,86.0,Diane,Lear,1.0,2025-07-10
+1342,1349,10.0,Greg,Malland,0.0,2025-07-10
+1343,1350,5.0,Lisa,Edwards,1.5,2025-07-11
+1344,1351,27.0,Mark,Litzinger,1.0,2025-07-14
+1345,1352,66.0,Rick,Nelson,2.0,2025-07-14
+1346,1353,94.0,Bruce,Cheng,1.5,2025-07-14
+1347,1354,95.0,Curtis,Cheng,1.5,2025-07-14
+1348,1355,51.0,Nicole,Hunter,2.0,2025-07-14
+1349,1356,51.0,Nicole,Hunter,2.0,2025-07-14
+1350,1357,96.0,Trygve (pron. Trig),Andrus,2.0,2025-07-14
+1351,1358,5.0,Lisa,Edwards,3.0,2025-07-14
+1352,1359,5.0,Lisa,Edwards,1.5,2025-07-14
+1353,1360,97.0,Amanda,Andrus,2.0,2025-07-14
+1354,1361,10.0,Greg,Malland,3.0,2025-07-14
+1355,1362,10.0,Greg,Malland,1.0,2025-07-14
+1356,1363,10.0,Greg,Malland,1.0,2025-07-15
+1357,1364,10.0,Greg,Malland,1.5,2025-07-17
+1358,1365,10.0,Greg,Malland,1.0,2025-07-17
+1359,1366,93.0,Joe,Muckerman,4.0,2025-07-05
+1360,1367,93.0,Joe,Muckerman,2.0,2025-07-18
+1361,1368,62.0,Robert (Bob),Myers,1.0,2025-07-04
+1362,1369,62.0,Robert (Bob),Myers,2.0,2025-07-07
+1363,1370,62.0,Robert (Bob),Myers,2.0,2025-07-18
+1364,1371,49.0,Chris,Smith,2.0,2025-07-22
+1365,1372,40.0,Maureen,Traxler,1.5,2025-07-22
+1366,1373,5.0,Lisa,Edwards,5.0,2025-07-22
+1367,1374,102.0,Matthew,Young,2.0,2025-07-22
+1368,1375,10.0,Greg,Malland,2.0,2025-07-21
+1369,1376,8.0,Nancy,Passovoy,18.0,2025-06-22
+1370,1377,8.0,Nancy,Passovoy,0.0,2025-07-23
+1371,1378,8.0,Nancy,Passovoy,5.0,2025-07-23
+1372,1379,8.0,Nancy,Passovoy,6.0,2025-07-23
+1373,1380,8.0,Nancy,Passovoy,4.0,2025-07-20
+1374,1381,8.0,Nancy,Passovoy,0.0,2025-07-23
+1375,1382,71.0,Luke,Cleaver,3.0,2025-07-20
+1376,1383,86.0,Diane,Lear,1.0,2025-07-20
+1377,1384,101.0,Tasha (Natalie),Hlavka,1.0,2025-07-20
+1378,1385,73.0,Doreen,Berkoh,1.5,2025-07-20
+1379,1386,99.0,Ayesha,Farooq,1.0,2025-07-20
+1380,1387,100.0,Rylee,Harrison,1.5,2025-07-20
+1381,1388,26.0,John,Murray,2.5,2025-07-22
+1382,1389,65.0,Jim,Voetberg,2.5,2025-07-22
+1383,1390,65.0,Jim,Voetberg,2.0,2025-07-11
+1384,1391,12.0,Kim,Voetberg,2.0,2025-07-11
+1385,1392,12.0,Kim,Voetberg,2.0,2025-07-10
+1386,1393,12.0,Kim,Voetberg,0.0,2025-07-28
+1387,1394,12.0,Kim,Voetberg,2.5,2025-07-22
+1388,1395,65.0,Jim,Voetberg,2.0,2025-07-16
+1389,1396,12.0,Kim,Voetberg,2.5,2025-07-08
+1390,1397,90.0,James (Jim),Mills,2.5,2025-07-22
+1391,1398,45.0,Steve,Bodensteiner,2.5,2025-07-22
+1392,1399,102.0,Matthew,Young,2.5,2025-07-22
+1393,1400,34.0,Rachelle,Brown,2.5,2025-07-22
+1394,1401,28.0,Mari,Rogers,2.5,2025-07-22
+1395,1402,69.0,Mary,Rider,2.5,2025-07-22
+1396,1403,52.0,Davin,Kesler,2.5,2025-07-22
+1397,1404,89.0,Thomas (Tom),Dowd,2.5,2025-07-22
+1398,1405,28.0,Mari,Rogers,1.5,2025-07-28
+1399,1406,60.0,Theresa,Sweet,1.5,2025-07-28
+1400,1407,5.0,Lisa,Edwards,2.0,2025-07-28
+1401,1408,60.0,Theresa,Sweet,1.5,2025-07-28
+1402,1409,100.0,Rylee,Harrison,1.5,2025-07-28
+1403,1410,73.0,Doreen,Berkoh,1.5,2025-07-28
+1404,1411,10.0,Greg,Malland,2.5,2025-07-29
+1405,1412,36.0,Volunteer,Volunteers,6.0,2025-07-01
+1406,1413,36.0,Volunteer,Volunteers,14.0,2025-07-02
+1407,1414,1.0,Dorothy,Duff,3.0,2025-07-01
+1408,1415,1.0,Dorothy,Duff,2.5,2025-07-02
+1409,1416,1.0,Dorothy,Duff,2.0,2025-07-03
+1410,1417,1.0,Dorothy,Duff,4.0,2025-07-07
+1411,1418,1.0,Dorothy,Duff,4.0,2025-07-08
+1412,1419,1.0,Dorothy,Duff,1.5,2025-07-09
+1413,1420,1.0,Dorothy,Duff,2.5,2025-07-10
+1414,1421,1.0,Dorothy,Duff,2.0,2025-07-11
+1415,1422,1.0,Dorothy,Duff,3.0,2025-07-14
+1416,1423,1.0,Dorothy,Duff,4.0,2025-07-15
+1417,1424,1.0,Dorothy,Duff,3.0,2025-07-16
+1418,1425,1.0,Dorothy,Duff,3.0,2025-07-17
+1419,1426,1.0,Dorothy,Duff,1.5,2025-07-18
+1420,1427,1.0,Dorothy,Duff,2.0,2025-07-21
+1421,1428,1.0,Dorothy,Duff,4.0,2025-07-22
+1422,1429,1.0,Dorothy,Duff,3.0,2025-07-23
+1423,1430,1.0,Dorothy,Duff,3.0,2025-07-24
+1424,1431,1.0,Dorothy,Duff,1.5,2025-07-30
+1425,1432,4.0,Toni,Massey,4.0,2025-07-31
+1426,1433,4.0,Toni,Massey,10.0,2025-07-31
+1427,1434,25.0,Distribution,Team,75.0,2025-07-21
+1428,1451,66.0,Rick,Nelson,1.5,2025-08-04
+1429,1436,36.0,Volunteer,Volunteers,2.0,2025-07-28
+1430,1437,36.0,Volunteer,Volunteers,1.0,2025-07-30
+1431,1450,60.0,Theresa,Sweet,2.0,2025-08-04
+1432,1444,36.0,Volunteer,Volunteers,0.5,2025-07-28
+1433,1440,36.0,Volunteer,Volunteers,3.0,2025-07-31
+1434,1449,36.0,Volunteer,Volunteers,0.0,2025-08-02
+1435,1448,36.0,Volunteer,Volunteers,0.25,2025-07-28
+1436,1452,85.0,Jason,Moon,1.5,2025-08-04
+1437,1453,96.0,Trygve (pron. Trig),Andrus,1.75,2025-08-04
+1438,1454,97.0,Amanda,Andrus,3.5,2025-08-04
+1439,1455,108.0,Meilyr,Andrus,1.5,2025-08-04
+1440,1456,5.0,Lisa,Edwards,2.0,2025-08-04
+1441,1457,60.0,Theresa,Sweet,1.0,2025-08-08
+1442,1458,5.0,Lisa,Edwards,1.0,2025-08-08
+1443,1459,37.0,Marilyn,Blackburn,2.0,2025-08-12
+1444,1460,90.0,James (Jim),Mills,2.0,2025-08-12
+1445,1461,52.0,Davin,Kesler,2.5,2025-08-12
+1446,1462,39.0,Cam-Tu,Vo,2.0,2025-08-12
+1447,1463,66.0,Rick,Nelson,2.5,2025-08-12
+1448,1464,50.0,Paul,Paroff,2.0,2025-08-12
+1449,1465,69.0,Mary,Rider,2.0,2025-08-12
+1450,1466,37.0,Marilyn,Blackburn,2.0,2025-08-12
+1451,1467,44.0,Stephen (Steve),Stejskal,2.5,2025-08-12
+1452,1468,35.0,Martha,Stejskal,2.5,2025-08-12
+1453,1469,49.0,Chris,Smith,3.0,2025-08-12
+1454,1470,70.0,Cynthia,Patschke,2.0,2025-08-12
+1455,1471,31.0,Volunteers,Distribution Day - Tuesday,3.0,2025-08-12
+1456,1472,10.0,Greg,Malland,3.5,2025-08-12
+1457,1473,10.0,Greg,Malland,1.0,2025-08-12
+1458,1474,10.0,Greg,Malland,1.5,2025-08-12
+1459,1475,10.0,Greg,Malland,2.0,2025-08-11
+1460,1476,10.0,Greg,Malland,2.5,2025-08-10
+1461,1477,10.0,Greg,Malland,2.0,2025-08-09
+1462,1478,10.0,Greg,Malland,2.0,2025-08-07
+1463,1479,10.0,Greg,Malland,2.0,2025-08-04
+1464,1480,10.0,Greg,Malland,2.0,2025-08-05
+1465,1481,25.0,Distribution,Team,80.0,2025-08-11
+1466,1482,26.0,John,Murray,2.5,2025-08-04
+1467,1483,26.0,John,Murray,4.5,2025-08-11
+1468,1484,26.0,John,Murray,3.5,2025-08-12
+1469,1485,26.0,John,Murray,3.5,2025-07-07
+1470,1486,26.0,John,Murray,4.5,2025-07-07
+1471,1487,26.0,John,Murray,4.5,2025-07-21
+1472,1488,26.0,John,Murray,3.0,2025-07-08
+1473,1489,26.0,John,Murray,1.0,2025-07-18
+1474,1490,26.0,John,Murray,3.0,2025-07-22
+1475,1491,26.0,John,Murray,3.0,2025-08-14
+1476,1492,5.0,Lisa,Edwards,4.0,2025-08-14
+1477,1493,5.0,Lisa,Edwards,3.5,2025-08-19
+1478,1494,52.0,Davin,Kesler,1.0,2025-08-19
+1479,1495,43.0,Stephen (Steve),Anderson,1.5,2025-08-19
+1480,1496,66.0,Rick,Nelson,1.0,2025-08-19
+1481,1497,60.0,Theresa,Sweet,2.0,2025-08-19
+1482,1498,40.0,Maureen,Traxler,1.0,2025-08-19
+1483,1499,33.0,Volunteers,Donation Work,1.0,2025-08-19
+1484,1500,5.0,Lisa,Edwards,5.0,2025-08-20
+1485,1501,8.0,Nancy,Passovoy,6.0,2025-08-22
+1486,1502,10.0,Greg,Malland,3.0,2025-08-25
+1487,1503,10.0,Greg,Malland,1.0,2025-08-21
+1488,1504,60.0,Theresa,Sweet,2.0,2025-08-25
+1489,1505,5.0,Lisa,Edwards,4.0,2025-08-25
+1490,1506,24.0,Mike,Massey,5.0,2025-08-25
+1491,1507,4.0,Toni,Massey,5.0,2025-08-25
+1492,1508,47.0,Holly,Ripley,2.0,2025-08-25
+1493,1509,12.0,Kim,Voetberg,2.5,2025-08-26
+1494,1510,12.0,Kim,Voetberg,2.5,2025-08-26
+1495,1511,65.0,Jim,Voetberg,2.5,2025-08-26
+1496,1512,104.0,Carolyn,Lord,2.5,2025-08-26
+1497,1513,28.0,Mari,Rogers,2.5,2025-08-26
+1498,1514,60.0,Theresa,Sweet,2.5,2025-08-26
+1499,1515,69.0,Mary,Rider,2.5,2025-08-26
+1500,1516,45.0,Steve,Bodensteiner,2.5,2025-08-26
+1501,1517,89.0,Thomas (Tom),Dowd,2.5,2025-08-26
+1502,1518,49.0,Chris,Smith,2.5,2025-08-26
+1503,1519,39.0,Cam-Tu,Vo,2.5,2025-08-26
+1504,1520,90.0,James (Jim),Mills,2.5,2025-08-26
+1505,1521,50.0,Paul,Paroff,2.5,2025-08-26
+1506,1522,66.0,Rick,Nelson,2.5,2025-08-26
+1507,1523,49.0,Chris,Smith,2.5,2025-08-26
+1508,1524,115.0,Sammie,Tang,2.5,2025-08-26
+1509,1525,5.0,Lisa,Edwards,4.0,2025-08-26
+1510,1526,8.0,Nancy,Passovoy,6.0,2025-08-24
+1511,1527,8.0,Nancy,Passovoy,6.0,2025-08-24
+1512,1528,115.0,Sammie,Tang,2.5,2025-08-24
+1513,1529,39.0,Cam-Tu,Vo,2.5,2025-08-24
+1514,1530,68.0,Helen,Chung,1.0,2025-08-24
+1515,1531,86.0,Diane,Lear,1.5,2025-08-24
+1516,1532,101.0,Tasha (Natalie),Hlavka,1.0,2025-08-24
+1517,1533,99.0,Ayesha,Farooq,1.0,2025-08-24
+1518,1534,71.0,Luke,Cleaver,2.5,2025-08-24
+1519,1535,8.0,Nancy,Passovoy,4.5,2025-08-24
+1520,1536,8.0,Nancy,Passovoy,4.5,2025-08-24
+1521,1537,22.0,Bernice,Foth,1.0,2025-08-27
+1522,1538,5.0,Lisa,Edwards,2.0,2025-08-27
+1523,1539,117.0,Per,Cummings,2.0,2025-08-25
+1524,1540,49.0,Chris,Smith,2.0,2025-08-25
+1525,1541,92.0,Marie,Muckerman,3.0,2025-08-25
+1526,1542,93.0,Joe,Muckerman,3.0,2025-08-25
+1527,1543,11.0,Roger,Long,4.0,2025-08-25
+1528,1544,71.0,Luke,Cleaver,2.0,2025-08-25
+1529,1545,70.0,Cynthia,Patschke,4.0,2025-08-25
+1530,1546,87.0,Genelle,Doten,3.0,2025-08-25
+1531,1547,110.0,Jamie,Stockton,3.0,2025-08-25
+1532,1548,45.0,Steve,Bodensteiner,4.0,2025-08-25
+1533,1549,67.0,David,Raese,3.0,2025-08-25
+1534,1550,27.0,Mark,Litzinger,4.0,2025-08-25
+1535,1551,50.0,Paul,Paroff,4.0,2025-08-25
+1536,1552,26.0,John,Murray,4.0,2025-08-25
+1537,1553,90.0,James (Jim),Mills,4.0,2025-08-25
+1538,1554,66.0,Rick,Nelson,3.0,2025-08-25
+1539,1555,41.0,Laurie,Cikatz,3.0,2025-08-25
+1540,1556,40.0,Maureen,Traxler,3.0,2025-08-25
+1541,1557,6.0,Zhanna,Kochubey,3.0,2025-08-25
+1542,1558,37.0,Marilyn,Blackburn,3.0,2025-08-25
+1543,1559,1.0,Dorothy,Duff,4.0,2025-08-25
+1544,1560,10.0,Greg,Malland,1.0,2025-08-28
+1545,1561,10.0,Greg,Malland,1.5,2025-08-28
+1546,1562,10.0,Greg,Malland,0.5,2025-08-28
+1547,1563,10.0,Greg,Malland,1.0,2025-08-28
+1548,1564,10.0,Greg,Malland,2.0,2025-08-29
+1549,1565,5.0,Lisa,Edwards,5.0,2025-08-28
+1550,1566,26.0,John,Murray,4.0,2025-08-25
+1551,1567,26.0,John,Murray,5.0,2025-08-26
+1552,1568,26.0,John,Murray,1.25,2025-08-28
+1553,1569,36.0,Volunteer,Volunteers,6.0,2025-08-06
+1554,1570,79.0,Paul,Swensen,1.5,2025-08-06
+1555,1571,83.0,Cheryl,Gibson,1.5,2025-08-06
+1556,1572,60.0,Theresa,Sweet,1.5,2025-08-06
+1557,1573,1.0,Dorothy,Duff,4.0,2025-08-06
+1558,1574,1.0,Dorothy,Duff,3.0,2025-08-01
+1559,1575,1.0,Dorothy,Duff,5.0,2025-08-03
+1560,1576,1.0,Dorothy,Duff,5.0,2025-08-04
+1561,1577,1.0,Dorothy,Duff,2.0,2025-08-13
+1562,1578,1.0,Dorothy,Duff,3.0,2025-08-14
+1563,1579,1.0,Dorothy,Duff,4.0,2025-08-11
+1564,1580,1.0,Dorothy,Duff,4.0,2025-08-12
+1565,1581,1.0,Dorothy,Duff,4.0,2025-08-20
+1566,1582,1.0,Dorothy,Duff,5.0,2025-08-26
+1567,1583,1.0,Dorothy,Duff,3.0,2025-08-28
+1568,1584,1.0,Dorothy,Duff,3.0,2025-08-31
+1569,1585,24.0,Mike,Massey,2.0,2025-08-09
+1570,1586,4.0,Toni,Massey,2.0,2025-08-09
+1571,1587,4.0,Toni,Massey,15.0,2025-08-31
+1572,1588,118.0,Rene,Campbell,2.0,2025-08-25
+1573,1589,36.0,Volunteer,Volunteers,2.0,2025-08-01
+1574,1590,36.0,Volunteer,Volunteers,3.0,2025-08-04
+1575,1591,36.0,Volunteer,Volunteers,1.0,2025-08-06
+1576,1592,36.0,Volunteer,Volunteers,2.0,2025-08-07
+1577,1593,36.0,Volunteer,Volunteers,1.0,2025-08-05
+1578,1594,36.0,Volunteer,Volunteers,3.0,2025-08-11
+1579,1595,36.0,Volunteer,Volunteers,1.0,2025-08-15
+1580,1596,36.0,Volunteer,Volunteers,4.5,2025-08-18
+1581,1597,36.0,Volunteer,Volunteers,5.5,2025-08-19
+1582,1598,36.0,Volunteer,Volunteers,1.5,2025-08-20
+1583,1599,36.0,Volunteer,Volunteers,1.5,2025-08-21
+1584,1600,36.0,Volunteer,Volunteers,5.5,2025-08-28
+1585,1601,36.0,Volunteer,Volunteers,2.0,2025-08-28
+1586,1602,36.0,Volunteer,Volunteers,2.5,2025-08-29
+1587,1603,36.0,Volunteer,Volunteers,4.5,2025-08-31
+1588,1604,36.0,Volunteer,Volunteers,0.0,2025-09-01
+1589,1605,36.0,Volunteer,Volunteers,0.0,2025-09-01
+1590,1606,36.0,Volunteer,Volunteers,0.0,2025-09-01
+1591,1608,36.0,Volunteer,Volunteers,0.0,2025-09-01
+1592,1609,122.0,Ian,Petchel,1.0,2025-09-02
+1593,1610,123.0,Carrie,Compton,1.0,2025-09-02
+1594,1611,124.0,Steven (Steve),Compton,1.0,2025-09-02
+1595,1612,39.0,Cam-Tu,Vo,2.0,2025-09-02
+1596,1613,79.0,Paul,Swensen,1.5,2025-09-02
+1597,1614,82.0,Darryl,Gibson,1.0,2025-09-02
+1598,1615,60.0,Theresa,Sweet,1.5,2025-09-02
+1599,1616,48.0,Erik,Wold,1.0,2025-09-02
+1600,1617,100.0,Rylee,Harrison,1.0,2025-09-02
+1601,1618,22.0,Bernice,Foth,1.0,2025-09-02
+1602,1619,5.0,Lisa,Edwards,3.0,2025-09-02
+1603,1620,112.0,Sarah,Thom,1.0,2025-09-02
+1604,1621,113.0,Parker,Thom,1.0,2025-09-02
+1605,1622,10.0,Greg,Malland,1.5,2025-09-03
+1606,1623,10.0,Greg,Malland,1.0,2025-09-03
+1607,1624,65.0,Jim,Voetberg,2.5,2025-09-09
+1608,1625,12.0,Kim,Voetberg,2.5,2025-09-09
+1609,1626,12.0,Kim,Voetberg,4.0,2025-09-03
+1610,1627,39.0,Cam-Tu,Vo,2.0,2025-09-09
+1611,1628,69.0,Mary,Rider,2.0,2025-09-09
+1612,1629,104.0,Carolyn,Lord,2.5,2025-09-09
+1613,1630,28.0,Mari,Rogers,2.5,2025-09-09
+1614,1631,52.0,Davin,Kesler,2.5,2025-09-09
+1615,1632,49.0,Chris,Smith,2.5,2025-09-09
+1616,1633,60.0,Theresa,Sweet,2.5,2025-09-09
+1617,1634,35.0,Martha,Stejskal,2.5,2025-09-09
+1618,1635,44.0,Stephen (Steve),Stejskal,2.5,2025-09-09
+1619,1636,90.0,James (Jim),Mills,5.0,2025-09-09
+1620,1637,24.0,Mike,Massey,5.0,2025-09-08
+1621,1638,4.0,Toni,Massey,5.0,2025-09-08
+1622,1639,47.0,Holly,Ripley,2.0,2025-09-08
+1623,1640,46.0,Judy,Ching,2.0,2025-09-08
+1624,1641,109.0,Mary,Wehde,2.0,2025-09-08
+1625,1642,49.0,Chris,Smith,2.0,2025-09-08
+1626,1643,11.0,Roger,Long,5.0,2025-09-08
+1627,1644,27.0,Mark,Litzinger,4.0,2025-09-08
+1628,1645,118.0,Rene,Campbell,2.0,2025-09-08
+1629,1646,117.0,Per,Cummings,2.0,2025-09-08
+1630,1647,92.0,Marie,Muckerman,4.0,2025-09-08
+1631,1648,93.0,Joe,Muckerman,4.0,2025-09-08
+1632,1649,51.0,Nicole,Hunter,3.0,2025-09-08
+1633,1650,87.0,Genelle,Doten,3.0,2025-09-08
+1634,1651,26.0,John,Murray,3.0,2025-09-08
+1635,1652,41.0,Laurie,Cikatz,3.0,2025-09-08
+1636,1653,35.0,Martha,Stejskal,3.0,2025-09-08
+1637,1654,44.0,Stephen (Steve),Stejskal,3.0,2025-09-08
+1638,1655,110.0,Jamie,Stockton,3.0,2025-09-08
+1639,1656,1.0,Dorothy,Duff,4.0,2025-09-08
+1640,1657,67.0,David,Raese,3.0,2025-09-08
+1641,1658,72.0,Gary,Morris,3.0,2025-09-08
+1642,1659,70.0,Cynthia,Patschke,3.0,2025-09-08
+1643,1660,34.0,Rachelle,Brown,3.0,2025-09-08
+1644,1661,91.0,Patricia (Patti),Mills,3.0,2025-09-08
+1645,1662,90.0,James (Jim),Mills,3.0,2025-09-08
+1646,1663,97.0,Amanda,Andrus,1.0,2025-09-08
+1647,1664,126.0,Wesley,Andrus,1.0,2025-09-08
+1648,1665,5.0,Lisa,Edwards,1.5,2025-09-08
+1649,1666,5.0,Lisa,Edwards,3.5,2025-09-09
+1650,1667,31.0,Volunteers,Distribution Day - Tuesday,1.5,2025-09-09
+1651,1668,10.0,Greg,Malland,2.5,2025-09-06
+1652,1669,10.0,Greg,Malland,2.0,2025-09-06
+1653,1670,10.0,Greg,Malland,2.0,2025-09-07
+1654,1671,10.0,Greg,Malland,0.0,2025-09-07
+1655,1672,10.0,Greg,Malland,1.5,2025-09-08
+1656,1673,10.0,Greg,Malland,2.0,2025-09-11
+1657,1674,10.0,Greg,Malland,1.0,2025-09-08
+1658,1675,5.0,Lisa,Edwards,3.5,2025-09-11
+1659,1676,28.0,Mari,Rogers,1.0,2025-09-15
+1660,1677,34.0,Rachelle,Brown,2.25,2025-09-15
+1661,1678,34.0,Rachelle,Brown,0.0,2025-09-15
+1662,1679,128.0,Jillian,Hall,2.25,2025-09-15
+1663,1680,60.0,Theresa,Sweet,3.0,2025-09-15
+1664,1681,70.0,Cynthia,Patschke,2.5,2025-09-15
+1665,1682,50.0,Paul,Paroff,1.0,2025-09-15
+1666,1683,27.0,Mark,Litzinger,2.75,2025-09-15
+1667,1684,5.0,Lisa,Edwards,3.5,2025-09-15
+1668,1685,40.0,Maureen,Traxler,1.5,2025-09-15
+1669,1686,48.0,Erik,Wold,2.5,2025-09-15
+1670,1687,10.0,Greg,Malland,2.0,2025-09-15
+1671,1688,10.0,Greg,Malland,0.5,2025-09-15
+1672,1689,10.0,Greg,Malland,1.0,2025-09-16
+1673,1690,26.0,John,Murray,2.5,2025-09-08
+1674,1691,26.0,John,Murray,3.0,2025-09-09
+1675,1692,26.0,John,Murray,1.0,2025-09-10
+1676,1693,26.0,John,Murray,2.0,2025-09-11
+1677,1694,5.0,Lisa,Edwards,2.5,2025-09-18
+1678,1695,10.0,Greg,Malland,1.5,2025-09-20
+1679,1696,10.0,Greg,Malland,1.0,2025-09-19
+1680,1697,5.0,Lisa,Edwards,1.0,2025-09-21
+1681,1698,34.0,Rachelle,Brown,2.25,2025-09-23
+1682,1699,34.0,Rachelle,Brown,2.5,2025-09-22
+1683,1700,45.0,Steve,Bodensteiner,3.0,2025-09-23
+1684,1701,45.0,Steve,Bodensteiner,4.0,2025-09-22
+1685,1702,65.0,Jim,Voetberg,3.0,2025-09-23
+1686,1703,12.0,Kim,Voetberg,3.5,2025-09-23
+1687,1704,90.0,James (Jim),Mills,3.0,2025-09-23
+1688,1705,90.0,James (Jim),Mills,4.0,2025-09-23
+1689,1706,26.0,John,Murray,5.0,2025-09-23
+1690,1707,26.0,John,Murray,0.0,2025-09-23
+1691,1708,60.0,Theresa,Sweet,3.0,2025-09-23
+1692,1709,60.0,Theresa,Sweet,2.0,2025-09-22
+1693,1710,36.0,Volunteer,Volunteers,1.0,2025-09-23
+1694,1711,28.0,Mari,Rogers,1.0,2025-09-23
+1695,1712,70.0,Cynthia,Patschke,1.5,2025-09-23
+1696,1713,52.0,Davin,Kesler,2.5,2025-09-23
+1697,1714,37.0,Marilyn,Blackburn,3.0,2025-09-08
+1698,1715,8.0,Nancy,Passovoy,8.0,2025-09-23
+1699,1716,8.0,Nancy,Passovoy,2.0,2025-09-09
+1700,1717,8.0,Nancy,Passovoy,4.0,2025-09-21
+1701,1718,59.0,Isla,Bruce,3.0,2025-09-21
+1702,1719,57.0,Peter,Bruce,3.0,2025-09-21
+1703,1720,56.0,Julie,Bruce,3.0,2025-09-21
+1704,1721,68.0,Helen,Chung,1.5,2025-09-21
+1705,1722,121.0,Charlene,Bailey,2.0,2025-09-21
+1706,1723,101.0,Tasha (Natalie),Hlavka,2.0,2025-09-21
+1707,1724,105.0,Robert,Lord,2.0,2025-09-21
+1708,1725,104.0,Carolyn,Lord,2.0,2025-09-21
+1709,1726,71.0,Luke,Cleaver,2.5,2025-09-21
+1710,1727,22.0,Bernice,Foth,1.5,2025-09-21
+1711,1728,78.0,Ezra,Shapiro,4.0,2025-09-21
+1712,1729,77.0,Dan,Shapiro,2.0,2025-09-21
+1713,1730,8.0,Nancy,Passovoy,2.0,2025-09-21
+1714,1731,5.0,Lisa,Edwards,4.5,2025-09-23
+1715,1732,35.0,Martha,Stejskal,1.5,2025-09-23
+1716,1733,44.0,Stephen (Steve),Stejskal,1.5,2025-09-23
+1717,1734,12.0,Kim,Voetberg,4.0,2025-09-09
+1718,1735,12.0,Kim,Voetberg,3.0,2025-09-13
+1719,1736,12.0,Kim,Voetberg,3.0,2025-09-22
+1720,1737,12.0,Kim,Voetberg,2.0,2025-09-23
+1721,1738,92.0,Marie,Muckerman,1.0,2025-09-24
+1722,1739,93.0,Joe,Muckerman,1.0,2025-09-24
+1723,1740,5.0,Lisa,Edwards,2.0,2025-09-25
+1724,1741,24.0,Mike,Massey,2.0,2025-09-22
+1725,1742,4.0,Toni,Massey,5.0,2025-09-22
+1726,1743,24.0,Mike,Massey,3.0,2025-09-22
+1727,1744,50.0,Paul,Paroff,3.0,2025-09-22
+1728,1745,47.0,Holly,Ripley,2.0,2025-09-22
+1729,1746,46.0,Judy,Ching,2.0,2025-09-22
+1730,1747,49.0,Chris,Smith,2.0,2025-09-22
+1731,1748,45.0,Steve,Bodensteiner,3.0,2025-09-22
+1732,1749,11.0,Roger,Long,5.0,2025-09-22
+1733,1750,27.0,Mark,Litzinger,5.0,2025-09-22
+1734,1751,118.0,Rene,Campbell,2.0,2025-09-22
+1735,1752,117.0,Per,Cummings,2.0,2025-09-22
+1736,1753,92.0,Marie,Muckerman,4.0,2025-09-22
+1737,1754,93.0,Joe,Muckerman,2.0,2025-09-22
+1738,1755,87.0,Genelle,Doten,3.0,2025-09-22
+1739,1756,26.0,John,Murray,4.0,2025-09-22
+1740,1757,35.0,Martha,Stejskal,3.0,2025-09-22
+1741,1758,44.0,Stephen (Steve),Stejskal,3.0,2025-09-22
+1742,1759,1.0,Dorothy,Duff,5.0,2025-09-22
+1743,1760,67.0,David,Raese,2.0,2025-09-22
+1744,1761,34.0,Rachelle,Brown,3.0,2025-09-22
+1745,1762,91.0,Patricia (Patti),Mills,2.0,2025-09-22
+1746,1763,90.0,James (Jim),Mills,3.0,2025-09-22
+1747,1764,36.0,Volunteer,Volunteers,32.5,2025-09-26
+1748,1765,1.0,Dorothy,Duff,2.0,2025-09-28
+1749,1766,1.0,Dorothy,Duff,3.0,2025-09-27
+1750,1767,1.0,Dorothy,Duff,8.0,2025-09-26
+1751,1768,1.0,Dorothy,Duff,6.0,2025-09-25
+1752,1769,1.0,Dorothy,Duff,6.0,2025-09-24
+1753,1770,1.0,Dorothy,Duff,5.0,2025-09-23
+1754,1771,1.0,Dorothy,Duff,6.0,2025-09-22
+1755,1772,1.0,Dorothy,Duff,3.0,2025-09-21
+1756,1773,1.0,Dorothy,Duff,3.0,2025-09-29
+1757,1774,50.0,Paul,Paroff,2.0,2025-09-29
+1758,1775,4.0,Toni,Massey,10.0,2025-09-30
+1759,1776,24.0,Mike,Massey,5.0,2025-09-30
+1760,1777,10.0,Greg,Malland,3.0,2025-09-25
+1761,1778,10.0,Greg,Malland,2.0,2025-09-24
+1762,1779,10.0,Greg,Malland,2.0,2025-09-29
+1763,1780,10.0,Greg,Malland,2.0,2025-09-25
+1764,1781,36.0,Volunteer,Volunteers,1.0,2025-09-07
+1765,1782,36.0,Volunteer,Volunteers,1.5,2025-09-15
+1766,1783,36.0,Volunteer,Volunteers,3.0,2025-09-22
+1767,1784,36.0,Volunteer,Volunteers,0.5,2025-09-29
+1768,1785,36.0,Volunteer,Volunteers,0.0,2025-10-01
+1769,1786,6.0,Zhanna,Kochubey,1.5,2025-09-11
+1770,1787,6.0,Zhanna,Kochubey,1.5,2025-09-26
+1771,1788,6.0,Zhanna,Kochubey,2.0,2025-09-30
+1772,1789,6.0,Zhanna,Kochubey,0.0,2025-10-01
+1773,1790,6.0,Zhanna,Kochubey,2.0,2025-09-30
+1774,1791,1.0,Dorothy,Duff,4.0,2025-09-03
+1775,1792,1.0,Dorothy,Duff,4.0,2025-09-08
+1776,1793,36.0,Volunteer,Volunteers,12.0,2025-09-03
+1777,1794,34.0,Rachelle,Brown,0.0,2025-09-22
+1778,1795,12.0,Kim,Voetberg,0.0,2025-09-23
+1779,1796,26.0,John,Murray,3.5,2025-09-23
+1780,1797,5.0,Lisa,Edwards,1.0,2025-10-06
+1781,1798,5.0,Lisa,Edwards,2.0,2025-10-09
+1782,1799,49.0,Chris,Smith,3.5,2025-10-14
+1783,1800,48.0,Erik,Wold,2.0,2025-10-14
+1784,1801,50.0,Paul,Paroff,2.5,2025-10-14
+1785,1802,90.0,James (Jim),Mills,3.0,2025-10-14
+1786,1806,26.0,John,Murray,3.0,2025-10-06
+1787,1804,26.0,John,Murray,4.0,2025-10-13
+1788,1805,26.0,John,Murray,3.0,2025-10-14
+1789,1807,60.0,Theresa,Sweet,2.5,2025-10-14
+1790,1808,28.0,Mari,Rogers,2.0,2025-10-14
+1791,1809,31.0,Volunteers,Distribution Day - Tuesday,2.0,2025-10-14
+1792,1810,5.0,Lisa,Edwards,4.5,2025-10-14
+1793,1811,24.0,Mike,Massey,5.0,2025-10-13
+1794,1812,4.0,Toni,Massey,5.0,2025-10-13
+1795,1813,117.0,Per,Cummings,2.0,2025-10-13
+1796,1814,49.0,Chris,Smith,2.0,2025-10-13
+1797,1815,11.0,Roger,Long,4.5,2025-10-13
+1798,1816,46.0,Judy,Ching,2.0,2025-10-13
+1799,1817,109.0,Mary,Wehde,2.0,2025-10-13
+1800,1818,47.0,Holly,Ripley,2.0,2025-10-13
+1801,1819,48.0,Erik,Wold,3.0,2025-10-13
+1802,1820,50.0,Paul,Paroff,3.0,2025-10-13
+1803,1821,26.0,John,Murray,4.0,2025-10-13
+1804,1822,90.0,James (Jim),Mills,4.0,2025-10-13
+1805,1823,91.0,Patricia (Patti),Mills,4.0,2025-10-13
+1806,1824,92.0,Marie,Muckerman,4.0,2025-10-13
+1807,1825,93.0,Joe,Muckerman,1.0,2025-10-13
+1808,1826,35.0,Martha,Stejskal,3.5,2025-10-13
+1809,1827,104.0,Carolyn,Lord,3.0,2025-10-13
+1810,1828,37.0,Marilyn,Blackburn,3.0,2025-10-13
+1811,1829,41.0,Laurie,Cikatz,3.0,2025-10-13
+1812,1830,1.0,Dorothy,Duff,3.5,2025-10-13
+1813,1831,53.0,Suong (Sansan),Pritchett,2.0,2025-10-13
+1814,1832,27.0,Mark,Litzinger,4.5,2025-10-13
+1815,1833,5.0,Lisa,Edwards,2.0,2025-10-16
+1816,1834,10.0,Greg,Malland,2.0,2025-10-20
+1817,1835,10.0,Greg,Malland,1.0,2025-10-20
+1818,1836,10.0,Greg,Malland,3.0,2025-10-17
+1819,1837,5.0,Lisa,Edwards,4.0,2025-10-20
+1820,1838,66.0,Rick,Nelson,1.75,2025-10-20
+1821,1839,134.0,Donna,Pulaski,3.0,2025-10-20
+1822,1840,71.0,Luke,Cleaver,1.75,2025-10-20
+1823,1841,48.0,Erik,Wold,1.75,2025-10-20
+1824,1842,60.0,Theresa,Sweet,1.0,2025-10-20
+1825,1843,10.0,Greg,Malland,2.0,2025-10-20
+1826,1844,10.0,Greg,Malland,0.5,2025-10-20
+1827,1845,10.0,Greg,Malland,1.0,2025-10-23
+1828,1846,10.0,Greg,Malland,2.0,2025-10-21
+1829,1847,10.0,Greg,Malland,1.0,2025-10-21
+1830,1848,12.0,Kim,Voetberg,2.0,2025-10-03
+1831,1849,12.0,Kim,Voetberg,0.0,2025-10-24
+1832,1850,12.0,Kim,Voetberg,2.0,2025-10-21
+1833,1851,12.0,Kim,Voetberg,0.0,2025-10-24
+1834,1852,12.0,Kim,Voetberg,2.0,2025-10-15
+1835,1853,12.0,Kim,Voetberg,1.0,2025-10-16
+1836,1854,12.0,Kim,Voetberg,3.0,2025-10-20
+1837,1855,12.0,Kim,Voetberg,1.0,2025-10-21
+1838,1856,12.0,Kim,Voetberg,2.0,2025-10-23
+1839,1857,12.0,Kim,Voetberg,2.0,2025-10-24
+1840,1858,12.0,Kim,Voetberg,2.0,2025-10-27
+1841,1859,12.0,Kim,Voetberg,1.0,2025-10-28
+1842,1860,65.0,Jim,Voetberg,2.0,2025-10-28
+1843,1861,69.0,Mary,Rider,1.5,2025-10-28
+1844,1862,48.0,Erik,Wold,2.5,2025-10-28
+1845,1863,44.0,Stephen (Steve),Stejskal,2.5,2025-10-28
+1846,1864,35.0,Martha,Stejskal,2.5,2025-10-28
+1847,1865,70.0,Cynthia,Patschke,2.5,2025-10-28
+1848,1866,52.0,Davin,Kesler,2.5,2025-10-28
+1849,1867,60.0,Theresa,Sweet,3.0,2025-10-28
+1850,1868,5.0,Lisa,Edwards,3.5,2025-10-28
+1851,1869,37.0,Marilyn,Blackburn,3.0,2025-10-27
+1852,1870,46.0,Judy,Ching,3.0,2025-10-27
+1853,1871,117.0,Per,Cummings,2.0,2025-10-27
+1854,1872,41.0,Laurie,Cikatz,3.0,2025-10-27
+1855,1873,11.0,Roger,Long,4.5,2025-10-27
+1856,1874,104.0,Carolyn,Lord,3.0,2025-10-27
+1857,1875,24.0,Mike,Massey,5.0,2025-10-27
+1858,1876,93.0,Joe,Muckerman,4.0,2025-10-27
+1859,1877,92.0,Marie,Muckerman,4.0,2025-10-27
+1860,1878,50.0,Paul,Paroff,3.0,2025-10-27
+1861,1879,47.0,Holly,Ripley,3.0,2025-10-27
+1862,1880,35.0,Martha,Stejskal,3.5,2025-10-27
+1863,1881,44.0,Stephen (Steve),Stejskal,3.5,2025-10-27
+1864,1882,48.0,Erik,Wold,3.0,2025-10-27
+1865,1883,66.0,Rick,Nelson,3.0,2025-10-27
+1866,1884,87.0,Genelle,Doten,3.0,2025-10-27
+1867,1885,40.0,Maureen,Traxler,3.0,2025-10-27
+1868,1886,53.0,Suong (Sansan),Pritchett,3.0,2025-10-27
+1869,1887,136.0,Susan,Stimpert,3.0,2025-10-27
+1870,1888,118.0,Rene,Campbell,2.0,2025-10-27
+1871,1889,1.0,Dorothy,Duff,2.0,2025-10-01
+1872,1890,1.0,Dorothy,Duff,2.0,2025-10-03
+1873,1891,1.0,Dorothy,Duff,3.5,2025-10-06
+1874,1892,1.0,Dorothy,Duff,2.5,2025-10-07
+1875,1893,1.0,Dorothy,Duff,3.0,2025-10-08
+1876,1894,1.0,Dorothy,Duff,4.0,2025-10-09
+1877,1895,1.0,Dorothy,Duff,3.0,2025-10-10
+1878,1896,1.0,Dorothy,Duff,6.0,2025-10-14
+1879,1897,1.0,Dorothy,Duff,2.0,2025-10-15
+1880,1898,1.0,Dorothy,Duff,2.0,2025-10-16
+1881,1899,1.0,Dorothy,Duff,3.0,2025-10-20
+1882,1900,60.0,Theresa,Sweet,1.5,2025-10-29
+1883,1901,104.0,Carolyn,Lord,1.5,2025-10-29
+1884,1902,134.0,Donna,Pulaski,1.5,2025-10-29
+1885,1903,133.0,Lien (Lynn),Ha,1.5,2025-10-29
+1886,1904,5.0,Lisa,Edwards,2.5,2025-10-29
+1887,1905,5.0,Lisa,Edwards,2.5,2025-10-31
+1888,1906,10.0,Greg,Malland,3.0,2025-10-23
+1889,1907,10.0,Greg,Malland,2.0,2025-10-27
+1890,1908,10.0,Greg,Malland,2.5,2025-10-22
+1891,1909,10.0,Greg,Malland,1.0,2025-09-23
+1892,1910,10.0,Greg,Malland,1.5,2025-10-30
+1893,1911,10.0,Greg,Malland,1.5,2025-10-31
+1894,1912,10.0,Greg,Malland,0.5,2025-10-31
+1895,1913,5.0,Lisa,Edwards,1.5,2025-11-01
+1896,1914,1.0,Dorothy,Duff,3.0,2025-10-17
+1897,1915,1.0,Dorothy,Duff,2.0,2025-10-18
+1898,1916,1.0,Dorothy,Duff,2.0,2025-10-19
+1899,1917,1.0,Dorothy,Duff,3.5,2025-10-21
+1900,1918,1.0,Dorothy,Duff,2.5,2025-10-22
+1901,1919,1.0,Dorothy,Duff,3.0,2025-10-24
+1902,1920,1.0,Dorothy,Duff,1.5,2025-10-25
+1903,1921,1.0,Dorothy,Duff,1.5,2025-10-26
+1904,1922,1.0,Dorothy,Duff,4.0,2025-10-27
+1905,1923,1.0,Dorothy,Duff,4.5,2025-10-28
+1906,1924,1.0,Dorothy,Duff,2.5,2025-10-29
+1907,1925,1.0,Dorothy,Duff,3.0,2025-10-30
+1908,1926,1.0,Dorothy,Duff,4.0,2025-10-31
+1909,1927,8.0,Nancy,Passovoy,10.0,2025-10-31
+1910,1928,8.0,Nancy,Passovoy,7.0,2025-10-31
+1911,1929,8.0,Nancy,Passovoy,4.0,2025-10-26
+1912,1930,71.0,Luke,Cleaver,3.0,2025-10-26
+1913,1931,130.0,Senuri,Ushettige,3.0,2025-10-26
+1914,1932,115.0,Sammie,Tang,2.0,2025-10-26
+1915,1933,122.0,Ian,Petchel,3.0,2025-10-26
+1916,1934,101.0,Tasha (Natalie),Hlavka,2.0,2025-10-26
+1917,1935,105.0,Robert,Lord,2.0,2025-10-26
+1918,1936,104.0,Carolyn,Lord,2.0,2025-10-26
+1919,1937,86.0,Diane,Lear,2.0,2025-10-26
+1920,1938,26.0,John,Murray,4.0,2025-10-27
+1921,1939,26.0,John,Murray,3.0,2025-10-28
+1922,1940,26.0,John,Murray,2.0,2025-10-30
+1923,1941,36.0,Volunteer,Volunteers,4.0,2025-10-07
+1924,1942,36.0,Volunteer,Volunteers,14.5,2025-10-11
+1925,1943,36.0,Volunteer,Volunteers,2.5,2025-10-13
+1926,1944,36.0,Volunteer,Volunteers,3.5,2025-10-20
+1927,1945,36.0,Volunteer,Volunteers,1.0,2025-10-24
+1928,1946,36.0,Volunteer,Volunteers,1.0,2025-10-27
+1929,1947,36.0,Volunteer,Volunteers,3.0,2025-10-29
+1930,1948,36.0,Volunteer,Volunteers,1.5,2025-10-09
+1931,1949,36.0,Volunteer,Volunteers,0.0,2025-11-03
+1932,1950,36.0,Volunteer,Volunteers,1.25,2025-10-31
+1933,1951,36.0,Volunteer,Volunteers,0.0,2025-11-03
+1934,1952,134.0,Donna,Pulaski,3.0,2025-11-04
+1935,1953,66.0,Rick,Nelson,2.5,2025-11-03
+1936,1954,72.0,Gary,Morris,2.5,2025-11-03
+1937,1955,5.0,Lisa,Edwards,3.5,2025-11-03
+1938,1956,87.0,Genelle,Doten,1.0,2025-11-03
+1939,1957,136.0,Susan,Stimpert,1.5,2025-11-03
+1940,1958,137.0,Maisie,Stimpert,1.5,2025-11-03
+1941,1959,134.0,Donna,Pulaski,1.0,2025-11-05
+1942,1960,84.0,Christina,McCoy,1.0,2025-11-05
+1943,1961,83.0,Cheryl,Gibson,1.0,2025-11-05
+1944,1962,82.0,Darryl,Gibson,1.0,2025-11-05
+1945,1963,80.0,LaChella (Shelly),Swensen,1.0,2025-11-05
+1946,1964,79.0,Paul,Swensen,1.0,2025-11-05
+1947,1965,123.0,Carrie,Compton,1.0,2025-11-05
+1948,1966,124.0,Steven (Steve),Compton,1.0,2025-11-05
+1949,1967,86.0,Diane,Lear,1.0,2025-11-05
+1950,1968,10.0,Greg,Malland,2.0,2025-11-03
+1951,1969,10.0,Greg,Malland,1.5,2025-11-04
+1952,1970,10.0,Greg,Malland,2.0,2025-11-05
+1953,1971,5.0,Lisa,Edwards,3.0,2025-11-06
+1954,1972,10.0,Greg,Malland,1.5,2025-11-06
+1955,1973,10.0,Greg,Malland,2.0,2025-11-06
+1956,1974,10.0,Greg,Malland,2.0,2025-11-07
+1957,1975,10.0,Greg,Malland,2.0,2025-11-06
+1958,1976,5.0,Lisa,Edwards,2.5,2025-11-07
+1959,1977,22.0,Bernice,Foth,1.5,2025-11-07
+1960,1978,134.0,Donna,Pulaski,2.0,2025-11-07
+1961,1979,60.0,Theresa,Sweet,2.0,2025-11-07
+1962,1980,92.0,Marie,Muckerman,1.0,2025-11-07
+1963,1981,10.0,Greg,Malland,1.0,2025-11-09
+1964,1982,10.0,Greg,Malland,1.0,2025-11-08
+1965,1983,10.0,Greg,Malland,4.0,2025-11-08
+1966,1984,47.0,Holly,Ripley,3.0,2025-11-10
+1967,1985,46.0,Judy,Ching,2.0,2025-11-10
+1968,1986,45.0,Steve,Bodensteiner,2.0,2025-11-10
+1969,1987,109.0,Mary,Wehde,2.0,2025-11-10
+1970,1988,69.0,Mary,Rider,2.0,2025-11-11
+1971,1989,50.0,Paul,Paroff,2.5,2025-11-11
+1972,1990,52.0,Davin,Kesler,2.5,2025-11-11
+1973,1991,34.0,Rachelle,Brown,2.0,2025-11-11
+1974,1992,34.0,Rachelle,Brown,1.0,2025-11-11
+1975,1993,66.0,Rick,Nelson,2.5,2025-11-11
+1976,1994,66.0,Rick,Nelson,2.5,2025-11-11
+1977,1995,45.0,Steve,Bodensteiner,2.5,2025-11-11
+1978,1996,48.0,Erik,Wold,2.75,2025-11-11
+1979,1997,49.0,Chris,Smith,2.5,2025-11-11
+1980,1998,136.0,Susan,Stimpert,2.0,2025-11-11
+1981,1999,137.0,Maisie,Stimpert,2.0,2025-11-11
+1982,2000,35.0,Martha,Stejskal,1.5,2025-11-11
+1983,2001,44.0,Stephen (Steve),Stejskal,1.5,2025-11-11
+1984,2002,5.0,Lisa,Edwards,4.5,2025-11-11
+1985,2003,35.0,Martha,Stejskal,5.0,2025-11-10
+1986,2004,44.0,Stephen (Steve),Stejskal,5.0,2025-11-10
+1987,2005,120.0,Katherine,Pompeo,1.25,2025-11-10
+1988,2006,134.0,Donna,Pulaski,3.0,2025-11-10
+1989,2007,92.0,Marie,Muckerman,4.0,2025-11-10
+1990,2008,67.0,David,Raese,2.0,2025-11-10
+1991,2009,50.0,Paul,Paroff,2.0,2025-11-10
+1992,2010,90.0,James (Jim),Mills,3.0,2025-11-10
+1993,2011,91.0,Patricia (Patti),Mills,3.0,2025-11-10
+1994,2012,66.0,Rick,Nelson,2.0,2025-11-10
+1995,2013,117.0,Per,Cummings,2.0,2025-11-11
+1996,2014,49.0,Chris,Smith,2.0,2025-11-10
+1997,2015,40.0,Maureen,Traxler,3.0,2025-11-10
+1998,2016,60.0,Theresa,Sweet,4.0,2025-11-11
+1999,2017,118.0,Rene,Campbell,2.0,2025-11-10
+2000,2018,110.0,Jamie,Stockton,2.0,2025-11-11
+2001,2019,24.0,Mike,Massey,5.25,2025-11-10
+2002,2020,4.0,Toni,Massey,5.25,2025-11-10
+2003,2021,132.0,Tad (Thomas),Lutz,2.25,2025-11-10
+2004,2022,48.0,Erik,Wold,2.25,2025-11-10
+2005,2023,52.0,Davin,Kesler,2.25,2025-11-10
+2006,2024,34.0,Rachelle,Brown,1.5,2025-11-10
+2007,2025,36.0,Volunteer,Volunteers,12.0,2025-11-10
+2008,2026,4.0,Toni,Massey,15.0,2025-09-30
+2009,2027,4.0,Toni,Massey,15.0,2025-10-31
+2010,2028,28.0,Mari,Rogers,2.5,2025-11-11
+2011,2029,10.0,Greg,Malland,3.0,2025-11-13
+2012,2030,10.0,Greg,Malland,2.5,2025-11-13
+2013,2031,10.0,Greg,Malland,4.0,2025-11-11
+2014,2032,10.0,Greg,Malland,1.0,2025-11-12
+2015,2033,10.0,Greg,Malland,2.0,2025-11-10
+2016,2034,10.0,Greg,Malland,4.0,2025-11-10
+2017,2035,5.0,Lisa,Edwards,2.0,2025-11-14
+2018,2036,10.0,Greg,Malland,3.0,2025-11-14
+2019,2037,10.0,Greg,Malland,3.0,2025-11-15
+2020,2038,10.0,Greg,Malland,2.0,2025-11-16
+2021,2039,10.0,Greg,Malland,2.5,2025-11-17
+2022,2040,10.0,Greg,Malland,1.0,2025-11-17
+2023,2041,97.0,Amanda,Andrus,2.0,2025-11-17
+2024,2042,104.0,Carolyn,Lord,1.5,2025-11-17
+2025,2043,60.0,Theresa,Sweet,2.5,2025-11-17
+2026,2044,112.0,Sarah,Thom,2.0,2025-11-17
+2027,2045,113.0,Parker,Thom,2.0,2025-11-17
+2028,2046,5.0,Lisa,Edwards,3.0,2025-11-17
+2029,2047,10.0,Greg,Malland,2.5,2025-11-19
+2030,2048,10.0,Greg,Malland,1.0,2025-11-19
+2031,2049,5.0,Lisa,Edwards,1.5,2025-11-19
+2032,2050,5.0,Lisa,Edwards,2.5,2025-11-20
+2033,2051,5.0,Lisa,Edwards,2.5,2025-11-21
+2034,2052,60.0,Theresa,Sweet,2.0,2025-11-21
+2035,2053,134.0,Donna,Pulaski,1.5,2025-11-21
+2036,2054,136.0,Susan,Stimpert,1.5,2025-11-21
+2037,2055,137.0,Maisie,Stimpert,1.5,2025-11-21
+2038,2056,40.0,Maureen,Traxler,1.5,2025-11-21
+2039,2057,104.0,Carolyn,Lord,1.5,2025-11-21
+2040,2058,133.0,Lien (Lynn),Ha,1.0,2025-11-21
+2041,2059,86.0,Diane,Lear,2.0,2025-11-21
+2042,2060,10.0,Greg,Malland,3.0,2025-11-21
+2043,2061,10.0,Greg,Malland,3.0,2025-11-20
+2044,2062,10.0,Greg,Malland,2.0,2025-11-23
+2045,2063,5.0,Lisa,Edwards,1.5,2025-11-23
+2046,2064,10.0,Greg,Malland,2.5,2025-11-24
+2047,2065,10.0,Greg,Malland,1.0,2025-11-24
+2048,2066,97.0,Amanda,Andrus,1.0,2025-11-24
+2049,2067,142.0,Jeremy,Andrus,1.0,2025-11-24
+2050,2068,5.0,Lisa,Edwards,4.0,2025-11-24
+2051,2069,48.0,Erik,Wold,2.0,2025-11-24
+2052,2070,52.0,Davin,Kesler,2.0,2025-11-24
+2053,2071,49.0,Chris,Smith,3.0,2025-11-25
+2054,2072,48.0,Erik,Wold,3.0,2025-11-25
+2055,2073,60.0,Theresa,Sweet,3.0,2025-11-25
+2056,2074,28.0,Mari,Rogers,2.5,2025-11-25
+2057,2075,66.0,Rick,Nelson,2.5,2025-11-25
+2058,2076,52.0,Davin,Kesler,2.5,2025-11-25
+2059,2077,136.0,Susan,Stimpert,2.5,2025-11-25
+2060,2078,137.0,Maisie,Stimpert,1.0,2025-11-25
+2061,2079,5.0,Lisa,Edwards,6.0,2025-11-25
+2062,2080,45.0,Steve,Bodensteiner,2.5,2025-11-25
+2063,2081,35.0,Martha,Stejskal,2.5,2025-11-25
+2064,2082,44.0,Stephen (Steve),Stejskal,2.5,2025-11-25
+2065,2083,104.0,Carolyn,Lord,1.5,2025-11-26
+2066,2084,43.0,Stephen (Steve),Anderson,1.0,2025-11-26
+2067,2085,5.0,Lisa,Edwards,2.0,2025-11-26
+2068,2086,141.0,Susie,Scott,1.0,2025-11-24
+2069,2087,4.0,Toni,Massey,6.25,2025-11-24
+2070,2088,4.0,Toni,Massey,3.0,2025-11-25
+2071,2089,27.0,Mark,Litzinger,7.0,2025-11-24
+2072,2090,26.0,John,Murray,7.0,2025-11-24
+2073,2091,1.0,Dorothy,Duff,7.0,2025-11-24
+2074,2092,35.0,Martha,Stejskal,4.5,2025-11-24
+2075,2093,44.0,Stephen (Steve),Stejskal,4.5,2025-11-24
+2076,2094,48.0,Erik,Wold,8.0,2025-11-24
+2077,2095,46.0,Judy,Ching,2.0,2025-11-24
+2078,2096,47.0,Holly,Ripley,2.5,2025-11-24
+2079,2097,109.0,Mary,Wehde,2.0,2025-11-28
+2080,2098,118.0,Rene,Campbell,2.5,2025-11-24
+2081,2099,50.0,Paul,Paroff,7.0,2025-11-24
+2082,2100,45.0,Steve,Bodensteiner,4.0,2025-11-24
+2083,2101,66.0,Rick,Nelson,6.5,2025-11-24
+2084,2102,92.0,Marie,Muckerman,5.0,2025-11-24
+2085,2103,134.0,Donna,Pulaski,3.25,2025-11-28
+2086,2104,93.0,Joe,Muckerman,1.0,2025-11-24
+2087,2105,49.0,Chris,Smith,2.5,2025-11-28
+2088,2106,36.0,Volunteer,Volunteers,2.5,2025-11-24
+2089,2107,90.0,James (Jim),Mills,4.5,2025-11-24
+2090,2108,91.0,Patricia (Patti),Mills,4.5,2025-11-28
+2091,2109,67.0,David,Raese,5.5,2025-11-24
+2092,2110,87.0,Genelle,Doten,5.0,2025-11-24
+2093,2111,104.0,Carolyn,Lord,4.5,2025-11-24
+2094,2112,41.0,Laurie,Cikatz,2.5,2025-11-24
+2095,2113,36.0,Volunteer,Volunteers,4.5,2025-11-24
+2096,2114,53.0,Suong (Sansan),Pritchett,3.0,2025-11-24
+2097,2115,34.0,Rachelle,Brown,2.0,2025-11-24
+2098,2116,110.0,Jamie,Stockton,3.0,2025-11-24
+2099,2117,26.0,John,Murray,5.0,2025-11-24
+2100,2118,26.0,John,Murray,3.5,2025-11-25
+2101,2119,1.0,Dorothy,Duff,3.0,2025-11-03
+2102,2120,1.0,Dorothy,Duff,5.0,2025-11-05
+2103,2121,1.0,Dorothy,Duff,3.0,2025-11-06
+2104,2122,1.0,Dorothy,Duff,1.0,2025-11-28
+2105,2123,1.0,Dorothy,Duff,1.0,2025-11-18
+2106,2124,1.0,Dorothy,Duff,1.0,2025-11-12
+2107,2125,1.0,Dorothy,Duff,2.0,2025-11-19
+2108,2126,1.0,Dorothy,Duff,3.0,2025-11-21
+2109,2127,1.0,Dorothy,Duff,2.0,2025-11-20
+2110,2128,1.0,Dorothy,Duff,1.0,2025-11-12
+2111,2129,1.0,Dorothy,Duff,7.0,2025-11-24
+2112,2130,1.0,Dorothy,Duff,6.0,2025-11-25
+2113,2131,1.0,Dorothy,Duff,1.0,2025-11-07
+2114,2132,1.0,Dorothy,Duff,2.5,2025-11-28
+2115,2133,1.0,Dorothy,Duff,3.0,2025-11-10
+2116,2134,1.0,Dorothy,Duff,5.0,2025-11-11
+2117,2135,140.0,Amanda,Adams,1.0,2025-11-29
+2118,2136,5.0,Lisa,Edwards,1.5,2025-11-29
+2119,2137,8.0,Nancy,Passovoy,3.0,2025-11-05
+2120,2138,8.0,Nancy,Passovoy,2.5,2025-11-10
+2121,2139,8.0,Nancy,Passovoy,2.5,2025-11-23
+2122,2140,71.0,Luke,Cleaver,2.0,2025-11-23
+2123,2141,56.0,Julie,Bruce,4.0,2025-11-23
+2124,2142,122.0,Ian,Petchel,1.0,2025-11-23
+2125,2143,125.0,Ann,Lumia,1.5,2025-11-23
+2126,2144,86.0,Diane,Lear,1.5,2025-11-23
+2127,2145,105.0,Robert,Lord,1.5,2025-11-23
+2128,2146,104.0,Carolyn,Lord,1.5,2025-11-23
+2129,2147,101.0,Tasha (Natalie),Hlavka,1.0,2025-11-23
+2130,2148,130.0,Senuri,Ushettige,1.0,2025-11-23
+2131,2149,76.0,Wendy,Shapiro,3.0,2025-11-23
+2132,2150,120.0,Katherine,Pompeo,2.0,2025-11-10
+2133,2151,68.0,Helen,Chung,2.0,2025-11-10
+2134,2152,5.0,Lisa,Edwards,5.5,2025-12-01
+2135,2153,60.0,Theresa,Sweet,3.5,2025-12-01
+2136,2154,97.0,Amanda,Andrus,1.0,2025-12-01
+2137,2155,87.0,Genelle,Doten,1.5,2025-12-01
+2138,2156,134.0,Donna,Pulaski,3.5,2025-12-01
+2139,2157,67.0,David,Raese,3.0,2025-12-01
+2140,2158,141.0,Susie,Scott,3.5,2025-12-01
+2141,2159,50.0,Paul,Paroff,3.0,2025-12-01
+2142,2160,48.0,Erik,Wold,3.0,2025-12-01
+2143,2161,36.0,Volunteer,Volunteers,5.5,2025-11-04
+2144,2162,36.0,Volunteer,Volunteers,2.5,2025-11-10
+2145,2163,36.0,Volunteer,Volunteers,2.0,2025-11-12
+2146,2164,36.0,Volunteer,Volunteers,2.0,2025-11-15
+2147,2165,36.0,Volunteer,Volunteers,4.0,2025-11-17
+2148,2166,36.0,Volunteer,Volunteers,6.0,2025-11-18
+2149,2167,36.0,Volunteer,Volunteers,1.5,2025-11-19
+2150,2168,36.0,Volunteer,Volunteers,1.0,2025-11-20
+2151,2169,36.0,Volunteer,Volunteers,6.0,2025-11-19
+2152,2170,36.0,Volunteer,Volunteers,1.5,2025-11-26
+2153,2171,36.0,Volunteer,Volunteers,2.0,2025-11-28
+2154,2172,36.0,Volunteer,Volunteers,2.5,2025-11-30
+2155,2380,10.0,Greg,Malland,2.0,2026-01-03
+2156,2379,10.0,Greg,Malland,2.0,2026-01-04
+2157,2176,36.0,Volunteer,Volunteers,1.0,2025-11-22
+2158,2178,36.0,Volunteer,Volunteers,4.0,2025-12-03
+2159,2179,10.0,Greg,Malland,1.5,2025-12-01
+2160,2180,10.0,Greg,Malland,2.0,2025-12-03
+2161,2181,10.0,Greg,Malland,2.0,2025-11-26
+2162,2182,10.0,Greg,Malland,2.0,2025-11-28
+2163,2183,72.0,Gary,Morris,1.0,2025-12-05
+2164,2184,43.0,Stephen (Steve),Anderson,1.0,2025-12-05
+2165,2185,5.0,Lisa,Edwards,3.5,2025-12-05
+2166,2186,5.0,Lisa,Edwards,2.5,2025-12-08
+2167,2187,52.0,Davin,Kesler,2.5,2025-12-09
+2168,2188,49.0,Chris,Smith,3.0,2025-12-09
+2169,2189,49.0,Chris,Smith,3.0,2025-12-09
+2170,2190,48.0,Erik,Wold,3.5,2025-12-09
+2171,2191,134.0,Donna,Pulaski,3.0,2025-12-09
+2172,2192,39.0,Cam-Tu,Vo,2.5,2025-12-09
+2173,2193,136.0,Susan,Stimpert,2.0,2025-12-09
+2174,2194,137.0,Maisie,Stimpert,1.0,2025-12-09
+2175,2195,60.0,Theresa,Sweet,3.0,2025-12-09
+2176,2196,104.0,Carolyn,Lord,1.0,2025-12-11
+2177,2197,5.0,Lisa,Edwards,4.0,2025-12-11
+2178,2198,90.0,James (Jim),Mills,2.5,2025-12-09
+2179,2199,40.0,Maureen,Traxler,1.5,2025-12-15
+2180,2200,48.0,Erik,Wold,2.0,2025-12-15
+2181,2201,67.0,David,Raese,2.5,2025-12-15
+2182,2202,131.0,Broni,Andrus,2.0,2025-12-15
+2183,2203,43.0,Stephen (Steve),Anderson,2.5,2025-12-15
+2184,2204,50.0,Paul,Paroff,2.0,2025-12-15
+2185,2205,5.0,Lisa,Edwards,1.5,2025-12-16
+2186,2206,5.0,Lisa,Edwards,3.5,2025-12-15
+2187,2207,43.0,Stephen (Steve),Anderson,1.0,2025-12-17
+2188,2208,131.0,Broni,Andrus,1.0,2025-12-17
+2189,2209,126.0,Wesley,Andrus,1.0,2025-12-17
+2190,2210,60.0,Theresa,Sweet,1.5,2025-12-17
+2191,2211,134.0,Donna,Pulaski,1.0,2025-12-17
+2192,2212,97.0,Amanda,Andrus,1.0,2025-12-17
+2193,2213,141.0,Susie,Scott,1.5,2025-12-17
+2194,2214,5.0,Lisa,Edwards,3.0,2025-12-17
+2195,2215,10.0,Greg,Malland,2.0,2025-12-11
+2196,2216,10.0,Greg,Malland,1.5,2025-12-15
+2197,2217,10.0,Greg,Malland,2.0,2025-12-11
+2198,2218,10.0,Greg,Malland,2.0,2025-12-12
+2199,2219,10.0,Greg,Malland,2.0,2025-12-16
+2200,2220,26.0,John,Murray,3.0,2025-12-08
+2201,2221,26.0,John,Murray,3.0,2025-12-09
+2202,2222,26.0,John,Murray,2.0,2025-12-11
+2203,2223,26.0,John,Murray,1.0,2025-12-17
+2204,2224,115.0,Sammie,Tang,1.5,2025-12-23
+2205,2225,116.0,Evelyn,Tang,1.5,2025-12-23
+2206,2226,39.0,Cam-Tu,Vo,1.5,2025-12-23
+2207,2227,136.0,Susan,Stimpert,1.0,2025-12-23
+2208,2228,137.0,Maisie,Stimpert,1.0,2025-12-23
+2209,2229,48.0,Erik,Wold,3.5,2025-12-23
+2210,2230,34.0,Rachelle,Brown,2.0,2025-12-23
+2211,2231,38.0,Anna,Smeby,2.0,2025-12-23
+2212,2232,52.0,Davin,Kesler,2.5,2025-12-23
+2213,2233,49.0,Chris,Smith,3.0,2025-12-23
+2214,2234,50.0,Paul,Paroff,6.5,2025-12-23
+2215,2235,134.0,Donna,Pulaski,2.5,2025-12-23
+2216,2236,5.0,Lisa,Edwards,6.0,2025-12-23
+2217,2237,126.0,Wesley,Andrus,1.5,2025-12-23
+2218,2238,96.0,Trygve (pron. Trig),Andrus,1.5,2025-12-23
+2219,2239,131.0,Broni,Andrus,1.5,2025-12-23
+2220,2240,152.0,Nina,DeLeon,1.5,2025-12-23
+2221,2241,97.0,Amanda,Andrus,1.5,2025-12-23
+2222,2242,24.0,Mike,Massey,5.0,2025-12-22
+2223,2243,4.0,Toni,Massey,5.0,2025-12-22
+2224,2244,40.0,Maureen,Traxler,4.5,2025-12-22
+2225,2245,11.0,Roger,Long,5.0,2025-12-22
+2226,2246,46.0,Judy,Ching,2.5,2025-12-22
+2227,2247,47.0,Holly,Ripley,2.5,2025-12-22
+2228,2248,72.0,Gary,Morris,2.0,2025-12-22
+2229,2249,109.0,Mary,Wehde,2.0,2025-12-22
+2230,2250,118.0,Rene,Campbell,2.0,2025-12-22
+2231,2251,49.0,Chris,Smith,2.0,2025-12-22
+2232,2252,50.0,Paul,Paroff,5.0,2025-12-22
+2233,2253,36.0,Volunteer,Volunteers,2.0,2025-12-22
+2234,2254,52.0,Davin,Kesler,4.0,2025-12-22
+2235,2255,92.0,Marie,Muckerman,4.5,2025-12-22
+2236,2256,26.0,John,Murray,3.0,2025-12-22
+2237,2257,135.0,Zia,Uddin,2.0,2025-12-22
+2238,2258,41.0,Laurie,Cikatz,4.0,2025-12-22
+2239,2259,132.0,Tad (Thomas),Lutz,3.5,2025-12-22
+2240,2260,91.0,Patricia (Patti),Mills,2.0,2025-12-22
+2241,2261,90.0,James (Jim),Mills,3.0,2025-12-22
+2242,2262,36.0,Volunteer,Volunteers,2.5,2025-12-22
+2243,2263,38.0,Anna,Smeby,3.0,2025-12-22
+2244,2264,104.0,Carolyn,Lord,3.0,2025-12-22
+2245,2265,1.0,Dorothy,Duff,4.0,2025-12-22
+2246,2266,93.0,Joe,Muckerman,3.0,2025-12-22
+2247,2267,48.0,Erik,Wold,3.0,2025-12-22
+2248,2268,73.0,Doreen,Berkoh,2.0,2025-12-22
+2249,2269,141.0,Susie,Scott,1.5,2025-12-22
+2250,2270,110.0,Jamie,Stockton,2.0,2025-12-22
+2251,2271,66.0,Rick,Nelson,3.0,2025-12-22
+2252,2272,40.0,Maureen,Traxler,2.5,2025-12-25
+2253,2273,65.0,Jim,Voetberg,2.0,2025-12-09
+2254,2274,65.0,Jim,Voetberg,2.0,2025-12-16
+2255,2275,65.0,Jim,Voetberg,2.0,2025-12-16
+2256,2276,12.0,Kim,Voetberg,2.0,2025-12-16
+2257,2277,12.0,Kim,Voetberg,2.0,2025-12-11
+2258,2278,12.0,Kim,Voetberg,2.0,2025-12-05
+2259,2279,4.0,Toni,Massey,10.0,2025-12-31
+2260,2280,5.0,Lisa,Edwards,2.0,2025-12-24
+2261,2281,10.0,Greg,Malland,2.0,2025-12-29
+2262,2282,10.0,Greg,Malland,1.0,2025-12-29
+2263,2283,10.0,Greg,Malland,1.5,2025-12-22
+2264,2284,10.0,Greg,Malland,1.5,2025-12-22
+2265,2285,10.0,Greg,Malland,1.5,2025-12-23
+2266,2286,10.0,Greg,Malland,2.0,2025-12-25
+2267,2287,24.0,Mike,Massey,5.0,2025-12-08
+2268,2288,40.0,Maureen,Traxler,5.0,2025-12-08
+2269,2289,11.0,Roger,Long,5.0,2025-12-08
+2270,2290,46.0,Judy,Ching,5.0,2025-12-08
+2271,2291,47.0,Holly,Ripley,5.0,2025-12-08
+2272,2292,72.0,Gary,Morris,5.0,2025-12-08
+2273,2293,109.0,Mary,Wehde,5.0,2025-12-08
+2274,2294,118.0,Rene,Campbell,4.0,2025-12-08
+2275,2295,49.0,Chris,Smith,5.0,2025-12-08
+2276,2296,50.0,Paul,Paroff,5.0,2025-12-08
+2277,2297,52.0,Davin,Kesler,4.5,2025-12-08
+2278,2298,92.0,Marie,Muckerman,4.5,2025-12-08
+2279,2299,41.0,Laurie,Cikatz,4.0,2025-12-08
+2280,2300,132.0,Tad (Thomas),Lutz,3.5,2025-12-08
+2281,2301,91.0,Patricia (Patti),Mills,3.0,2025-12-08
+2282,2302,90.0,James (Jim),Mills,3.0,2025-12-08
+2283,2303,104.0,Carolyn,Lord,3.0,2025-12-08
+2284,2304,93.0,Joe,Muckerman,3.0,2025-12-08
+2285,2305,48.0,Erik,Wold,3.5,2025-12-08
+2286,2306,134.0,Donna,Pulaski,3.5,2025-12-08
+2287,2307,136.0,Susan,Stimpert,3.0,2025-12-08
+2288,2308,79.0,Paul,Swensen,1.5,2025-12-03
+2289,2309,80.0,LaChella (Shelly),Swensen,1.5,2025-12-03
+2290,2310,123.0,Carrie,Compton,1.5,2025-12-03
+2291,2311,124.0,Steven (Steve),Compton,1.5,2025-12-03
+2292,2312,86.0,Diane,Lear,1.5,2025-12-03
+2293,2313,84.0,Christina,McCoy,1.5,2025-12-03
+2294,2314,60.0,Theresa,Sweet,1.5,2025-12-03
+2295,2315,134.0,Donna,Pulaski,1.5,2025-12-03
+2296,2316,8.0,Nancy,Passovoy,6.0,2025-12-30
+2297,2317,8.0,Nancy,Passovoy,3.0,2025-12-09
+2298,2318,8.0,Nancy,Passovoy,3.0,2025-12-21
+2299,2319,71.0,Luke,Cleaver,2.0,2025-12-21
+2300,2320,56.0,Julie,Bruce,6.0,2025-12-21
+2301,2321,86.0,Diane,Lear,2.0,2025-12-21
+2302,2322,104.0,Carolyn,Lord,1.5,2025-12-21
+2303,2323,76.0,Wendy,Shapiro,3.0,2025-12-21
+2304,2324,5.0,Lisa,Edwards,2.5,2025-12-30
+2305,2325,100.0,Rylee,Harrison,1.5,2025-12-30
+2306,2326,152.0,Nina,DeLeon,2.0,2025-12-30
+2307,2327,150.0,Tom,Zamzow,2.0,2025-12-30
+2308,2328,60.0,Theresa,Sweet,2.0,2025-12-30
+2309,2329,134.0,Donna,Pulaski,2.0,2025-12-30
+2310,2330,135.0,Zia,Uddin,2.0,2025-12-30
+2311,2331,142.0,Jeremy,Andrus,1.5,2025-12-30
+2312,2332,97.0,Amanda,Andrus,1.5,2025-12-30
+2313,2333,126.0,Wesley,Andrus,1.5,2025-12-30
+2314,2334,159.0,Jade,Berger,1.5,2025-12-30
+2315,2335,5.0,Lisa,Edwards,1.0,2025-12-30
+2316,2336,10.0,Greg,Malland,2.0,2025-12-30
+2317,2337,10.0,Greg,Malland,2.0,2025-12-30
+2318,2338,10.0,Greg,Malland,1.0,2025-12-30
+2319,2339,1.0,Dorothy,Duff,3.5,2025-12-01
+2320,2340,1.0,Dorothy,Duff,1.5,2025-12-02
+2321,2341,1.0,Dorothy,Duff,3.0,2025-12-03
+2322,2342,1.0,Dorothy,Duff,2.0,2025-12-31
+2323,2343,1.0,Dorothy,Duff,2.0,2025-12-05
+2324,2344,1.0,Dorothy,Duff,5.5,2025-12-08
+2325,2345,1.0,Dorothy,Duff,4.0,2025-12-09
+2326,2346,1.0,Dorothy,Duff,1.5,2025-12-10
+2327,2347,1.0,Dorothy,Duff,3.0,2025-12-11
+2328,2348,1.0,Dorothy,Duff,1.0,2025-12-12
+2329,2349,1.0,Dorothy,Duff,5.0,2025-12-15
+2330,2350,1.0,Dorothy,Duff,2.5,2025-12-17
+2331,2351,1.0,Dorothy,Duff,2.0,2025-12-18
+2332,2352,1.0,Dorothy,Duff,2.0,2025-12-20
+2333,2353,1.0,Dorothy,Duff,2.0,2025-12-22
+2334,2354,1.0,Dorothy,Duff,4.5,2025-12-23
+2335,2355,1.0,Dorothy,Duff,3.0,2025-12-29
+2336,2356,1.0,Dorothy,Duff,3.0,2025-12-30
+2337,2357,1.0,Dorothy,Duff,2.0,2025-12-31
+2338,2358,5.0,Lisa,Edwards,1.0,2025-12-31
+2339,2359,85.0,Jason,Moon,1.0,2025-12-31
+2340,2360,48.0,Erik,Wold,0.5,2025-12-31
+2341,2361,160.0,Troop 189,Troop 189,45.0,2025-12-15
+2342,2383,86.0,Diane,Lear,1.5,2026-01-05
+2343,2382,133.0,Lien (Lynn),Ha,1.5,2026-01-05
+2344,2364,36.0,Volunteer,Volunteers,1.5,2026-01-01
+2345,2365,36.0,Volunteer,Volunteers,1.5,2025-12-04
+2346,2366,36.0,Volunteer,Volunteers,2.5,2025-12-05
+2347,2367,36.0,Volunteer,Volunteers,3.5,2025-12-08
+2348,2368,36.0,Volunteer,Volunteers,1.0,2025-12-09
+2349,2369,36.0,Volunteer,Volunteers,1.0,2025-12-11
+2350,2370,36.0,Volunteer,Volunteers,4.0,2025-12-15
+2351,2371,36.0,Volunteer,Volunteers,3.0,2025-12-16
+2352,2372,36.0,Volunteer,Volunteers,1.0,2025-12-17
+2353,2373,36.0,Volunteer,Volunteers,1.5,2025-12-22
+2354,2374,36.0,Volunteer,Volunteers,2.0,2025-12-27
+2355,2375,36.0,Volunteer,Volunteers,5.0,2025-12-31
+2356,2381,10.0,Greg,Malland,2.0,2026-01-02
+2357,2378,36.0,Volunteer,Volunteers,1.15,2025-12-31
+2358,2384,50.0,Paul,Paroff,1.5,2026-01-05
+2359,2385,60.0,Theresa,Sweet,1.5,2026-01-05
+2360,2386,134.0,Donna,Pulaski,1.5,2026-01-05
+2361,2387,97.0,Amanda,Andrus,1.5,2026-01-05
+2362,2388,27.0,Mark,Litzinger,2.0,2026-01-05
+2363,2389,5.0,Lisa,Edwards,2.5,2026-01-05
+2364,2390,10.0,Greg,Malland,2.0,2026-01-06
+2365,2391,5.0,Lisa,Edwards,2.0,2026-01-07
+2366,2392,5.0,Lisa,Edwards,4.0,2026-01-09
+2367,2393,26.0,John,Murray,2.5,2026-01-08
+2368,2394,10.0,Greg,Malland,1.0,2026-01-10
+2369,2395,10.0,Greg,Malland,2.5,2026-01-08
+2370,2396,10.0,Greg,Malland,1.0,2026-01-09
+2371,2397,10.0,Greg,Malland,2.5,2026-01-12
+2372,2398,34.0,Rachelle,Brown,3.5,2026-01-12
+2373,2399,5.0,Lisa,Edwards,2.0,2026-01-12
+2374,2400,69.0,Mary,Rider,2.5,2026-01-13
+2375,2401,134.0,Donna,Pulaski,2.75,2026-01-13
+2376,2402,34.0,Rachelle,Brown,2.25,2026-01-13
+2377,2403,60.0,Theresa,Sweet,2.75,2026-01-13
+2378,2404,48.0,Erik,Wold,2.5,2026-01-13
+2379,2405,153.0,Jennifer or Jenny,Augustine,2.0,2026-01-13
+2380,2406,102.0,Matthew,Young,1.5,2026-01-13
+2381,2407,5.0,Lisa,Edwards,5.5,2026-01-13
+2382,2408,49.0,Chris,Smith,3.0,2026-01-13
+2383,2409,31.0,Volunteers,Distribution Day - Tuesday,1.5,2026-01-13
+2384,2410,5.0,Lisa,Edwards,1.0,2026-01-14
+2385,2411,5.0,Lisa,Edwards,2.5,2026-01-19
+2386,2412,60.0,Theresa,Sweet,1.5,2026-01-19
+2387,2413,134.0,Donna,Pulaski,2.0,2026-01-19
+2388,2414,163.0,Eileen,Harrington,2.0,2026-01-19
+2389,2415,10.0,Greg,Malland,2.0,2026-01-22
+2390,2416,10.0,Greg,Malland,1.5,2026-01-22
+2391,2417,10.0,Greg,Malland,2.0,2026-01-21
+2392,2418,10.0,Greg,Malland,1.5,2026-01-20
+2393,2627,5.0,Lisa,Edwards,1.5,2026-02-05
+2394,2420,10.0,Greg,Malland,3.0,2026-01-15
+2395,2421,5.0,Lisa,Edwards,5.0,2026-01-22
+2396,2422,111.0,Alysa,Meng,0.5,2026-01-23
+2397,2423,10.0,Greg,Malland,2.0,2026-01-24
+2398,2424,8.0,Nancy,Passovoy,4.0,2026-01-26
+2399,2425,8.0,Nancy,Passovoy,3.0,2026-01-24
+2400,2426,8.0,Nancy,Passovoy,5.0,2026-01-26
+2401,2427,104.0,Carolyn,Lord,1.0,2026-01-24
+2402,2428,105.0,Robert,Lord,1.0,2026-01-24
+2403,2429,56.0,Julie,Bruce,2.0,2026-01-24
+2404,2430,59.0,Isla,Bruce,2.0,2026-01-24
+2405,2431,115.0,Sammie,Tang,1.0,2026-01-24
+2406,2432,86.0,Diane,Lear,1.0,2026-01-24
+2407,2433,122.0,Ian,Petchel,1.0,2026-01-24
+2408,2434,71.0,Luke,Cleaver,2.0,2026-01-24
+2409,2435,130.0,Senuri,Ushettige,1.0,2026-01-24
+2410,2436,152.0,Nina,DeLeon,1.0,2026-01-24
+2411,2437,8.0,Nancy,Passovoy,3.0,2026-01-24
+2412,2438,10.0,Greg,Malland,2.0,2026-01-26
+2413,2439,10.0,Greg,Malland,1.0,2026-01-26
+2414,2440,47.0,Holly,Ripley,3.0,2026-01-26
+2415,2441,50.0,Paul,Paroff,4.0,2026-01-26
+2416,2442,109.0,Mary,Wehde,2.5,2026-01-26
+2417,2443,11.0,Roger,Long,3.5,2026-01-26
+2418,2444,117.0,Per,Cummings,2.5,2026-01-26
+2419,2445,165.0,Chris,Eastling,2.5,2026-01-26
+2420,2446,93.0,Joe,Muckerman,3.5,2026-01-26
+2421,2447,92.0,Marie,Muckerman,4.5,2026-01-26
+2422,2448,44.0,Stephen (Steve),Stejskal,2.5,2026-01-26
+2423,2449,35.0,Martha,Stejskal,2.5,2026-01-26
+2424,2450,90.0,James (Jim),Mills,4.5,2026-01-26
+2425,2451,132.0,Tad (Thomas),Lutz,3.5,2026-01-26
+2426,2452,5.0,Lisa,Edwards,4.5,2026-01-26
+2427,2453,40.0,Maureen,Traxler,4.5,2026-01-26
+2428,2454,135.0,Zia,Uddin,3.5,2026-01-26
+2429,2455,67.0,David,Raese,2.0,2026-01-26
+2430,2456,162.0,Pamela (Pam),Dellino,2.0,2026-01-26
+2431,2457,110.0,Jamie,Stockton,2.0,2026-01-26
+2432,2458,104.0,Carolyn,Lord,3.5,2026-01-26
+2433,2459,110.0,Jamie,Stockton,1.0,2026-01-26
+2434,2460,157.0,Jennifer (Jen),Welsh,2.0,2026-01-26
+2435,2461,149.0,John,Welsh,2.0,2026-01-26
+2436,2462,48.0,Erik,Wold,3.5,2026-01-26
+2437,2463,70.0,Cynthia,Patschke,2.5,2026-01-26
+2438,2464,4.0,Toni,Massey,2.5,2026-01-26
+2439,2465,24.0,Mike,Massey,2.5,2026-01-26
+2440,2466,161.0,Justin (JP),McPherren,2.5,2026-01-26
+2441,2467,49.0,Chris,Smith,2.0,2026-01-27
+2442,2468,50.0,Paul,Paroff,2.5,2026-01-27
+2443,2469,34.0,Rachelle,Brown,2.25,2026-01-27
+2444,2470,52.0,Davin,Kesler,2.5,2026-01-27
+2445,2471,48.0,Erik,Wold,3.5,2026-01-27
+2446,2476,39.0,Cam-Tu,Vo,3.0,2026-01-27
+2447,2473,152.0,Nina,DeLeon,2.0,2026-01-27
+2448,2474,60.0,Theresa,Sweet,3.0,2026-01-27
+2449,2475,134.0,Donna,Pulaski,3.0,2026-01-27
+2450,2477,41.0,Laurie,Cikatz,2.5,2026-01-26
+2451,2478,137.0,Maisie,Stimpert,1.0,2026-01-27
+2452,2479,31.0,Volunteers,Distribution Day - Tuesday,3.0,2026-01-27
+2453,2480,164.0,Jennifer (Irie),Adams,1.5,2026-01-27
+2454,2481,168.0,MaryKay,Heric,2.0,2026-01-27
+2455,2482,72.0,Gary,Morris,2.5,2026-01-27
+2456,2483,90.0,James (Jim),Mills,2.0,2026-01-27
+2457,2484,5.0,Lisa,Edwards,5.0,2026-01-27
+2458,2485,26.0,John,Murray,4.0,2026-01-26
+2459,2486,26.0,John,Murray,3.5,2026-01-27
+2460,2487,153.0,Jennifer or Jenny,Augustine,1.5,2026-01-27
+2461,2488,1.0,Dorothy,Duff,4.5,2026-01-05
+2462,2489,1.0,Dorothy,Duff,2.0,2026-01-06
+2463,2490,1.0,Dorothy,Duff,2.5,2026-01-07
+2464,2491,1.0,Dorothy,Duff,3.0,2026-01-08
+2465,2492,1.0,Dorothy,Duff,7.0,2026-01-12
+2466,2493,1.0,Dorothy,Duff,5.0,2026-01-13
+2467,2494,1.0,Dorothy,Duff,1.0,2026-01-14
+2468,2495,1.0,Dorothy,Duff,2.0,2026-01-15
+2469,2496,1.0,Dorothy,Duff,2.0,2026-01-20
+2470,2497,1.0,Dorothy,Duff,3.0,2026-01-21
+2471,2498,1.0,Dorothy,Duff,2.0,2026-01-22
+2472,2499,1.0,Dorothy,Duff,1.0,2026-01-25
+2473,2500,1.0,Dorothy,Duff,1.0,2026-01-26
+2474,2501,1.0,Dorothy,Duff,4.5,2026-01-27
+2475,2502,5.0,Lisa,Edwards,2.5,2026-02-02
+2476,2503,166.0,Darla,Bauer,1.5,2026-02-02
+2477,2504,168.0,MaryKay,Heric,1.5,2026-02-02
+2478,2505,141.0,Susie,Scott,2.0,2026-02-02
+2479,2506,67.0,David,Raese,1.0,2026-02-02
+2480,2507,50.0,Paul,Paroff,1.5,2026-02-02
+2481,2508,52.0,Davin,Kesler,1.5,2026-02-02
+2482,2509,60.0,Theresa,Sweet,2.0,2026-02-02
+2483,2510,72.0,Gary,Morris,1.5,2026-02-02
+2484,2511,5.0,Lisa,Edwards,1.5,2026-02-02
+2485,2512,36.0,Volunteer,Volunteers,1.0,2026-01-03
+2486,2513,62.0,Robert (Bob),Myers,1.5,2026-01-06
+2487,2514,62.0,Robert (Bob),Myers,1.5,2026-01-12
+2488,2515,62.0,Robert (Bob),Myers,1.0,2026-01-19
+2489,2820,28.0,Mari,Rogers,2.0,2026-03-10
+2490,2605,93.0,Joe,Muckerman,1.0,2026-01-22
+2491,2575,86.0,Diane,Lear,1.0,2026-01-06
+2492,2519,48.0,Erik,Wold,4.0,2026-01-12
+2493,2520,48.0,Erik,Wold,2.0,2026-01-29
+2494,2571,82.0,Darryl,Gibson,1.0,2026-01-06
+2495,2579,39.0,Cam-Tu,Vo,1.0,2026-01-06
+2496,2577,79.0,Paul,Swensen,1.0,2026-01-06
+2497,2567,124.0,Steven (Steve),Compton,1.0,2026-01-06
+2498,2565,123.0,Carrie,Compton,1.0,2026-01-06
+2499,2569,84.0,Christina,McCoy,1.0,2026-01-06
+2500,2818,5.0,Lisa,Edwards,1.5,2026-03-06
+2501,2529,6.0,Zhanna,Kochubey,2.0,2026-01-17
+2502,2530,6.0,Zhanna,Kochubey,2.0,2026-01-24
+2503,2531,6.0,Zhanna,Kochubey,1.5,2026-01-31
+2504,2821,49.0,Chris,Smith,2.5,2026-03-10
+2505,2533,36.0,Volunteer,Volunteers,2.0,2026-01-21
+2506,2817,166.0,Darla,Bauer,1.0,2026-03-06
+2507,2573,83.0,Cheryl,Gibson,1.0,2026-01-06
+2508,2563,50.0,Paul,Paroff,1.5,2026-01-06
+2509,2816,50.0,Paul,Paroff,1.0,2026-03-05
+2510,2539,8.0,Nancy,Passovoy,4.0,2026-01-12
+2511,2540,47.0,Holly,Ripley,3.0,2026-01-12
+2512,2541,50.0,Paul,Paroff,4.0,2026-01-12
+2513,2542,109.0,Mary,Wehde,2.5,2026-01-12
+2514,2543,11.0,Roger,Long,3.5,2026-01-12
+2515,2544,117.0,Per,Cummings,2.5,2026-01-12
+2516,2545,165.0,Chris,Eastling,2.5,2026-01-12
+2517,2546,93.0,Joe,Muckerman,3.5,2026-01-12
+2518,2547,92.0,Marie,Muckerman,3.5,2026-01-12
+2519,2548,44.0,Stephen (Steve),Stejskal,2.5,2026-01-12
+2520,2549,35.0,Martha,Stejskal,2.5,2026-01-12
+2521,2550,90.0,James (Jim),Mills,4.5,2026-01-12
+2522,2551,132.0,Tad (Thomas),Lutz,3.5,2026-01-12
+2523,2553,40.0,Maureen,Traxler,4.0,2026-01-12
+2524,2554,135.0,Zia,Uddin,3.5,2026-01-12
+2525,2555,67.0,David,Raese,2.0,2026-01-12
+2526,2556,110.0,Jamie,Stockton,2.0,2026-01-12
+2527,2557,104.0,Carolyn,Lord,3.5,2026-01-12
+2528,2558,157.0,Jennifer (Jen),Welsh,2.0,2026-01-12
+2529,2559,149.0,John,Welsh,2.0,2026-01-12
+2530,2560,70.0,Cynthia,Patschke,2.5,2026-01-12
+2531,2561,41.0,Laurie,Cikatz,2.5,2026-01-12
+2532,2562,1.0,Dorothy,Duff,4.5,2026-02-02
+2533,2593,90.0,James (Jim),Mills,1.5,2026-01-12
+2534,2581,152.0,Nina,DeLeon,1.0,2026-01-06
+2535,2603,143.0,Kathy,Smith,2.0,2026-01-17
+2536,2583,60.0,Theresa,Sweet,1.0,2026-01-06
+2537,2607,92.0,Marie,Muckerman,1.0,2026-01-22
+2538,2585,134.0,Donna,Pulaski,1.0,2026-01-06
+2539,2597,92.0,Marie,Muckerman,1.5,2026-01-14
+2540,2587,93.0,Joe,Muckerman,1.5,2026-01-08
+2541,2599,93.0,Joe,Muckerman,1.0,2026-01-15
+2542,2589,92.0,Marie,Muckerman,1.5,2026-01-08
+2543,2595,93.0,Joe,Muckerman,1.5,2026-01-14
+2544,2591,62.0,Robert (Bob),Myers,1.5,2026-01-12
+2545,2634,5.0,Lisa,Edwards,1.5,2026-02-07
+2546,2601,92.0,Marie,Muckerman,1.0,2026-01-15
+2547,2630,134.0,Donna,Pulaski,2.0,2026-02-06
+2548,2631,60.0,Theresa,Sweet,1.5,2026-02-06
+2549,2609,93.0,Joe,Muckerman,2.0,2026-01-23
+2550,2635,48.0,Erik,Wold,2.25,2026-02-10
+2551,2611,92.0,Marie,Muckerman,2.0,2026-01-23
+2552,2632,97.0,Amanda,Andrus,1.0,2026-02-06
+2553,2613,149.0,John,Welsh,1.5,2026-01-24
+2554,2628,40.0,Maureen,Traxler,1.5,2026-02-07
+2555,2615,157.0,Jennifer (Jen),Welsh,1.5,2026-01-24
+2556,2629,5.0,Lisa,Edwards,2.0,2026-02-06
+2557,2617,50.0,Paul,Paroff,2.0,2026-01-29
+2558,2619,93.0,Joe,Muckerman,1.5,2026-01-29
+2559,2636,34.0,Rachelle,Brown,2.0,2026-02-10
+2560,2621,92.0,Marie,Muckerman,1.5,2026-01-29
+2561,2633,40.0,Maureen,Traxler,1.5,2026-02-06
+2562,2623,151.0,Regina,Bowen,1.0,2026-01-31
+2563,2637,69.0,Mary,Rider,2.0,2026-02-10
+2564,2625,167.0,Margaret (Peggy),Ahrens,1.0,2026-01-31
+2565,2638,69.0,Mary,Rider,2.0,2026-02-10
+2566,2639,52.0,Davin,Kesler,2.5,2026-02-10
+2567,2640,49.0,Chris,Smith,3.0,2026-02-10
+2568,2641,156.0,Aleksander (Alex),Braksator,2.5,2026-02-10
+2569,2642,50.0,Paul,Paroff,2.5,2026-02-10
+2570,2643,134.0,Donna,Pulaski,2.5,2026-02-10
+2571,2644,5.0,Lisa,Edwards,3.5,2026-02-10
+2572,2645,60.0,Theresa,Sweet,3.0,2026-02-10
+2573,2646,136.0,Susan,Stimpert,1.0,2026-02-10
+2574,2647,167.0,Margaret (Peggy),Ahrens,1.5,2026-02-10
+2575,2648,137.0,Maisie,Stimpert,1.0,2026-02-10
+2576,2649,164.0,Jennifer (Irie),Adams,1.5,2026-02-10
+2577,2650,12.0,Kim,Voetberg,3.0,2026-01-09
+2578,2651,12.0,Kim,Voetberg,3.0,2026-01-22
+2579,2652,12.0,Kim,Voetberg,5.0,2026-01-22
+2580,2653,65.0,Jim,Voetberg,3.0,2026-01-13
+2581,2654,65.0,Jim,Voetberg,3.0,2026-02-10
+2582,2655,12.0,Kim,Voetberg,2.0,2026-01-14
+2583,2656,62.0,Robert (Bob),Myers,2.0,2026-02-02
+2584,2657,49.0,Chris,Smith,2.0,2026-02-02
+2585,2658,123.0,Carrie,Compton,1.0,2026-02-04
+2586,2659,125.0,Ann,Lumia,1.0,2026-02-04
+2587,2660,84.0,Christina,McCoy,1.0,2026-02-04
+2588,2661,152.0,Nina,DeLeon,1.0,2026-02-04
+2589,2662,86.0,Diane,Lear,1.5,2026-02-04
+2590,2663,141.0,Susie,Scott,1.5,2026-02-04
+2591,2664,92.0,Marie,Muckerman,1.5,2026-02-04
+2592,2665,93.0,Joe,Muckerman,1.5,2026-02-04
+2593,2666,43.0,Stephen (Steve),Anderson,1.5,2026-02-05
+2594,2667,93.0,Joe,Muckerman,0.5,2026-02-05
+2595,2668,92.0,Marie,Muckerman,0.5,2026-02-05
+2596,2669,157.0,Jennifer (Jen),Welsh,1.5,2026-02-07
+2597,2670,149.0,John,Welsh,1.5,2026-02-07
+2598,2671,62.0,Robert (Bob),Myers,1.0,2026-02-09
+2599,2672,48.0,Erik,Wold,4.0,2026-02-09
+2600,2673,5.0,Lisa,Edwards,3.5,2026-02-12
+2601,2674,4.0,Toni,Massey,5.0,2026-02-09
+2602,2675,24.0,Mike,Massey,5.0,2026-02-09
+2603,2676,27.0,Mark,Litzinger,5.0,2026-02-09
+2604,2677,87.0,Genelle,Doten,2.5,2026-02-09
+2605,2678,47.0,Holly,Ripley,2.0,2026-02-09
+2606,2679,117.0,Per,Cummings,2.5,2026-02-09
+2607,2680,49.0,Chris,Smith,2.0,2026-02-09
+2608,2681,36.0,Volunteer,Volunteers,2.0,2026-02-09
+2609,2682,109.0,Mary,Wehde,2.0,2026-02-09
+2610,2683,70.0,Cynthia,Patschke,2.25,2026-02-10
+2611,2684,1.0,Dorothy,Duff,4.5,2026-02-09
+2612,2685,50.0,Paul,Paroff,3.25,2026-02-09
+2613,2686,48.0,Erik,Wold,3.75,2026-02-09
+2614,2687,90.0,James (Jim),Mills,3.75,2026-02-09
+2615,2688,92.0,Marie,Muckerman,4.0,2026-02-09
+2616,2689,93.0,Joe,Muckerman,4.0,2026-02-09
+2617,2690,26.0,John,Murray,4.0,2026-02-09
+2618,2691,40.0,Maureen,Traxler,3.25,2026-02-09
+2619,2692,132.0,Tad (Thomas),Lutz,2.25,2026-02-09
+2620,2693,41.0,Laurie,Cikatz,3.25,2026-02-09
+2621,2694,135.0,Zia,Uddin,3.25,2026-02-09
+2622,2695,110.0,Jamie,Stockton,3.0,2026-02-09
+2623,2696,67.0,David,Raese,2.0,2026-02-09
+2624,2697,104.0,Carolyn,Lord,3.25,2026-02-09
+2625,2698,157.0,Jennifer (Jen),Welsh,2.0,2026-02-09
+2626,2699,149.0,John,Welsh,2.0,2026-02-09
+2627,2700,5.0,Lisa,Edwards,3.5,2026-02-14
+2628,2701,50.0,Paul,Paroff,2.0,2026-02-16
+2629,2702,135.0,Zia,Uddin,2.0,2026-02-16
+2630,2703,150.0,Tom,Zamzow,1.5,2026-02-16
+2631,2704,168.0,MaryKay,Heric,2.0,2026-02-16
+2632,2705,141.0,Susie,Scott,2.0,2026-02-16
+2633,2706,5.0,Lisa,Edwards,3.5,2026-02-16
+2634,2707,10.0,Greg,Malland,1.0,2026-02-16
+2635,2708,10.0,Greg,Malland,1.0,2026-02-12
+2636,2709,10.0,Greg,Malland,1.0,2026-02-14
+2637,2710,31.0,Volunteers,Distribution Day - Tuesday,2.0,2026-02-10
+2638,2711,5.0,Lisa,Edwards,1.5,2026-02-21
+2639,2712,8.0,Nancy,Passovoy,3.0,2026-02-23
+2640,2713,8.0,Nancy,Passovoy,5.0,2026-02-23
+2641,2714,8.0,Nancy,Passovoy,3.0,2026-02-22
+2642,2715,71.0,Luke,Cleaver,1.5,2026-02-22
+2643,2716,71.0,Luke,Cleaver,0.0,2026-02-23
+2644,2717,115.0,Sammie,Tang,1.5,2026-02-22
+2645,2718,106.0,Nora,Lewis,1.5,2026-02-22
+2646,2719,111.0,Alysa,Meng,1.0,2026-02-22
+2647,2720,101.0,Tasha (Natalie),Hlavka,1.0,2026-02-22
+2648,2721,104.0,Carolyn,Lord,1.0,2026-02-22
+2649,2722,105.0,Robert,Lord,1.0,2026-02-22
+2650,2723,76.0,Wendy,Shapiro,2.0,2026-02-22
+2651,2724,5.0,Lisa,Edwards,1.5,2026-02-23
+2652,2725,69.0,Mary,Rider,2.0,2026-02-24
+2653,2726,28.0,Mari,Rogers,2.5,2026-02-24
+2654,2727,69.0,Mary,Rider,2.0,2026-02-24
+2655,2728,49.0,Chris,Smith,3.0,2026-02-24
+2656,2729,156.0,Aleksander (Alex),Braksator,2.5,2026-02-24
+2657,2730,134.0,Donna,Pulaski,2.5,2026-02-24
+2658,2731,34.0,Rachelle,Brown,2.0,2026-02-24
+2659,2732,48.0,Erik,Wold,3.25,2026-02-24
+2660,2733,176.0,Anam,Naqvi,2.0,2026-02-24
+2661,2734,74.0,David,Walter,1.5,2026-02-24
+2662,2735,31.0,Volunteers,Distribution Day - Tuesday,2.0,2026-02-24
+2663,2736,60.0,Theresa,Sweet,2.5,2026-02-24
+2664,2737,90.0,James (Jim),Mills,2.0,2026-02-24
+2665,2738,27.0,Mark,Litzinger,5.0,2026-02-23
+2666,2739,11.0,Roger,Long,3.0,2026-02-24
+2667,2740,47.0,Holly,Ripley,2.5,2026-02-23
+2668,2741,24.0,Mike,Massey,5.0,2026-02-23
+2669,2742,4.0,Toni,Massey,5.0,2026-02-23
+2670,2743,109.0,Mary,Wehde,2.0,2026-02-23
+2671,2744,50.0,Paul,Paroff,4.0,2026-02-23
+2672,2745,161.0,Justin (JP),McPherren,2.0,2026-02-23
+2673,2746,26.0,John,Murray,4.5,2026-02-23
+2674,2747,134.0,Donna,Pulaski,4.0,2026-02-23
+2675,2748,48.0,Erik,Wold,3.5,2026-02-23
+2676,2749,93.0,Joe,Muckerman,3.5,2026-02-23
+2677,2750,92.0,Marie,Muckerman,3.5,2026-02-23
+2678,2751,40.0,Maureen,Traxler,3.25,2026-02-23
+2679,2752,104.0,Carolyn,Lord,3.0,2026-02-23
+2680,2753,110.0,Jamie,Stockton,2.0,2026-02-23
+2681,2754,1.0,Dorothy,Duff,4.0,2026-02-23
+2682,2755,135.0,Zia,Uddin,4.0,2026-02-23
+2683,2756,149.0,John,Welsh,2.0,2026-02-23
+2684,2757,157.0,Jennifer (Jen),Welsh,2.5,2026-02-23
+2685,2758,172.0,Hijiri,Kobayashi,2.0,2026-02-23
+2686,2759,168.0,MaryKay,Heric,3.0,2026-02-23
+2687,2760,41.0,Laurie,Cikatz,3.5,2026-02-23
+2688,2761,10.0,Greg,Malland,2.5,2026-02-23
+2689,2762,72.0,Gary,Morris,2.5,2026-02-24
+2690,2763,50.0,Paul,Paroff,2.0,2026-02-24
+2691,2764,65.0,Jim,Voetberg,3.0,2026-02-10
+2692,2765,65.0,Jim,Voetberg,2.0,2026-02-24
+2693,2766,12.0,Kim,Voetberg,2.0,2026-02-12
+2694,2767,12.0,Kim,Voetberg,3.0,2026-02-19
+2695,2768,12.0,Kim,Voetberg,2.0,2026-02-24
+2696,2769,12.0,Kim,Voetberg,2.0,2026-02-18
+2697,2770,1.0,Dorothy,Duff,3.0,2026-02-04
+2698,2771,1.0,Dorothy,Duff,3.5,2026-02-10
+2699,2772,1.0,Dorothy,Duff,2.5,2026-02-12
+2700,2773,1.0,Dorothy,Duff,3.0,2026-02-18
+2701,2774,1.0,Dorothy,Duff,2.5,2026-02-19
+2702,2775,1.0,Dorothy,Duff,3.5,2026-02-28
+2703,2776,1.0,Dorothy,Duff,4.5,2026-02-24
+2704,2777,26.0,John,Murray,4.5,2026-02-23
+2705,2778,26.0,John,Murray,3.5,2026-02-24
+2706,2779,26.0,John,Murray,4.0,2026-02-09
+2707,2780,26.0,John,Murray,4.0,2026-02-10
+2708,2781,26.0,John,Murray,2.0,2026-02-12
+2709,2782,93.0,Joe,Muckerman,1.5,2026-02-12
+2710,2783,93.0,Joe,Muckerman,1.0,2026-02-19
+2711,2784,93.0,Joe,Muckerman,1.5,2026-02-26
+2712,2785,93.0,Joe,Muckerman,0.0,2026-03-01
+2713,2786,92.0,Marie,Muckerman,1.5,2026-02-12
+2714,2787,92.0,Marie,Muckerman,1.0,2026-02-19
+2715,2788,92.0,Marie,Muckerman,1.5,2026-02-26
+2716,2789,92.0,Marie,Muckerman,1.5,2026-02-28
+2717,2790,92.0,Marie,Muckerman,0.0,2026-03-01
+2718,2791,157.0,Jennifer (Jen),Welsh,1.0,2026-02-14
+2719,2792,157.0,Jennifer (Jen),Welsh,1.5,2026-02-28
+2720,2793,157.0,Jennifer (Jen),Welsh,0.0,2026-03-01
+2721,2794,149.0,John,Welsh,1.0,2026-02-14
+2722,2795,158.0,Michael,Welsh,1.0,2026-02-14
+2723,2796,158.0,Michael,Welsh,0.0,2026-03-01
+2724,2797,6.0,Zhanna,Kochubey,2.0,2026-02-14
+2725,2798,6.0,Zhanna,Kochubey,2.0,2026-02-21
+2726,2799,6.0,Zhanna,Kochubey,2.0,2026-02-28
+2727,2800,6.0,Zhanna,Kochubey,0.0,2026-03-01
+2728,2801,62.0,Robert (Bob),Myers,1.0,2026-02-16
+2729,2802,62.0,Robert (Bob),Myers,3.0,2026-02-23
+2730,2803,62.0,Robert (Bob),Myers,0.0,2026-03-01
+2731,2804,48.0,Erik,Wold,2.0,2026-02-17
+2732,2805,48.0,Erik,Wold,2.0,2026-02-19
+2733,2806,48.0,Erik,Wold,1.0,2026-02-28
+2734,2807,48.0,Erik,Wold,0.0,2026-03-01
+2735,2808,50.0,Paul,Paroff,2.5,2026-02-17
+2736,2809,50.0,Paul,Paroff,2.0,2026-02-19
+2737,2810,50.0,Paul,Paroff,0.0,2026-03-01
+2738,2811,104.0,Carolyn,Lord,2.0,2026-02-14
+2739,2812,104.0,Carolyn,Lord,0.0,2026-03-01
+2740,2813,50.0,Paul,Paroff,3.0,2026-03-03
+2741,2814,5.0,Lisa,Edwards,1.5,2026-03-04
+2742,2819,5.0,Lisa,Edwards,1.5,2026-03-09
+2743,2822,34.0,Rachelle,Brown,2.0,2026-03-10
+2744,2823,69.0,Mary,Rider,2.0,2026-03-10
+2745,2824,34.0,Rachelle,Brown,0.0,2026-03-10
+2746,2825,97.0,Amanda,Andrus,1.0,2026-03-10
+2747,2826,52.0,Davin,Kesler,3.0,2026-03-10
+2748,2827,48.0,Erik,Wold,2.5,2026-03-10
+2749,2828,31.0,Volunteers,Distribution Day - Tuesday,1.5,2026-03-10
+2750,2829,74.0,David,Walter,1.0,2026-03-10
+2751,2830,31.0,Volunteers,Distribution Day - Tuesday,1.5,2026-03-10
+2752,2831,136.0,Susan,Stimpert,0.75,2026-03-10
+2753,2832,137.0,Maisie,Stimpert,0.75,2026-03-10
+2754,2833,28.0,Mari,Rogers,2.0,2026-03-10
+2755,2834,164.0,Jennifer (Irie),Adams,1.5,2026-03-10
+2756,2835,176.0,Anam,Naqvi,1.5,2026-03-10
+2757,2836,134.0,Donna,Pulaski,2.5,2026-03-10
+2758,2837,141.0,Susie,Scott,2.5,2026-03-10
+2759,2838,5.0,Lisa,Edwards,4.5,2026-03-10
+2760,2839,90.0,James (Jim),Mills,2.0,2026-03-10
+2761,2840,117.0,Per,Cummings,2.0,2026-03-09
+2762,2841,11.0,Roger,Long,2.5,2026-03-09
+2763,2842,24.0,Mike,Massey,5.0,2026-03-09
+2764,2843,4.0,Toni,Massey,5.0,2026-03-09
+2765,2844,49.0,Chris,Smith,2.0,2026-03-09
+2766,2845,47.0,Holly,Ripley,2.0,2026-03-09
+2767,2846,44.0,Stephen (Steve),Stejskal,3.25,2026-03-09
+2768,2847,35.0,Martha,Stejskal,3.25,2026-03-09
+2769,2848,26.0,John,Murray,4.5,2026-03-09
+2770,2849,90.0,James (Jim),Mills,3.75,2026-03-09
+2771,2850,41.0,Laurie,Cikatz,3.5,2026-03-09
+2772,2851,48.0,Erik,Wold,3.5,2026-03-09
+2773,2852,40.0,Maureen,Traxler,3.75,2026-03-10
+2774,2853,109.0,Mary,Wehde,2.0,2026-03-09
+2775,2854,168.0,MaryKay,Heric,3.5,2026-03-09
+2776,2855,135.0,Zia,Uddin,2.75,2026-03-09
+2777,2856,93.0,Joe,Muckerman,3.5,2026-03-09
+2778,2857,92.0,Marie,Muckerman,3.5,2026-03-09
+2779,2858,132.0,Tad (Thomas),Lutz,2.0,2026-03-09
+2780,2859,110.0,Jamie,Stockton,3.0,2026-03-09
+2781,2860,161.0,Justin (JP),McPherren,2.0,2026-03-09
+2782,2861,157.0,Jennifer (Jen),Welsh,2.0,2026-03-09
+2783,2862,149.0,John,Welsh,2.0,2026-03-10
+2784,2863,67.0,David,Raese,2.0,2026-03-09
+2785,2864,151.0,Regina,Bowen,3.0,2026-03-09
+2786,2865,5.0,Lisa,Edwards,1.0,2026-03-11
+2787,2866,5.0,Lisa,Edwards,4.0,2026-03-12
+2788,2867,10.0,Greg,Malland,3.0,2026-03-12
+2789,2868,10.0,Greg,Malland,1.0,2026-03-07
+2790,2869,10.0,Greg,Malland,2.0,2026-03-09
+2791,2870,26.0,John,Murray,4.5,2026-03-09
+2792,2871,26.0,John,Murray,4.0,2026-03-10
+2793,2872,26.0,John,Murray,3.0,2026-03-12
+2794,2873,97.0,Amanda,Andrus,1.0,2026-03-16
+2795,2874,67.0,David,Raese,1.0,2026-03-16
+2796,2875,168.0,MaryKay,Heric,2.5,2026-03-16
+2797,2876,134.0,Donna,Pulaski,2.0,2026-03-16
+2798,2877,171.0,Don,Olin,2.5,2026-03-16
+2799,2878,174.0,John,Carter,2.0,2026-03-16
+2800,2879,5.0,Lisa,Edwards,3.5,2026-03-16
+2801,2880,5.0,Lisa,Edwards,1.5,2026-03-18
+2802,2881,50.0,Paul,Paroff,2.0,2026-03-20
+2803,2882,8.0,Nancy,Passovoy,6.0,2026-03-22
+2804,2883,8.0,Nancy,Passovoy,3.0,2026-03-22
+2805,2884,8.0,Nancy,Passovoy,0.0,2026-03-22
+2806,2885,8.0,Nancy,Passovoy,2.5,2026-03-22
+2807,2886,56.0,Julie,Bruce,2.0,2026-03-22
+2808,2887,71.0,Luke,Cleaver,1.0,2026-03-22
+2809,2888,105.0,Robert,Lord,1.0,2026-03-22
+2810,2889,86.0,Diane,Lear,1.0,2026-03-22
+2811,2890,101.0,Tasha (Natalie),Hlavka,10.0,2026-03-22
+2812,2891,59.0,Isla,Bruce,2.0,2026-03-22
+2813,2892,57.0,Peter,Bruce,2.0,2026-03-22
+2814,2893,104.0,Carolyn,Lord,1.0,2026-03-22
+2815,2894,170.0,Erin,Kester,1.5,2026-03-03
+2816,2895,34.0,Rachelle,Brown,2.0,2026-03-24
+2817,2896,34.0,Rachelle,Brown,1.0,2026-03-16
+2818,2897,128.0,Jillian,Hall,1.0,2026-03-16
+2819,2898,69.0,Mary,Rider,2.0,2026-03-24
+2820,2940,26.0,John,Murray,4.5,2026-03-23
+2821,2900,152.0,Nina,DeLeon,1.0,2026-03-24
+2822,2901,134.0,Donna,Pulaski,2.0,2026-03-24
+2823,2902,176.0,Anam,Naqvi,1.5,2026-03-24
+2824,2903,52.0,Davin,Kesler,2.5,2026-03-24
+2825,2904,49.0,Chris,Smith,2.5,2026-03-24
+2826,2905,50.0,Paul,Paroff,3.0,2026-03-24
+2827,2906,156.0,Aleksander (Alex),Braksator,3.0,2026-03-24
+2828,2907,60.0,Theresa,Sweet,3.0,2026-03-24
+2829,2908,136.0,Susan,Stimpert,1.0,2026-03-24
+2830,2909,137.0,Maisie,Stimpert,1.0,2026-03-24
+2831,2910,31.0,Volunteers,Distribution Day - Tuesday,2.0,2026-03-24
+2832,2911,74.0,David,Walter,1.5,2026-03-24
+2833,2912,153.0,Jennifer or Jenny,Augustine,1.5,2026-03-24
+2834,2913,5.0,Lisa,Edwards,3.5,2026-03-24
+2835,2914,27.0,Mark,Litzinger,5.0,2026-03-23
+2836,2915,50.0,Paul,Paroff,5.0,2026-03-23
+2837,2916,47.0,Holly,Ripley,2.0,2026-03-23
+2838,2917,109.0,Mary,Wehde,2.0,2026-03-23
+2839,2918,117.0,Per,Cummings,2.0,2026-03-23
+2840,2919,49.0,Chris,Smith,2.0,2026-03-23
+2841,2920,161.0,Justin (JP),McPherren,2.0,2026-03-23
+2842,2921,4.0,Toni,Massey,4.75,2026-03-23
+2843,2922,26.0,John,Murray,4.5,2026-03-25
+2844,2923,26.0,John,Murray,4.5,2026-03-23
+2845,2924,72.0,Gary,Morris,2.5,2026-03-23
+2846,2925,167.0,Margaret (Peggy),Ahrens,2.5,2026-03-25
+2847,2926,167.0,Margaret (Peggy),Ahrens,2.5,2026-03-23
+2848,2927,132.0,Tad (Thomas),Lutz,4.0,2026-03-23
+2849,2928,134.0,Donna,Pulaski,4.0,2026-03-23
+2850,2929,92.0,Marie,Muckerman,3.0,2026-03-23
+2851,2930,90.0,James (Jim),Mills,4.0,2026-03-23
+2852,2931,41.0,Laurie,Cikatz,3.25,2026-03-23
+2853,2932,40.0,Maureen,Traxler,3.0,2026-03-23
+2854,2933,110.0,Jamie,Stockton,3.0,2026-03-23
+2855,2934,104.0,Carolyn,Lord,3.0,2026-03-23
+2856,2935,135.0,Zia,Uddin,3.0,2026-03-23
+2857,2936,67.0,David,Raese,3.0,2026-03-23
+2858,2937,11.0,Roger,Long,2.5,2026-03-23
+2859,2938,174.0,John,Carter,3.0,2026-03-23
+2860,2939,93.0,Joe,Muckerman,1.0,2026-03-23
+2861,2941,26.0,John,Murray,4.0,2026-03-24
+2862,2942,10.0,Greg,Malland,2.5,2026-03-23
+2863,2943,10.0,Greg,Malland,1.0,2026-03-25
+2864,2944,40.0,Maureen,Traxler,0.75,2026-03-28
+2865,2945,4.0,Toni,Massey,10.0,2026-03-30
+2866,2946,5.0,Lisa,Edwards,2.0,2026-03-30
+2867,2947,97.0,Amanda,Andrus,2.0,2026-03-30
+2868,2948,28.0,Mari,Rogers,2.0,2026-03-30
+2869,2949,1.0,Dorothy,Duff,5.0,2026-03-02
+2870,2950,1.0,Dorothy,Duff,1.5,2026-03-07
+2871,2951,1.0,Dorothy,Duff,2.0,2026-03-10
+2872,2952,1.0,Dorothy,Duff,3.5,2026-03-11
+2873,2953,1.0,Dorothy,Duff,3.5,2026-03-12
+2874,2954,1.0,Dorothy,Duff,2.5,2026-03-13
+2875,2955,1.0,Dorothy,Duff,2.5,2026-03-18
+2876,2956,1.0,Dorothy,Duff,3.0,2026-03-20
+2877,2957,1.0,Dorothy,Duff,2.5,2026-03-20
+2878,2958,1.0,Dorothy,Duff,6.0,2026-03-24
+2879,2959,1.0,Dorothy,Duff,2.5,2026-03-25
+2880,2960,1.0,Dorothy,Duff,2.5,2026-03-26
+2881,2961,1.0,Dorothy,Duff,2.5,2026-03-27
+2882,2962,67.0,David,Raese,1.0,2026-03-02
+2883,2963,67.0,David,Raese,0.0,2026-03-31
+2884,2964,67.0,David,Raese,0.0,2026-03-31
+2885,2965,134.0,Donna,Pulaski,1.0,2026-03-02
+2886,2966,134.0,Donna,Pulaski,0.0,2026-03-31
+2887,2967,163.0,Eileen,Harrington,1.0,2026-03-02
+2888,2968,163.0,Eileen,Harrington,0.0,2026-03-31
+2889,2969,171.0,Don,Olin,1.0,2026-03-02
+2890,2970,171.0,Don,Olin,0.0,2026-03-31
+2891,2971,175.0,Dave,Carpenter,1.0,2026-03-02
+2892,2972,175.0,Dave,Carpenter,0.0,2026-03-31
+2893,2973,48.0,Erik,Wold,2.0,2026-03-02
+2894,2974,48.0,Erik,Wold,0.0,2026-03-31
+2895,2975,141.0,Susie,Scott,4.0,2026-03-02
+2896,2976,141.0,Susie,Scott,0.0,2026-03-31
+2897,2977,27.0,Mark,Litzinger,4.0,2026-03-02
+2898,2978,27.0,Mark,Litzinger,0.0,2026-03-31
+2899,2979,62.0,Robert (Bob),Myers,2.0,2026-03-02
+2900,2980,62.0,Robert (Bob),Myers,2.0,2026-03-05
+2901,2981,62.0,Robert (Bob),Myers,2.0,2026-03-16
+2902,2982,62.0,Robert (Bob),Myers,1.5,2026-03-19
+2903,2983,62.0,Robert (Bob),Myers,0.0,2026-03-31
+2904,2984,92.0,Marie,Muckerman,1.5,2026-03-05
+2905,2985,92.0,Marie,Muckerman,1.0,2026-03-13
+2906,2986,92.0,Marie,Muckerman,3.0,2026-03-17
+2907,2987,92.0,Marie,Muckerman,0.0,2026-03-31
+2908,2988,93.0,Joe,Muckerman,1.5,2026-03-05
+2909,2989,93.0,Joe,Muckerman,1.0,2026-03-13
+2910,2990,93.0,Joe,Muckerman,3.0,2026-03-17
+2911,2991,93.0,Joe,Muckerman,0.0,2026-03-31
+2912,2992,34.0,Rachelle,Brown,1.0,2026-03-07
+2913,2993,34.0,Rachelle,Brown,0.0,2026-03-31
+2914,2994,178.0,Grayson,Brown,1.0,2026-03-07
+2915,2995,178.0,Grayson,Brown,0.0,2026-03-31
+2916,2996,155.0,Brooke,Augustine,1.0,2026-03-07
+2917,2997,155.0,Brooke,Augustine,0.0,2026-03-31
+2918,2998,153.0,Jennifer or Jenny,Augustine,1.0,2026-03-07
+2919,2999,153.0,Jennifer or Jenny,Augustine,0.0,2026-03-31
+2920,3000,157.0,Jennifer (Jen),Welsh,1.5,2026-03-07
+2921,3001,157.0,Jennifer (Jen),Welsh,0.0,2026-03-31
+2922,3002,149.0,John,Welsh,1.5,2026-03-07
+2923,3003,149.0,John,Welsh,0.0,2026-03-31
+2924,3004,6.0,Zhanna,Kochubey,2.0,2026-03-07
+2925,3005,6.0,Zhanna,Kochubey,2.5,2026-03-21
+2926,3006,6.0,Zhanna,Kochubey,3.5,2026-03-31
+2927,3007,6.0,Zhanna,Kochubey,2.0,2026-03-14
+2928,3008,6.0,Zhanna,Kochubey,2.0,2026-03-28
+2929,3009,62.0,Robert (Bob),Myers,1.0,2026-03-08
+2930,3010,62.0,Robert (Bob),Myers,0.0,2026-03-31
+2931,3011,49.0,Chris,Smith,1.5,2026-03-09
+2932,3012,49.0,Chris,Smith,0.0,2026-03-31
+2933,3013,157.0,Jennifer (Jen),Welsh,2.0,2026-03-14
+2934,3014,157.0,Jennifer (Jen),Welsh,0.0,2026-03-31
+2935,3015,36.0,Volunteer,Volunteers,1.5,2026-03-02
+2936,3016,36.0,Volunteer,Volunteers,0.0,2026-03-31
+2937,3017,49.0,Chris,Smith,1.5,2026-03-02
+2938,3018,49.0,Chris,Smith,1.5,2026-03-12
+2939,3019,49.0,Chris,Smith,1.5,2026-03-19
+2940,3020,49.0,Chris,Smith,0.0,2026-03-31
+2941,3021,125.0,Ann,Lumia,2.0,2026-03-04
+2942,3022,125.0,Ann,Lumia,0.0,2026-03-31
+2943,3023,36.0,Volunteer,Volunteers,2.0,2026-03-04
+2944,3024,36.0,Volunteer,Volunteers,0.0,2026-03-31
+2945,3025,141.0,Susie,Scott,2.0,2026-03-04
+2946,3026,141.0,Susie,Scott,0.0,2026-03-31
+2947,3027,79.0,Paul,Swensen,2.0,2026-03-04
+2948,3028,79.0,Paul,Swensen,0.0,2026-03-31
+2949,3029,84.0,Christina,McCoy,2.0,2026-03-04
+2950,3030,84.0,Christina,McCoy,0.0,2026-03-31
+2951,3031,80.0,LaChella (Shelly),Swensen,2.0,2026-03-04
+2952,3032,82.0,Darryl,Gibson,2.0,2026-03-04
+2953,3033,82.0,Darryl,Gibson,0.0,2026-03-31
+2954,3034,83.0,Cheryl,Gibson,2.0,2026-03-04
+2955,3035,83.0,Cheryl,Gibson,0.0,2026-03-31
+2956,3036,163.0,Eileen,Harrington,1.0,2026-03-04
+2957,3037,163.0,Eileen,Harrington,0.0,2026-03-31
+2958,3038,150.0,Tom,Zamzow,2.0,2026-03-04
+2959,3039,150.0,Tom,Zamzow,0.0,2026-03-31
+2960,3040,124.0,Steven (Steve),Compton,2.0,2026-03-04
+2961,3041,124.0,Steven (Steve),Compton,0.0,2026-03-31
+2962,3042,123.0,Carrie,Compton,2.0,2026-03-04
+2963,3043,123.0,Carrie,Compton,0.0,2026-03-31
+2964,3044,86.0,Diane,Lear,1.0,2026-03-04
+2965,3045,86.0,Diane,Lear,0.0,2026-03-31
+2966,3046,134.0,Donna,Pulaski,1.0,2026-03-04
+2967,3047,134.0,Donna,Pulaski,0.0,2026-03-31
+2968,3048,177.0,Ralph,Allais,1.0,2026-03-04
+2969,3049,177.0,Ralph,Allais,0.0,2026-03-31
+2970,3050,152.0,Nina,DeLeon,1.0,2026-03-04
+2971,3051,152.0,Nina,DeLeon,0.0,2026-03-31
+2972,3052,36.0,Volunteer,Volunteers,1.0,2026-03-12
+2973,3053,36.0,Volunteer,Volunteers,0.0,2026-03-31
+2974,3054,48.0,Erik,Wold,1.5,2026-03-20
+2975,3055,48.0,Erik,Wold,0.0,2026-03-31
+2976,3056,157.0,Jennifer (Jen),Welsh,2.5,2026-03-21
+2977,3057,157.0,Jennifer (Jen),Welsh,0.0,2026-03-31
+2978,3058,49.0,Chris,Smith,2.5,2026-03-23
+2979,3059,49.0,Chris,Smith,2.5,2026-03-30
+2980,3060,49.0,Chris,Smith,0.0,2026-03-31
+2981,3061,93.0,Joe,Muckerman,2.0,2026-03-26
+2982,3062,93.0,Joe,Muckerman,0.0,2026-03-31
+2983,3063,92.0,Marie,Muckerman,2.0,2026-03-26
+2984,3064,92.0,Marie,Muckerman,0.0,2026-03-31
+2985,3065,36.0,Volunteer,Volunteers,4.0,2026-03-28
+2986,3066,36.0,Volunteer,Volunteers,0.0,2026-03-31
+2987,3067,155.0,Brooke,Augustine,1.0,2026-03-28
+2988,3068,155.0,Brooke,Augustine,0.0,2026-03-31
+2989,3069,153.0,Jennifer or Jenny,Augustine,1.0,2026-03-28
+2990,3070,153.0,Jennifer or Jenny,Augustine,0.0,2026-03-31
+2991,3072,36.0,Volunteer,Volunteers,18.5,2026-03-28
+2992,3073,36.0,Volunteer,Volunteers,0.0,2026-03-31
+2993,3074,72.0,Gary,Morris,2.0,2026-03-30
+2994,3075,72.0,Gary,Morris,0.0,2026-03-31
+2995,3078,6.0,Zhanna,Kochubey,0.0,2026-03-31
+2996,3079,5.0,Lisa,Edwards,2.0,2026-04-01
+2997,3080,168.0,MaryKay,Heric,2.0,2026-04-06
+2998,3081,86.0,Diane,Lear,3.0,2026-04-06
+2999,3082,172.0,Hijiri,Kobayashi,2.0,2026-04-06
+3000,3083,175.0,Dave,Carpenter,3.0,2026-04-06
+3001,3084,150.0,Tom,Zamzow,2.0,2026-04-06
+3002,3085,48.0,Erik,Wold,2.0,2026-04-06
+3003,3086,67.0,David,Raese,2.0,2026-04-06
+3004,3087,141.0,Susie,Scott,5.0,2026-04-06
+3005,3088,134.0,Donna,Pulaski,5.0,2026-04-06
+3006,3089,167.0,Margaret (Peggy),Ahrens,4.0,2026-04-06
+3007,3090,60.0,Theresa,Sweet,5.0,2026-04-06
+3008,3091,5.0,Lisa,Edwards,5.0,2026-04-06
+3009,3092,5.0,Lisa,Edwards,1.0,2026-04-06
