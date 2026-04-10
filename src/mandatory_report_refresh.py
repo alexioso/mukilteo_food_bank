@@ -162,11 +162,13 @@ def main_refresh():
     df_total = read_loaded_report()
     df_undup = read_loaded_report("SCFC Unduplicated Report")
     df_dup = read_loaded_report("SCFC Duplicated Report")
+    df_total_daily = read_loaded_report("AB: Total Report Daily")
     
     #upsert to data/raw paths
     df_total_full = upsert_dataframe(total_report_monthly_path,df_total,"Monthly Visit Date")
     df_dup_full = upsert_dataframe(dup_report_monthly_path,df_dup,"Monthly Visit Date")
     df_undup_full = upsert_dataframe(undup_report_monthly_path,df_undup,"Monthly Visit Date")
+    
     
     #combine dataframes
     df_monthly = df_total_full.rename({'# of HH Visits':'total_hh_visits', 
@@ -199,11 +201,20 @@ def main_refresh():
                     'Total weight' : 'undup_weight'
                     },axis=1), how = 'outer', on = 'year_month')
                     
-    drop_cols = [c for df_monthly_path.columns if "Unnamed" in c]
-    df_monthly.drop(drop_cols,axis=1,inplace=True)
-                    
-    return upsert_dataframe(df_monthly_path, df_monthly, 'year_month')
+    df_total_daily = df_total_daily.rename({'# of HH Visits':'total_hh_visits', 
+                    '0 to 2':'total_age_0_to_2', 
+                    '3 to 18':'total_age_3_to_18', 
+                    '19 to 54':'total_age_19_to_54', 
+                    '55+':'total_age_55_plus',
+                    'Age: Not Provided' : 'total_age_anonymous', 
+                    'Total Individuals' : 'total_indivdiduals', 
+                    'Visit Date' : 'date',
+                    'Total weight' : 'total_weight'
+                    },axis=1)
+    
+    upsert_dataframe(total_report_daily_path, df_total_daily, 'date')
 
+    return upsert_dataframe(total_report_daily_path, df_total_daily, 'date')
 
     
         
