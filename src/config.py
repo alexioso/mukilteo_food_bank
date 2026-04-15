@@ -4,3 +4,6 @@ undup_report_monthly_path = "../data/raw/undup_report_monthly.csv"
 df_monthly_path = "../data/processed/df_monthly.csv"
 total_report_daily_path = "../data/raw/total_report_daily.csv"
 time_entry_path = "../data/raw/time_entry.csv"
+df_weekly_path = "../data/processed/df_weekly.csv"
+
+weekly_days_of_week = ["Monday","Tuesday"]

@@ -201,19 +201,14 @@ def read_loaded_report(report_title = 'SCFC Total Report'):
     except Exception as e:
         driver.quit()
         raise e
-
-#takes about 3 min to run
-def main_refresh():
-    df_total = read_loaded_report()
-    df_undup = read_loaded_report("SCFC Unduplicated Report")
-    df_dup = read_loaded_report("SCFC Duplicated Report")
-    df_total_daily = read_loaded_report("AB: Total Report Daily")
     
-    #upsert to data/raw paths
-    df_total_full = upsert_dataframe(total_report_monthly_path,df_total,"Monthly Visit Date")
-    df_dup_full = upsert_dataframe(dup_report_monthly_path,df_dup,"Monthly Visit Date")
-    df_undup_full = upsert_dataframe(undup_report_monthly_path,df_undup,"Monthly Visit Date")
     
+def data_pipeline():
+    df_total_full = pd.read_csv(total_report_monthly_path)
+    df_dup_full = pd.read_csv(dup_report_monthly_path)
+    df_undup_full = pd.read_csv(undup_report_monthly_path)
+    df_time_entry_full = pd.read_csv(time_entry_path)
+    df_total_daily = pd.read_csv(total_report_daily_path)
     
     #combine dataframes
     df_monthly = df_total_full.rename({'# of HH Visits':'total_hh_visits', 
@@ -246,15 +241,39 @@ def main_refresh():
                     'Total weight' : 'undup_weight'
                     },axis=1), how = 'outer', on = 'year_month')
                     
-    #compute time entry and merge to monthly
-    df_time_entry_temp = read_time_entry()
-    #upsert to source
-    df_time_entry_full = upsert_dataframe(time_entry_path, df_time_entry_temp, "Time Entry ID")
+ 
     df_time_entry_full["Time Entry On"] = pd.to_datetime(df_time_entry_full["Time Entry On"])
     df_time_entry_full["year_month"] = df_time_entry_full["Time Entry On"].dt.year.astype(str) + "-" + df_time_entry_full["Time Entry On"].dt.month.astype(str).str.zfill(2)
-    df_time_entry_grouped = df_time_entry_full.groupby("year_month")["Volunteer ID"].nunique().reset_index().rename({"Volunteer ID":"unique_volunteers"},axis=1)
-    df_monthly = df_monthly.merge(df_time_entry_grouped,how="left",on="year_month")
-                   
+
+    df_time_entry_grouped = df_time_entry_full.\
+        groupby("year_month").agg(
+            volunteer_count=("Volunteer ID", "nunique"),
+            volunteer_set=("Volunteer ID", set),
+            volunteer_hours=("Hours Worked","sum")
+            ).reset_index()
+            
+    df_time_entry_grouped["month"] = df_time_entry_grouped["year_month"].str.split("-").str[1].astype(int)
+
+    df_time_entry_grouped["volunteer_hours_ytd"] = df_time_entry_grouped.apply(
+        lambda row: df_time_entry_grouped.loc[:row.name, "volunteer_hours"].tail(row["month"]).sum(),
+        axis=1
+    )
+
+    #rolling sum of set col for total volunteers YTD
+    results = []
+    for i, row in df_time_entry_grouped.iterrows():
+        window = row["month"]
+        start = max(0, i - window + 1)
+        # Filter out NaN values before union
+        sets_in_window = [s for s in df_time_entry_grouped.loc[start:i, "volunteer_set"] if isinstance(s, set)]
+        union_set = set().union(*sets_in_window) if sets_in_window else set()
+        results.append(union_set)
+
+    df_time_entry_grouped["volunteer_set_ytd"] = results
+
+    df_time_entry_grouped["volunteer_count_ytd"] = df_time_entry_grouped["volunteer_set_ytd"].apply(lambda x: len(x) if isinstance(x, set) else 0)
+        
+    df_monthly = df_monthly.merge(df_time_entry_grouped[["year_month","volunteer_count","volunteer_hours","volunteer_count_ytd","volunteer_hours_ytd"]],how="left",on="year_month")
                     
     df_total_daily = df_total_daily.rename({'# of HH Visits':'total_hh_visits', 
                     '0 to 2':'total_age_0_to_2', 
@@ -267,10 +286,38 @@ def main_refresh():
                     'Total weight' : 'total_weight'
                     },axis=1)
     
+    df_total_daily['week_start'] = pd.to_datetime(df_total_daily['date']).dt.to_period('W').apply(lambda r: r.start_time).dt.strftime("%Y-%m-%d")
+    df_total_daily["day_of_week"] = pd.to_datetime(df_total_daily["date"]).dt.day_name()
+    df_total_daily["month"] = pd.to_datetime(df_total_daily["date"]).dt.month_name()
+    df_weekly = df_total_daily.pivot_table(index="week_start", columns="day_of_week", values="total_hh_visits", aggfunc="sum").reset_index()
+    df_weekly = df_weekly.loc[:,["week_start"]+weekly_days_of_week]
+    df_weekly["Total"] = df_weekly[weekly_days_of_week].sum(axis=1)
+    upsert_dataframe(df_weekly_path, df_weekly[["week_start"] + weekly_days_of_week + ["Total"]], 'week_start')
+    
     upsert_dataframe(df_monthly_path, df_monthly, 'year_month')
 
     return upsert_dataframe(total_report_daily_path, df_total_daily, 'date')
 
+#takes about 3 min to run
+def main_refresh():
+    df_total = read_loaded_report()
+    df_undup = read_loaded_report("SCFC Unduplicated Report")
+    df_dup = read_loaded_report("SCFC Duplicated Report")
+    df_total_daily = read_loaded_report("AB: Total Report Daily")
+    df_time_entry_temp = read_time_entry()
     
-        
-main_refresh()
+    #upsert to data/raw paths
+    df_total_full = upsert_dataframe(total_report_monthly_path,df_total,"Monthly Visit Date")
+    df_dup_full = upsert_dataframe(dup_report_monthly_path,df_dup,"Monthly Visit Date")
+    df_undup_full = upsert_dataframe(undup_report_monthly_path,df_undup,"Monthly Visit Date")
+    df_time_entry_full = upsert_dataframe(time_entry_path, df_time_entry_temp, "Time Entry ID")
+    
+    return data_pipeline()
+    
+
+    
+import sys
+if len(sys.argv) > 1:
+    data_pipeline()
+else: 
+    main_refresh()
