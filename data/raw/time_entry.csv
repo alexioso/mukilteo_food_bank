@@ -2359,7 +2359,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2383,Diane,1.5,Lear,2026-01-05,2342.0,86.0
 2384,Paul,1.5,Paroff,2026-01-05,2358.0,50.0
 2385,Theresa,1.5,Sweet,2026-01-05,2359.0,60.0
-2386,Donna,1.5,Pulaski,2026-01-05,2360.0,134.0
+2386,Donna (deceased 6/2026),1.5,Pulaski,2026-01-05,2360.0,134.0
 2387,Amanda,1.5,Andrus,2026-01-05,2361.0,97.0
 2388,Mark,2.0,Litzinger,2026-01-05,2362.0,27.0
 2389,Lisa,2.5,Edwards,2026-01-05,2363.0,5.0
@@ -2374,7 +2374,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2398,Rachelle,3.5,Brown,2026-01-12,2372.0,34.0
 2399,Lisa,2.0,Edwards,2026-01-12,2373.0,5.0
 2400,Mary,2.5,Rider,2026-01-13,2374.0,69.0
-2401,Donna,2.75,Pulaski,2026-01-13,2375.0,134.0
+2401,Donna (deceased 6/2026),2.75,Pulaski,2026-01-13,2375.0,134.0
 2402,Rachelle,2.25,Brown,2026-01-13,2376.0,34.0
 2403,Theresa,2.75,Sweet,2026-01-13,2377.0,60.0
 2404,Erik,2.5,Wold,2026-01-13,2378.0,48.0
@@ -2386,7 +2386,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2410,Lisa,1.0,Edwards,2026-01-14,2384.0,5.0
 2411,Lisa,2.5,Edwards,2026-01-19,2385.0,5.0
 2412,Theresa,1.5,Sweet,2026-01-19,2386.0,60.0
-2413,Donna,2.0,Pulaski,2026-01-19,2387.0,134.0
+2413,Donna (deceased 6/2026),2.0,Pulaski,2026-01-19,2387.0,134.0
 2414,Eileen,2.0,Harrington,2026-01-19,2388.0,163.0
 2415,Greg,2.0,Malland,2026-01-22,2389.0,10.0
 2416,Greg,1.5,Malland,2026-01-22,2390.0,10.0
@@ -2446,7 +2446,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2471,Erik,3.5,Wold,2026-01-27,2445.0,48.0
 2473,Nina,2.0,DeLeon,2026-01-27,2447.0,152.0
 2474,Theresa,3.0,Sweet,2026-01-27,2448.0,60.0
-2475,Donna,3.0,Pulaski,2026-01-27,2449.0,134.0
+2475,Donna (deceased 6/2026),3.0,Pulaski,2026-01-27,2449.0,134.0
 2476,Cam-Tu,3.0,Vo,2026-01-27,2446.0,39.0
 2477,Laurie,2.5,Cikatz,2026-01-26,2450.0,41.0
 2478,Maisie,1.0,Stimpert,2026-01-27,2451.0,137.0
@@ -2527,7 +2527,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2579,Cam-Tu,1.0,Vo,2026-01-06,2495.0,39.0
 2581,Nina,1.0,DeLeon,2026-01-06,2534.0,152.0
 2583,Theresa,1.0,Sweet,2026-01-06,2536.0,60.0
-2585,Donna,1.0,Pulaski,2026-01-06,2538.0,134.0
+2585,Donna (deceased 6/2026),1.0,Pulaski,2026-01-06,2538.0,134.0
 2587,Joe,1.5,Muckerman,2026-01-08,2540.0,93.0
 2589,Marie,1.5,Muckerman,2026-01-08,2542.0,92.0
 2591,Robert (Bob),1.5,Myers,2026-01-12,2544.0,62.0
@@ -2551,7 +2551,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2627,Lisa,1.5,Edwards,2026-02-05,2393.0,5.0
 2628,Maureen,1.5,Traxler,2026-02-07,2554.0,40.0
 2629,Lisa,2.0,Edwards,2026-02-06,2556.0,5.0
-2630,Donna,2.0,Pulaski,2026-02-06,2547.0,134.0
+2630,Donna (deceased 6/2026),2.0,Pulaski,2026-02-06,2547.0,134.0
 2631,Theresa,1.5,Sweet,2026-02-06,2548.0,60.0
 2632,Amanda,1.0,Andrus,2026-02-06,2552.0,97.0
 2633,Maureen,1.5,Traxler,2026-02-06,2561.0,40.0
@@ -2564,7 +2564,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2640,Chris,3.0,Smith,2026-02-10,2567.0,49.0
 2641,Aleksander (Alex),2.5,Braksator,2026-02-10,2568.0,156.0
 2642,Paul,2.5,Paroff,2026-02-10,2569.0,50.0
-2643,Donna,2.5,Pulaski,2026-02-10,2570.0,134.0
+2643,Donna (deceased 6/2026),2.5,Pulaski,2026-02-10,2570.0,134.0
 2644,Lisa,3.5,Edwards,2026-02-10,2571.0,5.0
 2645,Theresa,3.0,Sweet,2026-02-10,2572.0,60.0
 2646,Susan,1.0,Stimpert,2026-02-10,2573.0,136.0
@@ -2651,7 +2651,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2727,Mary,2.0,Rider,2026-02-24,2654.0,69.0
 2728,Chris,3.0,Smith,2026-02-24,2655.0,49.0
 2729,Aleksander (Alex),2.5,Braksator,2026-02-24,2656.0,156.0
-2730,Donna,2.5,Pulaski,2026-02-24,2657.0,134.0
+2730,Donna (deceased 6/2026),2.5,Pulaski,2026-02-24,2657.0,134.0
 2731,Rachelle,2.0,Brown,2026-02-24,2658.0,34.0
 2732,Erik,3.25,Wold,2026-02-24,2659.0,48.0
 2733,Anam,2.0,Naqvi,2026-02-24,2660.0,176.0
@@ -2668,7 +2668,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2744,Paul,4.0,Paroff,2026-02-23,2671.0,50.0
 2745,Justin (JP),2.0,McPherren,2026-02-23,2672.0,161.0
 2746,John,4.5,Murray,2026-02-23,2673.0,26.0
-2747,Donna,4.0,Pulaski,2026-02-23,2674.0,134.0
+2747,Donna (deceased 6/2026),4.0,Pulaski,2026-02-23,2674.0,134.0
 2748,Erik,3.5,Wold,2026-02-23,2675.0,48.0
 2749,Joe,3.5,Muckerman,2026-02-23,2676.0,93.0
 2750,Marie,3.5,Muckerman,2026-02-23,2677.0,92.0
@@ -2756,7 +2756,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2833,Mari,2.0,Rogers,2026-03-10,2754.0,28.0
 2834,Jennifer (Irie),1.5,Adams,2026-03-10,2755.0,164.0
 2835,Anam,1.5,Naqvi,2026-03-10,2756.0,176.0
-2836,Donna,2.5,Pulaski,2026-03-10,2757.0,134.0
+2836,Donna (deceased 6/2026),2.5,Pulaski,2026-03-10,2757.0,134.0
 2837,Susie,2.5,Scott,2026-03-10,2758.0,141.0
 2838,Lisa,4.5,Edwards,2026-03-10,2759.0,5.0
 2839,James (Jim),2.0,Mills,2026-03-10,2760.0,90.0
@@ -2796,7 +2796,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2873,Amanda,1.0,Andrus,2026-03-16,2794.0,97.0
 2874,David,1.0,Raese,2026-03-16,2795.0,67.0
 2875,MaryKay,2.5,Heric,2026-03-16,2796.0,168.0
-2876,Donna,2.0,Pulaski,2026-03-16,2797.0,134.0
+2876,Donna (deceased 6/2026),2.0,Pulaski,2026-03-16,2797.0,134.0
 2877,Don,2.5,Olin,2026-03-16,2798.0,171.0
 2878,John,2.0,Carter,2026-03-16,2799.0,174.0
 2879,Lisa,3.5,Edwards,2026-03-16,2800.0,5.0
@@ -2820,7 +2820,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2897,Jillian,1.0,Hall,2026-03-16,2818.0,128.0
 2898,Mary,2.0,Rider,2026-03-24,2819.0,69.0
 2900,Nina,1.0,DeLeon,2026-03-24,2821.0,152.0
-2901,Donna,2.0,Pulaski,2026-03-24,2822.0,134.0
+2901,Donna (deceased 6/2026),2.0,Pulaski,2026-03-24,2822.0,134.0
 2902,Anam,1.5,Naqvi,2026-03-24,2823.0,176.0
 2903,Davin,2.5,Kesler,2026-03-24,2824.0,52.0
 2904,Chris,2.5,Smith,2026-03-24,2825.0,49.0
@@ -2847,7 +2847,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2925,Margaret (Peggy),2.5,Ahrens,2026-03-25,2846.0,167.0
 2926,Margaret (Peggy),2.5,Ahrens,2026-03-23,2847.0,167.0
 2927,Tad (Thomas),4.0,Lutz,2026-03-23,2848.0,132.0
-2928,Donna,4.0,Pulaski,2026-03-23,2849.0,134.0
+2928,Donna (deceased 6/2026),4.0,Pulaski,2026-03-23,2849.0,134.0
 2929,Marie,3.0,Muckerman,2026-03-23,2850.0,92.0
 2930,James (Jim),4.0,Mills,2026-03-23,2851.0,90.0
 2931,Laurie,3.25,Cikatz,2026-03-23,2852.0,41.0
@@ -2884,8 +2884,8 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2962,David,1.0,Raese,2026-03-02,2882.0,67.0
 2963,David,0.0,Raese,2026-03-31,2883.0,67.0
 2964,David,0.0,Raese,2026-03-31,2884.0,67.0
-2965,Donna,1.0,Pulaski,2026-03-02,2885.0,134.0
-2966,Donna,0.0,Pulaski,2026-03-31,2886.0,134.0
+2965,Donna (deceased 6/2026),1.0,Pulaski,2026-03-02,2885.0,134.0
+2966,Donna (deceased 6/2026),0.0,Pulaski,2026-03-31,2886.0,134.0
 2967,Eileen,1.0,Harrington,2026-03-02,2887.0,163.0
 2968,Eileen,0.0,Harrington,2026-03-31,2888.0,163.0
 2969,Don,1.0,Olin,2026-03-02,2889.0,171.0
@@ -2965,8 +2965,8 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3043,Carrie,0.0,Compton,2026-03-31,2963.0,123.0
 3044,Diane,1.0,Lear,2026-03-04,2964.0,86.0
 3045,Diane,0.0,Lear,2026-03-31,2965.0,86.0
-3046,Donna,1.0,Pulaski,2026-03-04,2966.0,134.0
-3047,Donna,0.0,Pulaski,2026-03-31,2967.0,134.0
+3046,Donna (deceased 6/2026),1.0,Pulaski,2026-03-04,2966.0,134.0
+3047,Donna (deceased 6/2026),0.0,Pulaski,2026-03-31,2967.0,134.0
 3048,Ralph,1.0,Allais,2026-03-04,2968.0,177.0
 3049,Ralph,0.0,Allais,2026-03-31,2969.0,177.0
 3050,Nina,1.0,DeLeon,2026-03-04,2970.0,152.0
@@ -3004,7 +3004,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3085,Erik,2.0,Wold,2026-04-06,3002.0,48.0
 3086,David,2.0,Raese,2026-04-06,3003.0,67.0
 3087,Susie,5.0,Scott,2026-04-06,3004.0,141.0
-3088,Donna,5.0,Pulaski,2026-04-06,3005.0,134.0
+3088,Donna (deceased 6/2026),5.0,Pulaski,2026-04-06,3005.0,134.0
 3089,Margaret (Peggy),4.0,Ahrens,2026-04-06,3006.0,167.0
 3090,Theresa,5.0,Sweet,2026-04-06,3007.0,60.0
 3091,Lisa,5.0,Edwards,2026-04-06,3008.0,5.0
@@ -3049,7 +3049,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3130,Nancy,8.0,Passovoy,2026-04-20,,8.0
 3131,Nancy,5.0,Passovoy,2026-04-20,,8.0
 3132,Nancy,4.0,Passovoy,2026-04-20,,8.0
-3133,Donna,3.0,Pulaski,2026-04-14,,134.0
+3133,Donna (deceased 6/2026),3.0,Pulaski,2026-04-14,,134.0
 3134,Diane,1.5,Lear,2026-04-14,,86.0
 3135,Jennifer or Jenny,1.5,Augustine,2026-04-14,,153.0
 3136,Carolyn,2.0,Lord,2026-04-14,,104.0
@@ -3090,7 +3090,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3171,Marie,3.5,Muckerman,2026-04-27,,92.0
 3172,Joe,3.5,Muckerman,2026-04-27,,93.0
 3173,Maureen,3.5,Traxler,2026-04-27,,40.0
-3174,Donna,3.5,Pulaski,2026-04-27,,134.0
+3174,Donna (deceased 6/2026),3.5,Pulaski,2026-04-27,,134.0
 3175,Carolyn,3.5,Lord,2026-04-27,,104.0
 3176,Jamie,3.5,Stockton,2026-04-27,,110.0
 3177,Rick,2.5,Nelson,2026-04-27,,66.0
@@ -3104,7 +3104,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3185,Rick,2.0,Nelson,2026-04-27,,66.0
 3186,Steve,2.5,Bodensteiner,2026-04-28,,45.0
 3187,Rachelle,2.0,Brown,2026-04-28,,34.0
-3188,Donna,3.0,Pulaski,2026-04-28,,134.0
+3188,Donna (deceased 6/2026),3.0,Pulaski,2026-04-28,,134.0
 3189,Jennifer or Jenny,1.5,Augustine,2026-04-28,,153.0
 3190,Theresa,3.0,Sweet,2026-04-28,,60.0
 3191,Erik,3.0,Wold,2026-04-28,,48.0
@@ -3167,7 +3167,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3248,Pamela (Pam),1.5,Dellino,2026-05-04,,162.0
 3249,Lien (Lynn),0.5,Ha,2026-05-04,,133.0
 3250,Hijiri,3.5,Kobayashi,2026-05-04,,172.0
-3251,Donna,4.0,Pulaski,2026-05-04,,134.0
+3251,Donna (deceased 6/2026),4.0,Pulaski,2026-05-04,,134.0
 3252,Nina,2.5,DeLeon,2026-05-04,,152.0
 3253,Rick,3.0,Nelson,2026-05-04,,66.0
 3254,Margaret (Peggy),2.5,Ahrens,2026-05-04,,167.0
@@ -3206,7 +3206,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3287,Toni,3.0,Massey,2026-05-09,,4.0
 3288,Rachelle,2.0,Brown,2026-05-12,,34.0
 3289,Cam-Tu,1.5,Vo,2026-05-12,,39.0
-3290,Donna,2.5,Pulaski,2026-05-12,,134.0
+3290,Donna (deceased 6/2026),2.5,Pulaski,2026-05-12,,134.0
 3291,Carolyn,1.0,Lord,2026-05-12,,104.0
 3292,Susan,3.0,Stimpert,2026-05-12,,136.0
 3293,Maisie,1.0,Stimpert,2026-05-12,,137.0
@@ -3254,7 +3254,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3335,Rachelle,2.0,Brown,2026-05-19,,34.0
 3336,Mary,2.0,Rider,2026-05-19,,69.0
 3337,Theresa,2.5,Sweet,2026-05-19,,60.0
-3338,Donna,2.5,Pulaski,2026-05-19,,134.0
+3338,Donna (deceased 6/2026),2.5,Pulaski,2026-05-19,,134.0
 3339,Mari,2.0,Rogers,2026-05-19,,28.0
 3340,Lisa,4.5,Edwards,2026-05-19,,5.0
 3341,Paul,2.5,Paroff,2026-05-19,,50.0
@@ -3416,5 +3416,235 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3497,Cathy,2.75,Brugge,2026-06-01,,181.0
 3498,Margaret (Peggy),3.0,Ahrens,2026-06-01,,167.0
 3499,Amanda,1.75,Andrus,2026-06-01,,97.0
-3500,Donna,0.0,Pulaski,2026-05-12,,134.0
+3500,Donna (deceased 6/2026),0.0,Pulaski,2026-05-12,,134.0
 3501,John,2.5,Murray,2026-06-01,,26.0
+3502,Lisa,1.5,Edwards,2026-06-05,,5.0
+3503,Kathy,1.0,Smith,2026-06-05,,143.0
+3504,Anna,1.0,Tsvetkov,2026-06-05,,184.0
+3505,Toni,5.0,Massey,2026-06-08,,4.0
+3506,Mike,5.0,Massey,2026-06-08,,24.0
+3507,Roger,2.5,Long,2026-06-08,,11.0
+3508,Holly,3.0,Ripley,2026-06-08,,47.0
+3509,Judy,2.0,Ching,2026-06-08,,46.0
+3510,Cynthia,2.5,Patschke,2026-06-08,,70.0
+3511,Mark,5.0,Litzinger,2026-06-08,,27.0
+3512,Chris,2.0,Smith,2026-06-08,,49.0
+3513,Per,2.0,Cummings,2026-06-08,,117.0
+3514,Laurie,3.5,Cikatz,2026-06-08,,41.0
+3515,Joe,4.0,Muckerman,2026-06-08,,93.0
+3516,Marie,4.0,Muckerman,2026-06-08,,92.0
+3517,Mary,2.0,Wehde,2026-06-08,,109.0
+3518,John,4.0,Murray,2026-06-08,,26.0
+3519,Paul,4.0,Paroff,2026-06-08,,50.0
+3520,Erik,4.0,Wold,2026-06-08,,48.0
+3521,Stephen (Steve),4.0,Stejskal,2026-06-08,,44.0
+3522,Martha,4.0,Stejskal,2026-06-08,,35.0
+3523,Carolyn,4.0,Lord,2026-06-08,,104.0
+3524,Maureen,4.0,Traxler,2026-06-08,,40.0
+3525,Jodi,3.0,Walter,2026-06-08,,75.0
+3526,Steve,4.0,Bodensteiner,2026-06-08,,45.0
+3527,Genelle,3.0,Doten,2026-06-08,,87.0
+3528,Theresa,3.0,Sweet,2026-06-08,,60.0
+3529,MaryKay,3.5,Heric,2026-06-08,,168.0
+3530,Rick,3.0,Nelson,2026-06-08,,66.0
+3531,John,2.0,Welsh,2026-06-08,,149.0
+3532,Jennifer (Jen),2.0,Welsh,2026-06-08,,157.0
+3533,Toni,10.0,Massey,2026-05-31,,4.0
+3534,Hijiri,1.5,Kobayashi,2026-06-09,,172.0
+3535,Anam,1.0,Naqvi,2026-06-09,,176.0
+3536,Chris,2.0,Smith,2026-06-09,,49.0
+3537,Rachelle,2.0,Brown,2026-06-09,,34.0
+3538,Steve,3.5,Bodensteiner,2026-06-08,,45.0
+3539,Steve,3.0,Bodensteiner,2026-06-09,,45.0
+3540,Pamela (Pam),1.5,Dellino,2026-06-09,,162.0
+3541,Theresa,3.75,Sweet,2026-06-08,,60.0
+3542,Theresa,4.0,Sweet,2026-06-09,,60.0
+3543,John,3.0,Carter,2026-06-09,,174.0
+3544,Lisa,5.0,Edwards,2026-06-09,,5.0
+3545,Volunteers,1.5,Distribution Day - Tuesday,2026-06-09,,31.0
+3546,Volunteers,1.5,Distribution Day - Tuesday,2026-06-09,,31.0
+3547,Greg,2.0,Malland,2026-06-10,,10.0
+3548,Greg,0.0,Malland,2026-06-08,,10.0
+3549,Greg,4.0,Malland,2026-06-10,,10.0
+3550,John,4.5,Murray,2026-06-08,,26.0
+3551,John,2.5,Murray,2026-06-11,,26.0
+3552,Steve,2.0,Bodensteiner,2026-06-11,,45.0
+3553,Lisa,3.0,Edwards,2026-06-13,,5.0
+3554,Darla,1.5,Bauer,2026-06-15,,166.0
+3555,Lisa,3.0,Edwards,2026-06-15,,5.0
+3556,James,0.0,Rinker,2026-06-15,,191.0
+3557,Anna,2.5,Tsvetkov,2026-06-15,,184.0
+3558,Andrey,2.5,Tsvetkov,2026-06-15,,185.0
+3559,Renee,2.0,Rinker,2026-06-15,,192.0
+3560,Greg,2.0,Malland,2026-06-11,,10.0
+3561,Greg,1.0,Malland,2026-06-12,,10.0
+3562,Greg,2.0,Malland,2026-06-15,,10.0
+3563,Greg,2.0,Malland,2026-06-16,,10.0
+3564,Lisa,1.5,Edwards,2026-06-19,,5.0
+3565,Lisa,1.5,Edwards,2026-06-22,,5.0
+3566,Mike,5.0,Massey,2026-06-22,,24.0
+3567,Toni,5.0,Massey,2026-06-22,,4.0
+3568,Holly,3.0,Ripley,2026-06-22,,47.0
+3569,Margaret (Peggy),2.0,Ahrens,2026-06-22,,167.0
+3570,Chris,2.0,Smith,2026-06-22,,49.0
+3571,Mary,2.0,Wehde,2026-06-22,,109.0
+3572,Justin (JP),2.0,McPherren,2026-06-22,,161.0
+3573,Genelle,2.0,Doten,2026-06-22,,87.0
+3574,Mark,4.0,Litzinger,2026-06-22,,27.0
+3575,John,4.0,Murray,2026-06-22,,26.0
+3576,Stephen (Steve),3.0,Stejskal,2026-06-22,,44.0
+3577,Martha,3.0,Stejskal,2026-06-22,,35.0
+3578,Joe,3.0,Muckerman,2026-06-22,,93.0
+3579,Marie,3.0,Muckerman,2026-06-22,,92.0
+3580,Carolyn,3.0,Lord,2026-06-22,,104.0
+3581,Steve,4.0,Bodensteiner,2026-06-22,,45.0
+3582,Laurie,3.0,Cikatz,2026-06-22,,41.0
+3583,MaryKay,3.0,Heric,2026-06-22,,168.0
+3584,Jamie,3.0,Stockton,2026-06-22,,110.0
+3585,Erik,2.0,Wold,2026-06-22,,48.0
+3586,James (Jim),3.0,Mills,2026-06-22,,90.0
+3587,Patricia (Patti),3.0,Mills,2026-06-22,,91.0
+3588,Rick,3.0,Nelson,2026-06-22,,66.0
+3589,David,2.0,Raese,2026-06-22,,67.0
+3590,Jodi,3.0,Walter,2026-06-22,,75.0
+3591,Theresa,2.0,Sweet,2026-06-22,,60.0
+3592,Jennifer (Jen),2.0,Welsh,2026-06-22,,157.0
+3593,John,2.0,Welsh,2026-06-22,,149.0
+3594,Susan,1.5,Stimpert,2026-06-23,,136.0
+3595,Maisie,1.5,Stimpert,2026-06-23,,137.0
+3596,Senuri,1.0,Ushettige,2026-06-23,,130.0
+3597,Evelyn,2.5,Tang,2026-06-23,,116.0
+3598,Erik,2.25,Wold,2026-06-23,,48.0
+3599,Rick,2.0,Nelson,2026-06-23,,66.0
+3600,Rick,2.5,Nelson,2026-06-22,,66.0
+3601,John,2.5,Carter,2026-06-23,,174.0
+3602,John,2.0,Carter,2026-06-23,,174.0
+3603,Chris,3.0,Smith,2026-06-23,,49.0
+3604,Cam-Tu,2.5,Vo,2026-06-23,,39.0
+3605,Mary,2.0,Rider,2026-06-23,,69.0
+3606,Theresa,2.5,Sweet,2026-06-22,,60.0
+3607,Theresa,3.0,Sweet,2026-06-23,,60.0
+3608,Mari,1.5,Rogers,2026-06-23,,28.0
+3609,Lisa,3.5,Edwards,2026-06-23,,5.0
+3610,Anam,1.5,Naqvi,2026-06-23,,176.0
+3611,Paul,3.5,Paroff,2026-06-23,,50.0
+3612,Paul,2.0,Paroff,2026-06-24,,50.0
+3613,Greg,3.5,Malland,2026-06-22,,10.0
+3614,Greg,2.0,Malland,2026-06-23,,10.0
+3615,John,4.5,Murray,2026-06-22,,26.0
+3616,Lisa,2.0,Edwards,2026-06-29,,5.0
+3617,Nancy,15.0,Passovoy,2026-06-30,,8.0
+3618,Nancy,5.0,Passovoy,2026-06-30,,8.0
+3619,Nancy,4.0,Passovoy,2026-06-30,,8.0
+3620,Diane,2.0,Lear,2026-06-21,,86.0
+3621,Carolyn,2.0,Lord,2026-06-21,,104.0
+3622,Robert,2.0,Lord,2026-06-21,,105.0
+3623,Cathy,2.0,Brugge,2026-06-21,,181.0
+3624,Tasha (Natalie),1.0,Hlavka,2026-06-21,,101.0
+3625,Julie,1.0,Bruce,2026-06-21,,56.0
+3626,Senuri,2.0,Ushettige,2026-06-21,,130.0
+3627,Diane,2.0,Roberts,2026-06-21,,187.0
+3628,Toni,10.0,Massey,2026-06-30,,4.0
+3629,Robert (Bob),0.5,Myers,2026-06-01,,62.0
+3630,Robert (Bob),1.5,Myers,2026-06-04,,62.0
+3631,Robert (Bob),1.5,Myers,2026-06-18,,62.0
+3632,Robert (Bob),1.5,Myers,2026-06-22,,62.0
+3633,Robert (Bob),2.0,Myers,2026-06-29,,62.0
+3634,Robert (Bob),0.0,Myers,2026-06-30,,62.0
+3635,Gary,1.0,Morris,2026-06-01,,72.0
+3636,Gary,0.0,Morris,2026-06-30,,72.0
+3637,Chris,1.5,Smith,2026-06-01,,49.0
+3638,Chris,1.0,Smith,2026-06-08,,49.0
+3639,Chris,1.5,Smith,2026-06-15,,49.0
+3640,Chris,3.0,Smith,2026-06-22,,49.0
+3641,Chris,1.0,Smith,2026-06-29,,49.0
+3642,Chris,0.0,Smith,2026-06-30,,49.0
+3643,Christina,1.0,McCoy,2026-06-03,,84.0
+3644,Christina,0.0,McCoy,2026-06-30,,84.0
+3645,Cheryl,1.0,Gibson,2026-06-03,,83.0
+3646,Cheryl,0.0,Gibson,2026-06-30,,83.0
+3647,Darryl,1.0,Gibson,2026-06-03,,82.0
+3648,Darryl,0.0,Gibson,2026-06-30,,82.0
+3649,Carrie,1.0,Compton,2026-06-03,,123.0
+3650,Carrie,0.0,Compton,2026-06-30,,123.0
+3651,Susie,1.0,Scott,2026-06-03,,141.0
+3652,Susie,0.0,Scott,2026-06-30,,141.0
+3653,Nina,1.0,DeLeon,2026-06-03,,152.0
+3654,Nina,0.0,DeLeon,2026-06-30,,152.0
+3655,Diane,1.0,Lear,2026-06-03,,86.0
+3656,Diane,0.0,Lear,2026-06-30,,86.0
+3657,Margaret (Peggy),1.0,Ahrens,2026-06-03,,167.0
+3658,Margaret (Peggy),0.0,Ahrens,2026-06-30,,167.0
+3659,Joe,1.5,Muckerman,2026-06-05,,93.0
+3660,Marie,1.5,Muckerman,2026-06-05,,92.0
+3661,Marie,2.0,Muckerman,2026-06-20,,92.0
+3662,Marie,1.5,Muckerman,2026-06-28,,92.0
+3663,Marie,0.0,Muckerman,2026-06-30,,92.0
+3664,Joe,2.0,Muckerman,2026-06-20,,93.0
+3665,Joe,1.5,Muckerman,2026-06-28,,93.0
+3666,Joe,0.0,Muckerman,2026-06-30,,93.0
+3667,Jennifer (Jen),1.5,Welsh,2026-06-06,,157.0
+3668,Jennifer (Jen),2.0,Welsh,2026-06-13,,157.0
+3669,Jennifer (Jen),2.0,Welsh,2026-06-20,,157.0
+3670,Jennifer (Jen),1.0,Welsh,2026-06-27,,157.0
+3671,Jennifer (Jen),2.0,Welsh,2026-06-22,,157.0
+3672,Jennifer (Jen),2.0,Welsh,2026-06-28,,157.0
+3673,Jennifer (Jen),0.0,Welsh,2026-06-30,,157.0
+3674,John,2.0,Welsh,2026-06-22,,149.0
+3675,John,2.0,Welsh,2026-06-28,,149.0
+3676,John,0.0,Welsh,2026-06-30,,149.0
+3677,Margaret (Peggy),1.5,Ahrens,2026-06-06,,167.0
+3678,Margaret (Peggy),1.5,Ahrens,2026-06-13,,167.0
+3679,Margaret (Peggy),2.0,Ahrens,2026-06-20,,167.0
+3680,Margaret (Peggy),2.0,Ahrens,2026-06-22,,167.0
+3681,Margaret (Peggy),1.0,Ahrens,2026-06-27,,167.0
+3682,Margaret (Peggy),0.0,Ahrens,2026-06-30,,167.0
+3683,Margaret (Peggy),0.0,Ahrens,2026-06-30,,167.0
+3684,Rick,2.5,Nelson,2026-06-08,,66.0
+3685,Rick,1.0,Nelson,2026-06-09,,66.0
+3686,Rick,0.0,Nelson,2026-06-30,,66.0
+3687,Jennifer or Jenny,1.0,Augustine,2026-06-09,,153.0
+3688,Jennifer or Jenny,0.0,Augustine,2026-06-30,,153.0
+3689,Margaret (Peggy),2.5,Ahrens,2026-06-09,,167.0
+3690,Margaret (Peggy),0.0,Ahrens,2026-06-30,,167.0
+3691,Thomas (Tom),2.0,Dowd,2026-06-09,,89.0
+3692,Thomas (Tom),0.0,Dowd,2026-06-30,,89.0
+3693,Jeannie,2.0,Dowd,2026-06-09,,88.0
+3694,Jeannie,0.0,Dowd,2026-06-30,,88.0
+3695,John,2.0,Carter,2026-06-13,,174.0
+3696,John,2.5,Carter,2026-06-24,,174.0
+3697,John,0.0,Carter,2026-06-30,,174.0
+3698,Zhanna,2.0,Kochubey,2026-06-06,,6.0
+3699,Zhanna,2.0,Kochubey,2026-06-13,,6.0
+3700,Zhanna,2.0,Kochubey,2026-06-20,,6.0
+3701,Zhanna,1.0,Kochubey,2026-06-27,,6.0
+3702,Zhanna,2.0,Kochubey,2026-06-30,,6.0
+3703,Zhanna,0.0,Kochubey,2026-06-30,,6.0
+3704,Chris,1.5,Smith,2026-06-15,,49.0
+3705,Chris,0.0,Smith,2026-06-30,,49.0
+3706,Margaret (Peggy),2.5,Ahrens,2026-06-15,,167.0
+3707,Margaret (Peggy),0.0,Ahrens,2026-06-30,,167.0
+3708,Stephen (Steve),1.5,Anderson,2026-06-18,,43.0
+3709,Stephen (Steve),0.0,Anderson,2026-06-30,,43.0
+3710,Paul,1.0,Swensen,2026-06-03,,79.0
+3711,Paul,0.0,Swensen,2026-06-30,,79.0
+3712,Norman,1.0,King,2026-06-03,,189.0
+3713,Norman,0.0,King,2026-06-30,,189.0
+3714,Geraldine,1.0,King,2026-06-03,,190.0
+3715,Geraldine,0.0,King,2026-06-30,,190.0
+3716,Zhanna,0.5,Kochubey,2026-06-30,,6.0
+3717,Zhanna,0.0,Kochubey,2026-06-30,,6.0
+3718,Jim,3.0,Voetberg,2026-06-09,,65.0
+3719,Jim,3.0,Voetberg,2026-06-23,,65.0
+3720,Kim,3.0,Voetberg,2026-06-09,,12.0
+3721,Kim,3.0,Voetberg,2026-06-23,,12.0
+3722,Kim,2.0,Voetberg,2026-06-11,,12.0
+3723,Kim,4.0,Voetberg,2026-06-17,,12.0
+3724,Greg,1.5,Malland,2026-06-29,,10.0
+3725,Dorothy,3.0,Duff,2026-06-11,,1.0
+3726,Dorothy,2.0,Duff,2026-06-18,,1.0
+3727,Dorothy,2.0,Duff,2026-06-23,,1.0
+3728,Dorothy,1.0,Duff,2026-06-24,,1.0
+3729,Dorothy,2.0,Duff,2026-06-26,,1.0
+3730,Dorothy,2.0,Duff,2026-06-29,,1.0
+3731,Dorothy,2.0,Duff,2026-06-30,,1.0
