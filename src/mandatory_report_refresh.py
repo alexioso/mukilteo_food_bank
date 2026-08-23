@@ -208,7 +208,8 @@ def data_pipeline():
     df_dup_full = pd.read_csv(dup_report_monthly_path)
     df_undup_full = pd.read_csv(undup_report_monthly_path)
     df_time_entry_full = pd.read_csv(time_entry_path)
-    df_total_daily = pd.read_csv(total_report_daily_path)
+    df_total_daily = read_loaded_report("AB: Total Report Daily")
+
     
     #combine dataframes
     df_monthly = df_total_full.rename({'# of HH Visits':'total_hh_visits', 
@@ -303,7 +304,6 @@ def main_refresh():
     df_total = read_loaded_report()
     df_undup = read_loaded_report("SCFC Unduplicated Report")
     df_dup = read_loaded_report("SCFC Duplicated Report")
-    df_total_daily = read_loaded_report("AB: Total Report Daily")
     df_time_entry_temp = read_time_entry()
     
     #upsert to data/raw paths
@@ -311,8 +311,8 @@ def main_refresh():
     df_dup_full = upsert_dataframe(dup_report_monthly_path,df_dup,"Monthly Visit Date")
     df_undup_full = upsert_dataframe(undup_report_monthly_path,df_undup,"Monthly Visit Date")
     df_time_entry_full = upsert_dataframe(time_entry_path, df_time_entry_temp, "Time Entry ID")
-    
-    return data_pipeline()
+    data_pipeline()
+    return 
     
 
     
