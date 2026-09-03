@@ -3656,3 +3656,397 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3737,Lisa,2.5,Edwards,2026-07-06,,5.0
 3738,Diane,1.5,Lear,2026-07-06,,86.0
 3739,Paul,1.0,Paroff,2026-07-08,,50.0
+3740,Greg,1.5,Malland,2026-07-06,,10.0
+3741,Greg,4.5,Malland,2026-07-07,,10.0
+3742,Greg,2.0,Malland,2026-07-09,,10.0
+3743,Toni,5.0,Massey,2026-07-13,,4.0
+3744,Mike,5.0,Massey,2026-07-13,,24.0
+3745,Roger,2.0,Long,2026-07-13,,11.0
+3746,Holly,2.0,Ripley,2026-07-13,,47.0
+3747,Judy,1.5,Ching,2026-07-13,,46.0
+3748,Mary,1.5,Wehde,2026-07-13,,109.0
+3750,Chris,1.5,Smith,2026-07-13,,49.0
+3751,Justin (JP),1.5,McPherren,2026-07-13,,161.0
+3752,Paul,4.0,Paroff,2026-07-13,,50.0
+3753,Mark,4.0,Litzinger,2026-07-13,,27.0
+3754,Joe,3.0,Muckerman,2026-07-13,,93.0
+3755,Marie,3.0,Muckerman,2026-07-13,,92.0
+3756,Steve,3.0,Bodensteiner,2026-07-13,,45.0
+3757,Laurie,3.0,Cikatz,2026-07-13,,41.0
+3758,Carolyn,3.0,Lord,2026-07-13,,104.0
+3759,Tad (Thomas),3.0,Lutz,2026-07-13,,132.0
+3760,Jamie,3.0,Stockton,2026-07-13,,110.0
+3761,Rick,3.0,Nelson,2026-07-13,,66.0
+3762,Jodi,2.5,Walter,2026-07-13,,75.0
+3763,Jennifer (Jen),2.0,Welsh,2026-07-13,,157.0
+3764,John,2.0,Welsh,2026-07-13,,149.0
+3765,Jennifer (Irie),3.0,Adams,2026-07-13,,164.0
+3766,Erik,3.0,Wold,2026-07-13,,48.0
+3767,Mary,2.0,Rider,2026-07-14,,69.0
+3768,Rachelle,2.0,Brown,2026-07-14,,34.0
+3769,Don,3.0,Olin,2026-07-14,,171.0
+3770,Erik,2.5,Wold,2026-07-14,,48.0
+3771,Chris,2.5,Smith,2026-07-14,,49.0
+3772,Theresa,2.75,Sweet,2026-07-14,,60.0
+3773,Lisa,4.0,Edwards,2026-07-14,,5.0
+3774,Margaret (Peggy),3.0,Ahrens,2026-07-10,,167.0
+3775,Margaret (Peggy),3.0,Ahrens,2026-07-14,,167.0
+3776,Greg,2.0,Malland,2026-07-13,,10.0
+3777,Greg,0.5,Malland,2026-07-14,,10.0
+3778,John,4.0,Murray,2026-07-13,,26.0
+3779,Steve,4.0,Bodensteiner,2026-07-13,,45.0
+3780,Steve,3.0,Bodensteiner,2026-07-14,,45.0
+3781,Susan,2.0,Stimpert,2026-07-14,,136.0
+3782,Madeline,2.0,Stimpert,2026-07-14,,194.0
+3783,Anam,1.5,Naqvi,2026-07-14,,176.0
+3784,Lisa,3.5,Edwards,2026-07-23,,5.0
+3785,James,1.0,Miao,2026-07-24,,196.0
+3786,Amanda,1.0,Andrus,2026-07-24,,97.0
+3787,Meilyr,1.0,Andrus,2026-07-24,,108.0
+3788,Margaret (Peggy),1.5,Ahrens,2026-07-24,,167.0
+3789,Lisa,2.0,Edwards,2026-07-24,,5.0
+3790,Greg,1.5,Malland,2026-07-20,,10.0
+3791,Greg,1.0,Malland,2026-07-21,,10.0
+3792,Greg,2.5,Malland,2026-07-23,,10.0
+3793,Greg,2.0,Malland,2026-07-24,,10.0
+3794,Steve,2.5,Bodensteiner,2026-07-23,,45.0
+3795,Lisa,1.5,Edwards,2026-07-27,,5.0
+3796,Toni,5.0,Massey,2026-07-27,,4.0
+3797,Mike,5.0,Massey,2026-07-27,,24.0
+3798,Roger,3.0,Long,2026-07-27,,11.0
+3799,Justin (JP),2.0,McPherren,2026-07-27,,161.0
+3800,Mark,4.5,Litzinger,2026-07-27,,27.0
+3801,Holly,2.0,Ripley,2026-07-27,,47.0
+3802,Margaret (Peggy),3.5,Ahrens,2026-07-27,,167.0
+3803,Joe,3.5,Muckerman,2026-07-27,,93.0
+3804,Marie,3.5,Muckerman,2026-07-27,,92.0
+3805,Jamie,3.0,Stockton,2026-07-27,,110.0
+3806,Laurie,3.0,Cikatz,2026-07-27,,41.0
+3807,MaryKay,3.0,Heric,2026-07-27,,168.0
+3808,Zia,3.0,Uddin,2026-07-27,,135.0
+3809,Steve,3.5,Bodensteiner,2026-07-27,,45.0
+3810,Rick,3.0,Nelson,2026-07-27,,66.0
+3811,Paul,2.0,Swensen,2026-07-27,,79.0
+3812,Liza,2.5,Koome,2026-07-27,,197.0
+3813,David,2.0,Raese,2026-07-27,,67.0
+3814,Jodi,2.5,Walter,2026-07-27,,75.0
+3815,Cynthia,2.0,Patschke,2026-07-27,,70.0
+3816,Genelle,2.0,Doten,2026-07-27,,87.0
+3817,Tad (Thomas),2.5,Lutz,2026-07-27,,132.0
+3818,Chris,2.0,Smith,2026-07-27,,49.0
+3819,Mary,2.0,Wehde,2026-07-27,,109.0
+3820,Greg,3.5,Malland,2026-07-27,,10.0
+3821,Erik,3.0,Wold,2026-07-27,,48.0
+3822,David,1.25,Walter,2026-07-28,,74.0
+3823,Susan,2.0,Stimpert,2026-07-28,,136.0
+3824,Madeline,2.0,Stimpert,2026-07-28,,194.0
+3825,Erik,3.5,Wold,2026-07-27,,48.0
+3826,Erik,2.25,Wold,2026-07-28,,48.0
+3827,Davin,2.5,Kesler,2026-07-28,,52.0
+3828,Chris,2.5,Smith,2026-07-28,,49.0
+3829,Rick,2.0,Nelson,2026-07-28,,66.0
+3830,Rick,3.0,Nelson,2026-07-27,,66.0
+3831,Rachelle,2.0,Brown,2026-07-28,,34.0
+3832,Theresa,3.0,Sweet,2026-07-28,,60.0
+3833,Jennifer or Jenny,1.0,Augustine,2026-07-28,,153.0
+3834,Lisa,4.5,Edwards,2026-07-28,,5.0
+3835,Jim,2.0,Voetberg,2026-07-09,,65.0
+3836,Jim,3.5,Voetberg,2026-07-14,,65.0
+3837,Jim,3.5,Voetberg,2026-07-28,,65.0
+3838,Kim,2.0,Voetberg,2026-07-09,,12.0
+3839,Kim,3.5,Voetberg,2026-07-14,,12.0
+3840,Kim,2.0,Voetberg,2026-07-23,,12.0
+3841,Kim,3.5,Voetberg,2026-07-28,,12.0
+3842,Kim,5.0,Voetberg,2026-07-24,,12.0
+3843,Mari,2.5,Rogers,2026-07-28,,28.0
+3844,Erin,1.5,Kester,2026-07-29,,170.0
+3845,Greg,4.0,Malland,2026-07-27,,10.0
+3846,Greg,3.5,Malland,2026-07-28,,10.0
+3847,Nancy,12.0,Passovoy,2026-07-31,,8.0
+3848,Nancy,6.0,Passovoy,2026-07-31,,8.0
+3849,Nancy,3.5,Passovoy,2026-07-26,,8.0
+3850,Nancy,3.5,Passovoy,2026-07-26,,8.0
+3851,Diane,2.0,Lear,2026-07-26,,86.0
+3852,Evelyn,2.0,Tang,2026-07-26,,116.0
+3853,Katherine,2.0,Pompeo,2026-07-26,,120.0
+3854,Robert,2.0,Lord,2026-07-26,,105.0
+3855,Carolyn,2.0,Lord,2026-07-26,,104.0
+3856,Tasha (Natalie),1.0,Hlavka,2026-07-26,,101.0
+3857,Joe,1.0,Muckerman,2026-07-02,,93.0
+3858,Joe,1.5,Muckerman,2026-07-10,,93.0
+3859,Joe,2.0,Muckerman,2026-07-24,,93.0
+3860,Joe,1.5,Muckerman,2026-07-30,,93.0
+3861,Joe,0.0,Muckerman,2026-08-02,,93.0
+3862,Marie,1.0,Muckerman,2026-07-02,,92.0
+3863,Marie,1.5,Muckerman,2026-07-10,,92.0
+3864,Marie,2.0,Muckerman,2026-07-24,,92.0
+3865,Marie,1.5,Muckerman,2026-07-30,,92.0
+3866,Marie,0.0,Muckerman,2026-08-02,,92.0
+3867,Marie,0.0,Muckerman,2026-08-02,,92.0
+3868,Jennifer (Jen),1.0,Welsh,2026-07-04,,157.0
+3869,Jennifer (Jen),1.5,Welsh,2026-07-11,,157.0
+3870,Jennifer (Jen),1.5,Welsh,2026-07-18,,157.0
+3871,Jennifer (Jen),0.0,Welsh,2026-08-02,,157.0
+3872,Margaret (Peggy),1.0,Ahrens,2026-07-04,,167.0
+3873,Margaret (Peggy),1.5,Ahrens,2026-07-06,,167.0
+3874,Margaret (Peggy),1.0,Ahrens,2026-07-08,,167.0
+3875,Margaret (Peggy),1.5,Ahrens,2026-07-11,,167.0
+3876,Margaret (Peggy),1.5,Ahrens,2026-07-18,,167.0
+3877,Margaret (Peggy),1.0,Ahrens,2026-07-24,,167.0
+3878,Margaret (Peggy),2.0,Ahrens,2026-07-25,,167.0
+3879,Margaret (Peggy),4.5,Ahrens,2026-07-27,,167.0
+3880,Margaret (Peggy),0.0,Ahrens,2026-08-02,,167.0
+3881,Zhanna,1.0,Kochubey,2026-07-04,,6.0
+3882,Zhanna,1.5,Kochubey,2026-07-11,,6.0
+3883,Zhanna,1.5,Kochubey,2026-07-18,,6.0
+3884,Zhanna,2.0,Kochubey,2026-07-18,,6.0
+3885,Zhanna,2.0,Kochubey,2026-07-25,,6.0
+3886,Zhanna,0.0,Kochubey,2026-08-02,,6.0
+3887,Robert (Bob),1.5,Myers,2026-07-06,,62.0
+3888,Robert (Bob),1.5,Myers,2026-07-13,,62.0
+3889,Robert (Bob),1.0,Myers,2026-07-20,,62.0
+3890,Robert (Bob),1.5,Myers,2026-07-27,,62.0
+3891,Robert (Bob),0.0,Myers,2026-08-02,,62.0
+3892,Chris,1.5,Smith,2026-07-06,,49.0
+3893,Chris,2.0,Smith,2026-07-13,,49.0
+3894,Chris,1.5,Smith,2026-07-20,,49.0
+3895,Chris,1.0,Smith,2026-07-27,,49.0
+3896,Chris,0.0,Smith,2026-08-02,,49.0
+3897,John,2.0,Carter,2026-07-06,,174.0
+3898,John,1.0,Carter,2026-07-08,,174.0
+3899,John,2.5,Carter,2026-07-14,,174.0
+3900,John,0.0,Carter,2026-08-02,,174.0
+3901,Carrie,1.0,Compton,2026-07-08,,123.0
+3902,Carrie,0.0,Compton,2026-08-02,,123.0
+3903,Cheryl,1.0,Gibson,2026-07-08,,83.0
+3904,Cheryl,0.0,Gibson,2026-08-02,,83.0
+3905,Darryl,1.0,Gibson,2026-07-08,,82.0
+3906,Darryl,0.0,Gibson,2026-08-02,,82.0
+3907,Eileen,1.0,Harrington,2026-07-08,,163.0
+3908,Eileen,0.0,Harrington,2026-08-02,,163.0
+3909,Diane,1.0,Lear,2026-07-08,,86.0
+3910,Diane,0.0,Lear,2026-08-02,,86.0
+3911,Susie,1.0,Scott,2026-07-08,,141.0
+3912,Susie,0.0,Scott,2026-08-02,,141.0
+3913,Regina,1.5,Bowen,2026-07-11,,151.0
+3914,Regina,0.0,Bowen,2026-08-02,,151.0
+3915,Tom,2.0,Zamzow,2026-07-13,,150.0
+3916,Tom,0.0,Zamzow,2026-08-02,,150.0
+3917,John,3.0,Carter,2026-07-13,,174.0
+3918,John,0.0,Carter,2026-08-02,,174.0
+3919,Hijiri,2.5,Kobayashi,2026-07-14,,172.0
+3920,Hijiri,0.0,Kobayashi,2026-08-02,,172.0
+3921,David,0.5,Walter,2026-07-14,,74.0
+3922,David,0.0,Walter,2026-08-02,,74.0
+3923,Liza,2.5,Koome,2026-07-27,,197.0
+3924,Liza,0.0,Koome,2026-08-02,,197.0
+3925,Zhanna,2.0,Kochubey,2026-07-31,,6.0
+3927,Rachelle,1.0,Brown,2026-08-03,,34.0
+3928,Grayson,1.0,Brown,2026-08-03,,178.0
+3929,Jillian,1.0,Hall,2026-08-03,,128.0
+3930,Ayesha,1.0,Farooq,2026-08-03,,99.0
+3931,Pamela (Pam),1.0,Dellino,2026-08-03,,162.0
+3932,Theresa,3.0,Sweet,2026-08-03,,60.0
+3933,Renee,2.5,Rinker,2026-08-03,,192.0
+3934,James,2.5,Rinker,2026-08-03,,191.0
+3935,Evan,2.5,Rinker,2026-08-03,,193.0
+3936,Lisa,4.0,Edwards,2026-08-03,,5.0
+3937,Theresa,0.25,Sweet,2026-07-14,,60.0
+3938,Theresa,0.0,Sweet,2026-07-14,,60.0
+3939,Lisa,1.5,Edwards,2026-08-04,,5.0
+3940,Hijiri,1.5,Kobayashi,2026-08-11,,172.0
+3941,Susan,1.0,Stimpert,2026-08-11,,136.0
+3942,Madeline,1.0,Stimpert,2026-08-11,,194.0
+3943,David,1.0,Walter,2026-08-11,,74.0
+3944,Maureen,1.5,Traxler,2026-08-11,,40.0
+3945,Maisie,2.5,Stimpert,2026-08-11,,137.0
+3946,Erik,2.25,Wold,2026-08-11,,48.0
+3947,Chris,3.0,Smith,2026-08-11,,49.0
+3948,Mike,3.5,Massey,2026-08-05,,24.0
+3949,Toni,3.5,Massey,2026-08-12,,4.0
+3950,Mike,5.0,Massey,2026-08-10,,24.0
+3951,Toni,5.0,Massey,2026-08-10,,4.0
+3952,Roger,2.0,Long,2026-08-11,,11.0
+3953,Mary,2.0,Wehde,2026-08-10,,109.0
+3954,Per,2.0,Cummings,2026-08-10,,117.0
+3955,Holly,2.0,Ripley,2026-08-11,,47.0
+3956,Chris,2.0,Smith,2026-08-10,,49.0
+3957,John,4.0,Murray,2026-08-10,,26.0
+3958,Cynthia,2.0,Patschke,2026-08-10,,70.0
+3959,Joe,3.5,Muckerman,2026-08-10,,93.0
+3960,Marie,3.5,Muckerman,2026-08-10,,92.0
+3961,Laurie,3.0,Cikatz,2026-08-10,,41.0
+3962,MaryKay,3.0,Heric,2026-08-10,,168.0
+3963,Maureen,3.0,Traxler,2026-08-10,,40.0
+3964,Zia,3.0,Uddin,2026-08-10,,135.0
+3965,Jamie,3.0,Stockton,2026-08-10,,110.0
+3966,James (Jim),3.0,Mills,2026-08-10,,90.0
+3967,Tad (Thomas),2.25,Lutz,2026-08-10,,132.0
+3968,Rick,3.0,Nelson,2026-08-10,,66.0
+3969,Jennifer (Jen),2.0,Welsh,2026-08-10,,157.0
+3970,John,2.0,Welsh,2026-08-10,,149.0
+3971,Steve,4.5,Bodensteiner,2026-08-10,,45.0
+3972,Mark,4.5,Litzinger,2026-08-10,,27.0
+3973,Theresa,2.75,Sweet,2026-08-11,,60.0
+3974,Jennifer or Jenny,1.0,Augustine,2026-08-11,,153.0
+3975,Lisa,4.5,Edwards,2026-08-11,,5.0
+3976,Steve,3.5,Bodensteiner,2026-08-10,,45.0
+3977,Steve,3.0,Bodensteiner,2026-08-11,,45.0
+3978,Kim,2.0,Voetberg,2026-08-06,,12.0
+3979,Jim,2.0,Voetberg,2026-08-06,,65.0
+3980,Jim,2.0,Voetberg,2026-08-11,,65.0
+3981,Steve,2.0,Bodensteiner,2026-08-13,,45.0
+3982,Lisa,0.0,Edwards,2026-08-13,,5.0
+3983,Lisa,3.5,Edwards,2026-08-13,,5.0
+3984,Lisa,1.5,Edwards,2026-08-19,,5.0
+3985,Aleksander (Alex),2.0,Braksator,2026-08-11,,156.0
+3986,Toni,5.0,Massey,2026-08-24,,4.0
+3987,Mike,5.0,Massey,2026-08-24,,24.0
+3988,Toni,5.0,Massey,2026-08-24,,4.0
+3989,Roger,2.0,Long,2026-08-24,,11.0
+3990,Holly,2.0,Ripley,2026-08-24,,47.0
+3991,Mary,2.0,Wehde,2026-08-24,,109.0
+3992,Mark,4.5,Litzinger,2026-08-24,,27.0
+3993,Per,2.0,Cummings,2026-08-24,,117.0
+3994,Chris,2.0,Smith,2026-08-24,,49.0
+3995,Justin (JP),2.0,McPherren,2026-08-24,,161.0
+3996,Paul,3.0,Paroff,2026-08-24,,50.0
+3997,Marie,1.0,Muckerman,2026-08-24,,92.0
+3998,Joe,3.0,Muckerman,2026-08-24,,93.0
+3999,Carolyn,3.0,Lord,2026-08-24,,104.0
+4000,Aleksander (Alex),1.0,Braksator,2026-08-24,,156.0
+4001,Cynthia,3.0,Patschke,2026-08-24,,70.0
+4002,Steve,4.0,Bodensteiner,2026-08-24,,45.0
+4003,Jamie,3.0,Stockton,2026-08-24,,110.0
+4004,James (Jim),3.0,Mills,2026-08-24,,90.0
+4005,John,4.0,Murray,2026-08-24,,26.0
+4006,Rick,3.0,Nelson,2026-08-24,,66.0
+4007,John,3.0,Carter,2026-08-24,,174.0
+4008,Jennifer (Jen),2.5,Welsh,2026-08-24,,157.0
+4009,John,2.5,Welsh,2026-08-24,,149.0
+4010,Jodi,2.5,Walter,2026-08-24,,75.0
+4011,Aleksander (Alex),1.0,Braksator,2026-08-24,,156.0
+4012,David,1.0,Walter,2026-08-25,,74.0
+4013,Hijiri,1.0,Kobayashi,2026-08-25,,172.0
+4014,Susan,1.0,Stimpert,2026-08-25,,136.0
+4015,Madeline,1.0,Stimpert,2026-08-25,,194.0
+4016,Chris,2.5,Smith,2026-08-25,,49.0
+4017,Rachelle,2.0,Brown,2026-08-25,,34.0
+4018,Mary,2.0,Rider,2026-08-25,,69.0
+4019,Margaret (Peggy),1.0,Ahrens,2026-08-25,,167.0
+4020,Theresa,3.25,Sweet,2026-08-25,,60.0
+4021,Lisa,5.0,Edwards,2026-08-25,,5.0
+4022,Steve,2.0,Bodensteiner,2026-08-27,,45.0
+4023,Steve,3.0,Bodensteiner,2026-08-25,,45.0
+4024,Lisa,3.0,Edwards,2026-08-27,,5.0
+4025,Dave,1.0,Carpenter,2026-08-31,,175.0
+4026,James,1.5,Rinker,2026-08-31,,191.0
+4027,Renee,1.5,Rinker,2026-08-31,,192.0
+4028,Evan,1.5,Rinker,2026-08-31,,193.0
+4029,John,2.0,Carter,2026-08-31,,174.0
+4030,Rick,2.0,Nelson,2026-08-31,,66.0
+4031,Pamela (Pam),2.0,Dellino,2026-08-31,,162.0
+4032,Susie,2.0,Scott,2026-08-31,,141.0
+4033,Paul,1.0,Serati,2026-08-31,,198.0
+4034,Lisa,2.5,Edwards,2026-08-31,,5.0
+4035,David,0.5,Raese,2026-08-31,,67.0
+4036,Margaret (Peggy),3.0,Ahrens,2026-08-31,,167.0
+4037,Margaret (Peggy),2.0,Ahrens,2026-08-01,,167.0
+4038,Margaret (Peggy),3.0,Ahrens,2026-08-03,,167.0
+4039,Margaret (Peggy),1.5,Ahrens,2026-08-08,,167.0
+4040,Margaret (Peggy),2.0,Ahrens,2026-08-17,,167.0
+4041,Margaret (Peggy),4.0,Ahrens,2026-08-15,,167.0
+4042,Margaret (Peggy),2.0,Ahrens,2026-08-22,,167.0
+4043,Margaret (Peggy),1.5,Ahrens,2026-08-22,,167.0
+4044,Margaret (Peggy),2.0,Ahrens,2026-08-29,,167.0
+4045,Margaret (Peggy),0.0,Ahrens,2026-08-31,,167.0
+4046,Zhanna,2.0,Kochubey,2026-08-01,,6.0
+4047,Zhanna,1.5,Kochubey,2026-08-22,,6.0
+4048,Zhanna,2.0,Kochubey,2026-08-29,,6.0
+4049,Zhanna,2.0,Kochubey,2026-08-31,,6.0
+4050,Zhanna,0.0,Kochubey,2026-08-31,,6.0
+4051,Robert (Bob),0.5,Myers,2026-08-03,,62.0
+4052,Robert (Bob),2.0,Myers,2026-08-17,,62.0
+4053,Robert (Bob),2.0,Myers,2026-08-20,,62.0
+4054,Robert (Bob),1.0,Myers,2026-08-24,,62.0
+4055,Robert (Bob),0.5,Myers,2026-08-31,,62.0
+4056,Robert (Bob),0.0,Myers,2026-08-31,,62.0
+4057,Pamela (Pam),0.5,Dellino,2026-08-03,,162.0
+4058,Pamela (Pam),0.0,Dellino,2026-08-31,,162.0
+4059,Diane,2.0,Lear,2026-08-03,,86.0
+4060,Diane,2.5,Lear,2026-08-17,,86.0
+4061,Diane,0.0,Lear,2026-08-31,,86.0
+4062,Rick,1.5,Nelson,2026-08-03,,66.0
+4063,Rick,2.5,Nelson,2026-08-10,,66.0
+4064,Rick,2.5,Nelson,2026-08-24,,66.0
+4065,Rick,0.0,Nelson,2026-08-31,,66.0
+4066,John,1.5,Carter,2026-08-03,,174.0
+4067,John,3.0,Carter,2026-08-11,,174.0
+4068,John,2.0,Carter,2026-08-17,,174.0
+4069,John,3.0,Carter,2026-08-25,,174.0
+4070,John,0.0,Carter,2026-08-31,,174.0
+4071,Paul,3.0,Serati,2026-08-03,,198.0
+4072,Paul,2.0,Serati,2026-08-17,,198.0
+4073,Paul,0.0,Serati,2026-08-31,,198.0
+4074,Tom,0.5,Zamzow,2026-08-03,,150.0
+4075,Tom,0.5,Zamzow,2026-08-31,,150.0
+4076,Tom,0.0,Zamzow,2026-08-31,,150.0
+4077,Joe,1.5,Muckerman,2026-08-06,,93.0
+4078,Joe,1.5,Muckerman,2026-08-14,,93.0
+4079,Joe,1.5,Muckerman,2026-08-21,,93.0
+4080,Joe,1.5,Muckerman,2026-08-25,,93.0
+4081,Joe,0.0,Muckerman,2026-08-31,,93.0
+4082,Marie,1.5,Muckerman,2026-08-06,,92.0
+4083,Marie,1.5,Muckerman,2026-08-14,,92.0
+4084,Marie,1.5,Muckerman,2026-08-21,,92.0
+4085,Marie,1.5,Muckerman,2026-08-25,,92.0
+4086,Marie,0.0,Muckerman,2026-08-31,,92.0
+4087,Zhanna,1.5,Kochubey,2026-08-08,,6.0
+4088,Zhanna,0.0,Kochubey,2026-08-31,,6.0
+4089,Jennifer (Jen),1.5,Welsh,2026-08-08,,157.0
+4090,Jennifer (Jen),4.0,Welsh,2026-08-15,,157.0
+4091,Jennifer (Jen),1.5,Welsh,2026-08-22,,157.0
+4092,Jennifer (Jen),1.5,Welsh,2026-08-29,,157.0
+4093,Jennifer (Jen),0.0,Welsh,2026-08-31,,157.0
+4094,Chris,1.5,Smith,2026-08-10,,49.0
+4095,Chris,2.5,Smith,2026-08-24,,49.0
+4096,Chris,2.0,Smith,2026-08-31,,49.0
+4097,Chris,0.0,Smith,2026-08-31,,49.0
+4098,Chris,0.0,Smith,2026-08-31,,49.0
+4099,MaryKay,3.0,Heric,2026-08-10,,168.0
+4100,MaryKay,0.0,Heric,2026-08-31,,168.0
+4101,John,2.0,Welsh,2026-08-10,,149.0
+4102,John,0.0,Welsh,2026-08-31,,149.0
+4103,Jennifer (Jen),2.0,Welsh,2026-08-10,,157.0
+4104,Jennifer (Jen),0.0,Welsh,2026-08-31,,157.0
+4105,David,1.0,Walter,2026-08-11,,74.0
+4106,David,0.0,Walter,2026-08-31,,74.0
+4107,Rick,1.5,Nelson,2026-08-11,,66.0
+4108,Rick,0.0,Nelson,2026-08-31,,66.0
+4109,Don,3.0,Olin,2026-08-11,,171.0
+4110,Don,2.0,Olin,2026-08-25,,171.0
+4111,Don,0.0,Olin,2026-08-31,,171.0
+4112,Susie,2.0,Scott,2026-08-17,,141.0
+4113,Susie,0.0,Scott,2026-08-31,,141.0
+4114,Theresa,2.5,Sweet,2026-08-17,,60.0
+4115,Theresa,0.0,Sweet,2026-08-31,,60.0
+4116,Mark,2.0,Litzinger,2026-08-17,,27.0
+4117,Mark,0.0,Litzinger,2026-08-31,,27.0
+4118,Liza,2.5,Koome,2026-08-24,,197.0
+4119,Liza,0.0,Koome,2026-08-31,,197.0
+4120,Liza,0.0,Koome,2026-08-31,,197.0
+4121,Jennifer or Jenny,0.5,Augustine,2026-08-25,,153.0
+4122,Jennifer or Jenny,0.0,Augustine,2026-08-31,,153.0
+4123,Rick,0.0,Nelson,2026-08-31,,66.0
+4124,James,6.5,Rinker,2026-09-01,,191.0
+4125,James,2.0,Rinker,2026-09-02,,191.0
+4126,Dorothy,2.0,Duff,2026-08-06,,1.0
+4127,Dorothy,4.0,Duff,2026-08-12,,1.0
+4128,Dorothy,0.0,Duff,2026-08-06,,1.0
+4129,Dorothy,3.0,Duff,2026-08-13,,1.0
+4130,Dorothy,3.0,Duff,2026-08-15,,1.0
+4131,Dorothy,2.0,Duff,2026-08-20,,1.0
+4132,Dorothy,3.0,Duff,2026-08-27,,1.0
+4133,Dorothy,1.5,Duff,2026-08-26,,1.0
+4134,Dorothy,3.0,Duff,2026-08-27,,1.0
+4135,Dorothy,2.5,Duff,2026-08-31,,1.0
