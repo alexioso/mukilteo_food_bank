@@ -143,8 +143,11 @@ households_table = f"""
 """
 
 # ---- Pounds served ----
-month_lbs = daily_month["total_weight"].sum()
-ytd_lbs = daily_ytd["total_weight"].sum()
+# Sourced from df_monthly (the monthly aggregate report) rather than the daily
+# report: the daily report has gaps for some months (e.g. 2026-04 has zero
+# rows), which would otherwise show as a false 0 lbs here.
+month_lbs = month_row["total_weight"]
+ytd_lbs = ytd_df["total_weight"].sum()
 month_days = int((daily_month["total_hh_visits"] > 0).sum())
 ytd_days = int((daily_ytd["total_hh_visits"] > 0).sum())
 
