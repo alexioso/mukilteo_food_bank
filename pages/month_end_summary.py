@@ -57,9 +57,8 @@ st.title("Month End Summary")
 df_monthly = load_monthly()
 df_daily = load_daily()
 
-month_options = df_monthly["year_month"].dt.strftime("%Y-%m").tolist()
-selected_label = st.selectbox("Select Month:", month_options, index=len(month_options) - 1)
-selected_month = pd.Timestamp(selected_label + "-01")
+month_options = df_monthly["year_month"].sort_values(ascending=False).tolist()
+selected_month = st.selectbox("Select Month:", month_options, format_func=lambda d: d.strftime("%B %Y"))
 
 month_row = df_monthly.loc[df_monthly["year_month"] == selected_month].iloc[0]
 ytd_df = df_monthly[

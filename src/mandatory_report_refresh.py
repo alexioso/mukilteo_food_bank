@@ -1,3 +1,8 @@
+#TODO: edit google sheets to have filter descending order
+# Weekly HH Counts not updating
+#First of the month scheduled refresh
+#lock down the cells to editor
+
 import pandas as pd
 from dotenv import load_dotenv
 import os
@@ -96,6 +101,8 @@ def upsert_dataframe(csv_path: str, new_rows: pd.DataFrame, key_columns: list) -
     result = existing_indexed.reset_index()
 
     # Save back to CSV
+    if "year_month" in result.columns:
+        result = result.sort_values("year_month",ascending=False)
     result.to_csv(csv_path, index=False)
 
     return result
@@ -108,9 +115,22 @@ def read_time_entry():
         driver = webdriver.Chrome(options=options)
         driver.get("https://mfbfp.soxbox.co/login/")
 
-        driver.find_element(By.NAME, "username").send_keys(os.environ["FOOD_BANK_MANAGER_USERNAME"])
-        driver.find_element(By.NAME, "password").send_keys(os.environ["FOOD_BANK_MANAGER_PASSWORD"])
-        driver.find_element(By.NAME, "action").click()
+        username_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'input.rs-input[type="text"]'))
+        )
+
+        password_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'input.rs-input[type="password"]'))
+        )
+        
+        login_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Login')]"))
+        )
+
+
+        username_input.send_keys(os.environ["FOOD_BANK_MANAGER_USERNAME"])
+        password_input.send_keys(os.environ["FOOD_BANK_MANAGER_PASSWORD"])
+        login_button.click()
 
         time.sleep(2)
 
@@ -155,10 +175,26 @@ def read_loaded_report(report_title = 'SCFC Total Report'):
     try:
         driver = webdriver.Chrome(options=options)
         driver.get("https://mfbfp.soxbox.co/login/")
+        
+        wait = WebDriverWait(driver, 10)
+        
+        username_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'input.rs-input[type="text"]'))
+        )
 
-        driver.find_element(By.NAME, "username").send_keys(os.environ["FOOD_BANK_MANAGER_USERNAME"])
-        driver.find_element(By.NAME, "password").send_keys(os.environ["FOOD_BANK_MANAGER_PASSWORD"])
-        driver.find_element(By.NAME, "action").click()
+        password_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'input.rs-input[type="password"]'))
+        )
+        
+        login_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Login')]"))
+        )
+
+
+        username_input.send_keys(os.environ["FOOD_BANK_MANAGER_USERNAME"])
+        password_input.send_keys(os.environ["FOOD_BANK_MANAGER_PASSWORD"])
+        login_button.click()
+        
 
         time.sleep(2)
 
