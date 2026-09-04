@@ -63,15 +63,17 @@ st.title("Metro Food Bank — Distribution Dashboard")
 latest = df_monthly.iloc[-1]
 prior = df_monthly.iloc[-2] if len(df_monthly) > 1 else None
 
+def delta_str(col: str) -> str | None:
+    if prior is None:
+        return None
+    return f"{latest[col] - prior[col]:+,.0f}"
+
+
 c1, c2, c3, c4 = st.columns(4)
-c1.metric(
-    "HH Visits (latest month)",
-    f"{latest['total_hh_visits']:,.0f}",
-    delta=f"{latest['total_hh_visits'] - prior['total_hh_visits']:+,.0f}" if prior is not None else None,
-)
-c2.metric("Individuals Served", f"{latest['total_indivdiduals']:,.0f}")
-c3.metric("Weight Distributed (lbs)", f"{latest['total_weight']:,.0f}")
-c4.metric("Volunteer Hours (YTD)", f"{latest['volunteer_hours_ytd']:,.0f}")
+c1.metric("HH Visits (latest month)", f"{latest['total_hh_visits']:,.0f}", delta=delta_str("total_hh_visits"))
+c2.metric("Individuals Served", f"{latest['total_indivdiduals']:,.0f}", delta=delta_str("total_indivdiduals"))
+c3.metric("Weight Distributed (lbs)", f"{latest['total_weight']:,.0f}", delta=delta_str("total_weight"))
+c4.metric("Volunteer Hours (month)", f"{latest['volunteer_hours']:,.0f}", delta=delta_str("volunteer_hours"))
 
 st.caption(f"Latest month: {latest['year_month'].strftime('%B %Y')}")
 
