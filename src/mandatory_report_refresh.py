@@ -13,12 +13,67 @@ from calendar import monthrange
 import time
 import glob
 from config import *
-
+from bb_test import *
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+
+BROWSERBASE_API_KEY = "bb_live_6Q6UlQnRWatFkdOxKUz3ABabnQM"
+
+bb = Browserbase(api_key=BROWSERBASE_API_KEY)
+
+
+def save_downloads_on_disk(session_id: str, retry_seconds: int = 20, xlsx=True):
+    """
+    List and download individual files from a session.
+    Retries for the specified number of seconds if no downloads are found.
+
+    :param session_id: The session ID from your browser automation
+    :param retry_seconds: How long to retry if no downloads are found
+    """
+    end_time = time.time() + retry_seconds
+
+    while time.time() < end_time:
+        try:
+            # List individual downloads for the session
+            list_response = requests.get(
+                "https://api.browserbase.com/v1/downloads",
+                params={"sessionId": session_id},
+                headers={"x-bb-api-key": BROWSERBASE_API_KEY},
+            )
+            data = list_response.json()
+
+            if data["total"] > 0:
+                print(f"Found {data['total']} download(s)")
+
+                for download in data["downloads"]:
+                    # Download each file individually
+                    file_response = requests.get(
+                        f"https://api.browserbase.com/v1/downloads/{download['id']}",
+                        headers={
+                            "x-bb-api-key": BROWSERBASE_API_KEY,
+                            "Accept": "application/octet-stream",
+                        },
+                    )
+                    if xlsx:
+                        with open("temp.xlsx", "wb") as f:
+                            f.write(file_response.content)
+                    else:
+                        with open("temp.csv", "wb") as f:
+                            f.write(file_response.content)
+                    print(f"Saved: {download['filename']} ({download['size']} bytes)")
+                return
+        except Exception as e:
+            print(f"Error fetching downloads: {e}")
+            raise
+
+        time.sleep(2)  # Wait 2 seconds before retrying
+
+    raise TimeoutError("No downloads found within the retry period")
+
+
 
 def read_most_recent_csv(folder_path: str) -> pd.DataFrame:
     csv_files = glob.glob(os.path.join(folder_path, "*.csv"))
@@ -108,12 +163,24 @@ def upsert_dataframe(csv_path: str, new_rows: pd.DataFrame, key_columns: list) -
     return result
 
 def read_time_entry():
-    options = Options()
-    options.add_argument("--headless")
+
 
     try:
-        driver = webdriver.Chrome(options=options)
+        print("session")
+        session = bb.sessions.create()
+        print("connection")
+        connection = BrowserbaseConnection(session.id, session.selenium_remote_url)
+        options = webdriver.ChromeOptions()
+        options.set_capability("se:downloadsEnabled", True)
+        
+        print("driver")
+        driver = webdriver.Remote(
+          command_executor=connection, options=options
+        )
+        print("get url")
         driver.get("https://mfbfp.soxbox.co/login/")
+        
+        print("username")
 
         username_input = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'input.rs-input[type="text"]'))
@@ -155,8 +222,14 @@ def read_time_entry():
         export_button.click()
         
         time.sleep(5)
+        try:
+            save_downloads_on_disk(session.id,xlsx=False)
+            print("Downloads complete")
+        except Exception as e:
+            print(f"Failed to retrieve downloads: {e}")
 
-        df = read_most_recent_csv(get_chrome_default_download_path())
+
+        df = pd.read_csv("temp.csv")
         
         driver.quit()
         
@@ -169,11 +242,21 @@ def read_loaded_report(report_title = 'SCFC Total Report'):
     
     print(f"Exporting: {report_title}")
     
-    options = Options()
-    options.add_argument("--headless")
 
     try:
-        driver = webdriver.Chrome(options=options)
+        #driver = webdriver.Chrome(options=options)
+        print("session")
+        session = bb.sessions.create()
+        print("connection")
+        connection = BrowserbaseConnection(session.id, session.selenium_remote_url)
+
+        print("driver")
+        options = webdriver.ChromeOptions()
+        options.enable_downloads = True
+        options.set_capability("se:downloadsEnabled", True) 
+        driver = webdriver.Remote(
+          command_executor=connection, options=options
+        )
         driver.get("https://mfbfp.soxbox.co/login/")
         
         wait = WebDriverWait(driver, 10)
@@ -228,8 +311,15 @@ def read_loaded_report(report_title = 'SCFC Total Report'):
         export_button.click()
         
         time.sleep(5)
+        
+        try:
+            save_downloads_on_disk(session.id)
+            print("Downloads complete")
+        except Exception as e:
+            print(f"Failed to retrieve downloads: {e}")
 
-        df = read_most_recent_xlsx(get_chrome_default_download_path())
+
+        df = pd.read_excel("temp.xlsx",skiprows=13)
         
         driver.quit()
         
