@@ -14,14 +14,13 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: Install the requirements
         run: |
-          pip install -r requirements.txt |
-          cd src |
-          pip install -r requirements-forecast.txt
+          pip install -r requirements.txt
       - name: run the report refresh
         run: |
           python mandatory_report_refresh.py
       - name: run the forecast refresh
         run: |
+          cd src |
           python generate_forecast.py
       - name: push to github
         run: |
