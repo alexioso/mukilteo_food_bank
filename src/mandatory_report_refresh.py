@@ -4,9 +4,7 @@
 #lock down the cells to editor
 
 import pandas as pd
-from dotenv import load_dotenv
 import os
-load_dotenv()
 import requests
 from datetime import date
 from calendar import monthrange
