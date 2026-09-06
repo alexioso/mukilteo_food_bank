@@ -6,3 +6,4 @@ numpy
 statsmodels
 pmdarima
 selenium
+browserbase
