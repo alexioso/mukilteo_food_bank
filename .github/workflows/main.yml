@@ -15,16 +15,17 @@ jobs:
       - name: Install the requirements
         run: |
           pip install -r requirements.txt
+      - name: env vars
+        run: export BROWSERBASE_API_KEY=bb_live_eM4HKTJID0L4MhK7xxFcDO5fMkM
       - name: run the report refresh
         run: |
-          python mandatory_report_refresh.py
+          python src/mandatory_report_refresh.py
       - name: run the forecast refresh
         run: |
-          cd src |
-          python generate_forecast.py
+          python src/generate_forecast.py
       - name: push to github
         run: |
-          git add ../data/* |
+          git add data/* |
           git commit -m "refresh data $(date +%Y-%m-%d)" |
           git push
       - run: echo "🍏 This job's status is ${{ job.status }}."
