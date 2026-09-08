@@ -10,6 +10,11 @@ import os
 
 BROWSERBASE_API_KEY = os.getenv("BROWSERBASE_API_KEY")
 
+print("$$$$$$$$$$$$$$$$$$$$$$$$$$")
+print(BROWSERBASE_API_KEY)
+print("$$$$$$$$$$$$$$$$$$$$$$$$$$")
+
+
 
 
 class BrowserbaseConnection(RemoteConnection):
