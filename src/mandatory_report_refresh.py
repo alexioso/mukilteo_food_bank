@@ -214,7 +214,7 @@ def read_time_entry():
 
 
         #wait for export button and then click
-        export_button = WebDriverWait(driver, 120).until(
+        export_button = WebDriverWait(driver, 360).until(
             EC.element_to_be_clickable((
                 By.LINK_TEXT, "Export to CSV"
             ))
