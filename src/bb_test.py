@@ -4,11 +4,12 @@ from selenium import webdriver
 from selenium.webdriver.remote.remote_connection import RemoteConnection
 from browserbase import Browserbase
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 
 
-
-BROWSERBASE_API_KEY = "bb_live_eM4HKTJID0L4MhK7xxFcDO5fMkM"#os.getenv("BROWSERBASE_API_KEY")
+BROWSERBASE_API_KEY = os.getenv("BROWSERBASE_API_KEY")
 
 print("$$$$$$$$$$$$$$$$$$$$$$$$$$")
 print(BROWSERBASE_API_KEY)
