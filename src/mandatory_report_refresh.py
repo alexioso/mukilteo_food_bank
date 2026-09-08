@@ -17,8 +17,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from dotenv import load_dotenv
+load_dotenv()
 
-BROWSERBASE_API_KEY = "bb_live_6Q6UlQnRWatFkdOxKUz3ABabnQM"
+BROWSERBASE_API_KEY = os.getenv("BROWSERBASE_API_KEY")
 
 bb = Browserbase(api_key=BROWSERBASE_API_KEY)
 
