@@ -14,19 +14,21 @@ jobs:
         uses: actions/checkout@v6
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      - name: Install the requirements
-        run: |
-          pip install -r requirements.txt
-      - name: env vars
-        run: export BROWSERBASE_API_KEY=bb_live_eM4HKTJID0L4MhK7xxFcDO5fMkM
-      - name: run the report refresh
-        run: |
-          python src/mandatory_report_refresh.py
-      - name: run the forecast refresh
-        run: |
-          python src/generate_forecast.py
+      #- name: Install the requirements
+      #  run: |
+      #    pip install -r requirements.txt
+      #- name: env vars
+      #  run: export BROWSERBASE_API_KEY=bb_live_eM4HKTJID0L4MhK7xxFcDO5fMkM
+      #- name: run the report refresh
+      #  run: |
+      #    python src/mandatory_report_refresh.py
+      #- name: run the forecast refresh
+      #  run: |
+      #    python src/generate_forecast.py
       - name: push to github
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
           rm -f .git/index.lock
           git add data/*
           git commit -m "refresh data $(date +%Y-%m-%d)"
