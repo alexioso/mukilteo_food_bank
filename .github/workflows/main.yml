@@ -25,7 +25,8 @@ jobs:
           python src/generate_forecast.py
       - name: push to github
         run: |
-          git add data/* |
-          git commit -m "refresh data $(date +%Y-%m-%d)" |
+          rm -f .git/index.lock
+          git add data/*
+          git commit -m "refresh data $(date +%Y-%m-%d)"
           git push
       - run: echo "🍏 This job's status is ${{ job.status }}."
