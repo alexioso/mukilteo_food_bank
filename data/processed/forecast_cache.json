@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:50:27.534280+00:00",
+  "generated_at": "2026-09-08T02:25:11.130504+00:00",
   "typical_gap_days": 14,
   "next_distribution_event": {
     "monday": "2026-09-07",
@@ -65,7 +65,7 @@
       "backtest": [
         {
           "method": "ARIMAX(1, 1, 2)",
-          "mae": 14.5,
+          "mae": 14.4,
           "rmse": 18.6,
           "mape": 15.8
         },
