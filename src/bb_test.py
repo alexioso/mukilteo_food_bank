@@ -4,9 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.remote.remote_connection import RemoteConnection
 from browserbase import Browserbase
 import os
-from dotenv import load_dotenv
 
-load_dotev()
 
 
 
