@@ -8,3 +8,4 @@ pmdarima
 selenium
 browserbase
 dotenv
+openpyxl
