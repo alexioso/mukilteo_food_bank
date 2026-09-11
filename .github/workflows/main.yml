@@ -12,6 +12,8 @@ permissions:
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
+    env:
+      BROWSERBASE_API_KEY: ${{ secrets.BROWSERBASE_API_KEY }}
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -23,8 +25,6 @@ jobs:
       - name: Install the requirements
         run: |
           pip install -r requirements.txt
-      - name: env vars
-        run: export BROWSERBASE_API_KEY=bb_live_eM4HKTJID0L4MhK7xxFcDO5fMkM
       - name: run the report refresh
         run: |
           python src/mandatory_report_refresh.py
