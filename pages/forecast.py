@@ -67,11 +67,14 @@ if next_event and "total_hh_visits" in next_event["metrics"]:
 
     with st.container(border=True):
         st.subheader(f"📅 Next Distribution Day: {monday.strftime('%A, %B %d')} & {tuesday.strftime('%A, %B %d, %Y')}")
-        st.caption(
-            f"Best guess based on the typical {cache.get('typical_gap_days', 14)}-day gap between past "
-            "distribution events — usually every two weeks, with occasional exceptions, so treat this "
-            "as a planning estimate rather than a confirmed date."
-        )
+        if next_event.get("date_confirmed"):
+            st.caption("Date confirmed manually — the forecast values below are still model estimates.")
+        else:
+            st.caption(
+                f"Best guess based on the typical {cache.get('typical_gap_days', 14)}-day gap between past "
+                "distribution events — usually every two weeks, with occasional exceptions, so treat this "
+                "as a planning estimate rather than a confirmed date."
+            )
 
         big_cols = st.columns(2)
         for c, day_key, day_dt in zip(big_cols, ["monday", "tuesday"], [monday, tuesday]):

@@ -84,14 +84,15 @@ tab1, tab2, tab3, tab4 = st.tabs(
 with tab1:
     st.subheader("Household Visits by Month")
     fig = go.Figure()
-    fig.add_trace(go.Scatter(
-        x=df_monthly["year_month"], y=df_monthly["total_hh_visits"],
-        mode="lines", name="Total", line=dict(color=PALETTE["blue"], width=2),
+    fig.add_trace(go.Bar(
+        x=df_monthly["year_month"], y=df_monthly["dup_hh_visits"],
+        name="Duplicate", marker_color=PALETTE["blue"],
     ))
-    fig.add_trace(go.Scatter(
+    fig.add_trace(go.Bar(
         x=df_monthly["year_month"], y=df_monthly["undup_hh_visits"],
-        mode="lines", name="Unduplicated", line=dict(color=PALETTE["aqua"], width=2),
+        name="Unduplicated", marker_color=PALETTE["aqua"],
     ))
+    fig.update_layout(barmode="stack")
     st.plotly_chart(style_chart(fig, "HH Visits"), use_container_width=True, theme=None)
 
     st.subheader("Weight Distributed by Month")
