@@ -21,6 +21,12 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 OUTPUT_PATH = DATA_DIR / "processed" / "forecast_cache.json"
+# Optional manual override: a single YYYY-MM-DD date (the Monday of the next
+# confirmed distribution event) for when staff know the actual next date and
+# it differs from the historical-cadence guess (e.g. a 3-week gap instead of
+# the usual 2). Delete the file's contents (or the file) to fall back to the
+# automatic guess again.
+OVERRIDE_PATH = DATA_DIR / "raw" / "next_distribution_override.txt"
 
 EXOG_COLS = ["is_tuesday", "month_sin", "month_cos", "near_holiday"]
 HOLIDAY_WINDOW_DAYS = 7
@@ -70,15 +76,31 @@ def infer_distribution_cadence(service_days: pd.DataFrame) -> int:
     return int(mode.iloc[0]) if len(mode) else int(gaps.median())
 
 
-def next_distribution_events(service_days: pd.DataFrame, typical_gap_days: int, n_events: int) -> list:
-    """Returns a list of (monday, tuesday) Timestamp pairs for the next N projected distribution events."""
+def read_next_distribution_override() -> pd.Timestamp | None:
+    if not OVERRIDE_PATH.exists():
+        return None
+    text = OVERRIDE_PATH.read_text().strip()
+    return pd.Timestamp(text) if text else None
+
+
+def next_distribution_events(service_days: pd.DataFrame, typical_gap_days: int, n_events: int) -> tuple:
+    """
+    Returns (events, first_event_confirmed) where events is a list of
+    (monday, tuesday) Timestamp pairs for the next N projected distribution
+    events. The first event uses the manual override date if one is set
+    (first_event_confirmed=True); later events, and the guess when no
+    override is set, extrapolate from the typical historical gap.
+    """
     last_monday = service_days.loc[service_days["day_of_week"] == "Monday", "date"].max()
-    events = []
-    anchor = last_monday
-    for _ in range(n_events):
+    override = read_next_distribution_override()
+
+    first_monday = override if override is not None else last_monday + pd.Timedelta(days=typical_gap_days)
+    events = [(first_monday, first_monday + pd.Timedelta(days=1))]
+    anchor = first_monday
+    for _ in range(n_events - 1):
         anchor = anchor + pd.Timedelta(days=typical_gap_days)
         events.append((anchor, anchor + pd.Timedelta(days=1)))
-    return events
+    return events, override is not None
 
 
 def walk_forward_backtest(dates: np.ndarray, y: np.ndarray, exog: np.ndarray, order: tuple, holdout: int) -> pd.DataFrame:
@@ -120,7 +142,7 @@ def main() -> None:
     exog_full = build_exog(pd.DatetimeIndex(service_days["date"]), holidays)[EXOG_COLS]
 
     typical_gap_days = infer_distribution_cadence(service_days)
-    events = next_distribution_events(service_days, typical_gap_days, FORECAST_EVENTS)
+    events, first_event_confirmed = next_distribution_events(service_days, typical_gap_days, FORECAST_EVENTS)
     future_dates = pd.DatetimeIndex([d for pair in events for d in pair])
     future_exog = build_exog(future_dates, holidays)[EXOG_COLS]
 
@@ -130,6 +152,7 @@ def main() -> None:
         "next_distribution_event": {
             "monday": events[0][0].strftime("%Y-%m-%d"),
             "tuesday": events[0][1].strftime("%Y-%m-%d"),
+            "date_confirmed": first_event_confirmed,
             "metrics": {},
         },
         "metrics": {},
