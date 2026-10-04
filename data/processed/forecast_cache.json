@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-27T02:45:04.087407+00:00",
+  "generated_at": "2026-10-04T03:34:55.958941+00:00",
   "typical_gap_days": 14,
   "next_distribution_event": {
-    "monday": "2026-09-07",
-    "tuesday": "2026-09-08",
+    "monday": "2026-10-12",
+    "tuesday": "2026-10-13",
     "date_confirmed": false,
     "metrics": {
       "total_hh_visits": {
         "label": "Household Visits",
         "monday": {
-          "date": "2026-09-07",
+          "date": "2026-10-12",
           "day": "Monday",
-          "forecast": 185,
-          "low_95": 142,
-          "high_95": 229
+          "forecast": 188,
+          "low_95": 144,
+          "high_95": 231
         },
         "tuesday": {
-          "date": "2026-09-08",
+          "date": "2026-10-13",
           "day": "Tuesday",
           "forecast": 93,
           "low_95": 49,
@@ -35,66 +35,50 @@
       ],
       "forecast": [
         {
-          "date": "2026-09-07",
+          "date": "2026-10-12",
           "day": "Monday",
-          "forecast": 185,
-          "low_95": 142,
-          "high_95": 229
+          "forecast": 188,
+          "low_95": 144,
+          "high_95": 231
         },
         {
-          "date": "2026-09-08",
+          "date": "2026-10-13",
           "day": "Tuesday",
           "forecast": 93,
           "low_95": 49,
           "high_95": 136
         },
         {
-          "date": "2026-09-21",
+          "date": "2026-10-26",
           "day": "Monday",
-          "forecast": 180,
-          "low_95": 135,
-          "high_95": 225
+          "forecast": 182,
+          "low_95": 138,
+          "high_95": 226
         },
         {
-          "date": "2026-09-22",
+          "date": "2026-10-27",
           "day": "Tuesday",
           "forecast": 89,
           "low_95": 44,
-          "high_95": 134
+          "high_95": 133
         }
       ],
       "backtest": [
         {
           "method": "ARIMAX(1, 1, 2)",
-          "mae": 14.4,
-          "rmse": 18.6,
-          "mape": 15.8
+          "mae": 11.5,
+          "rmse": 13.6,
+          "mape": 10.8
         },
         {
           "method": "Naive (same weekday last time)",
-          "mae": 15.1,
-          "rmse": 22.0,
-          "mape": 15.4
+          "mae": 12.3,
+          "rmse": 18.9,
+          "mape": 10.2
         }
       ],
       "backtest_n": 16,
       "history": [
-        {
-          "date": "2026-05-11",
-          "value": 183.0
-        },
-        {
-          "date": "2026-05-12",
-          "value": 89.0
-        },
-        {
-          "date": "2026-05-18",
-          "value": 161.0
-        },
-        {
-          "date": "2026-05-19",
-          "value": 48.0
-        },
         {
           "date": "2026-06-08",
           "value": 203.0
@@ -142,6 +126,22 @@
         {
           "date": "2026-08-25",
           "value": 66.0
+        },
+        {
+          "date": "2026-09-14",
+          "value": 184.0
+        },
+        {
+          "date": "2026-09-15",
+          "value": 71.0
+        },
+        {
+          "date": "2026-09-28",
+          "value": 174.0
+        },
+        {
+          "date": "2026-09-29",
+          "value": 76.0
         }
       ]
     }
