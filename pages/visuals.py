@@ -58,7 +58,7 @@ def style_chart(fig: go.Figure, y_title: str = "", show_legend: bool = True) -> 
 df_monthly = load_monthly()
 df_weekly = load_weekly()
 
-st.title("Metro Food Bank — Distribution Dashboard")
+st.title("Mukilteo Food Bank — Distribution Dashboard")
 
 latest = df_monthly.iloc[-1]
 prior = df_monthly.iloc[-2] if len(df_monthly) > 1 else None
