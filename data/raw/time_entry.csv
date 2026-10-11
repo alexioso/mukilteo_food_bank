@@ -2408,7 +2408,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2433,Ian,1.0,Petchel,2026-01-24,2407.0,122.0
 2434,Luke,2.0,Cleaver,2026-01-24,2408.0,71.0
 2435,Senuri,1.0,Ushettige,2026-01-24,2409.0,130.0
-2436,Nina,1.0,DeLeon,2026-01-24,2410.0,152.0
+2436,Nina (time out for pregn.),1.0,DeLeon,2026-01-24,2410.0,152.0
 2437,Nancy,3.0,Passovoy,2026-01-24,2411.0,8.0
 2438,Greg,2.0,Malland,2026-01-26,2412.0,10.0
 2439,Greg,1.0,Malland,2026-01-26,2413.0,10.0
@@ -2444,7 +2444,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2469,Rachelle,2.25,Brown,2026-01-27,2443.0,34.0
 2470,Davin (moved),2.5,Kesler,2026-01-27,2444.0,52.0
 2471,Erik,3.5,Wold,2026-01-27,2445.0,48.0
-2473,Nina,2.0,DeLeon,2026-01-27,2447.0,152.0
+2473,Nina (time out for pregn.),2.0,DeLeon,2026-01-27,2447.0,152.0
 2474,Theresa,3.0,Sweet,2026-01-27,2448.0,60.0
 2475,Donna (deceased 6/2026),3.0,Pulaski,2026-01-27,2449.0,134.0
 2476,Cam-Tu,3.0,Vo,2026-01-27,2446.0,39.0
@@ -2525,7 +2525,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2575,Diane,1.0,Lear,2026-01-06,2491.0,86.0
 2577,Paul,1.0,Swensen,2026-01-06,2496.0,79.0
 2579,Cam-Tu,1.0,Vo,2026-01-06,2495.0,39.0
-2581,Nina,1.0,DeLeon,2026-01-06,2534.0,152.0
+2581,Nina (time out for pregn.),1.0,DeLeon,2026-01-06,2534.0,152.0
 2583,Theresa,1.0,Sweet,2026-01-06,2536.0,60.0
 2585,Donna (deceased 6/2026),1.0,Pulaski,2026-01-06,2538.0,134.0
 2587,Joe,1.5,Muckerman,2026-01-08,2540.0,93.0
@@ -2582,7 +2582,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2658,Carrie,1.0,Compton,2026-02-04,2585.0,123.0
 2659,Ann,1.0,Lumia,2026-02-04,2586.0,125.0
 2660,Christina,1.0,McCoy,2026-02-04,2587.0,84.0
-2661,Nina,1.0,DeLeon,2026-02-04,2588.0,152.0
+2661,Nina (time out for pregn.),1.0,DeLeon,2026-02-04,2588.0,152.0
 2662,Diane,1.5,Lear,2026-02-04,2589.0,86.0
 2663,Susie,1.5,Scott,2026-02-04,2590.0,141.0
 2664,Marie,1.5,Muckerman,2026-02-04,2591.0,92.0
@@ -2819,7 +2819,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 2896,Rachelle,1.0,Brown,2026-03-16,2817.0,34.0
 2897,Jillian,1.0,Hall,2026-03-16,2818.0,128.0
 2898,Mary,2.0,Rider,2026-03-24,2819.0,69.0
-2900,Nina,1.0,DeLeon,2026-03-24,2821.0,152.0
+2900,Nina (time out for pregn.),1.0,DeLeon,2026-03-24,2821.0,152.0
 2901,Donna (deceased 6/2026),2.0,Pulaski,2026-03-24,2822.0,134.0
 2902,Anam,1.5,Naqvi,2026-03-24,2823.0,176.0
 2903,Davin (moved),2.5,Kesler,2026-03-24,2824.0,52.0
@@ -2969,8 +2969,8 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3047,Donna (deceased 6/2026),0.0,Pulaski,2026-03-31,2967.0,134.0
 3048,Ralph,1.0,Allais,2026-03-04,2968.0,177.0
 3049,Ralph,0.0,Allais,2026-03-31,2969.0,177.0
-3050,Nina,1.0,DeLeon,2026-03-04,2970.0,152.0
-3051,Nina,0.0,DeLeon,2026-03-31,2971.0,152.0
+3050,Nina (time out for pregn.),1.0,DeLeon,2026-03-04,2970.0,152.0
+3051,Nina (time out for pregn.),0.0,DeLeon,2026-03-31,2971.0,152.0
 3052,Volunteer,1.0,Volunteers,2026-03-12,2972.0,36.0
 3053,Volunteer,0.0,Volunteers,2026-03-31,2973.0,36.0
 3054,Erik,1.5,Wold,2026-03-20,2974.0,48.0
@@ -3054,7 +3054,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3135,Jennifer or Jenny,1.5,Augustine,2026-04-14,,153.0
 3136,Carolyn,2.0,Lord,2026-04-14,,104.0
 3137,Robert,2.0,Lord,2026-04-14,,105.0
-3138,Nina,1.5,DeLeon,2026-04-14,,152.0
+3138,Nina (time out for pregn.),1.5,DeLeon,2026-04-14,,152.0
 3139,Rick,1.5,Nelson,2026-04-14,,66.0
 3140,Lisa,1.5,Edwards,2026-04-20,,5.0
 3141,Dorothy,6.0,Duff,2026-04-06,,1.0
@@ -3168,7 +3168,7 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3249,Lien (Lynn),0.5,Ha,2026-05-04,,133.0
 3250,Hijiri,3.5,Kobayashi,2026-05-04,,172.0
 3251,Donna (deceased 6/2026),4.0,Pulaski,2026-05-04,,134.0
-3252,Nina,2.5,DeLeon,2026-05-04,,152.0
+3252,Nina (time out for pregn.),2.5,DeLeon,2026-05-04,,152.0
 3253,Rick,3.0,Nelson,2026-05-04,,66.0
 3254,Margaret (Peggy),2.5,Ahrens,2026-05-04,,167.0
 3255,Dave,2.5,Carpenter,2026-05-04,,175.0
@@ -3295,8 +3295,8 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3376,Diane,0.0,Lear,2026-05-31,,86.0
 3377,Christina,1.0,McCoy,2026-05-06,,84.0
 3378,Christina,0.0,McCoy,2026-05-31,,84.0
-3379,Nina,1.0,DeLeon,2026-05-06,,152.0
-3380,Nina,0.0,DeLeon,2026-05-06,,152.0
+3379,Nina (time out for pregn.),1.0,DeLeon,2026-05-06,,152.0
+3380,Nina (time out for pregn.),0.0,DeLeon,2026-05-06,,152.0
 3381,Susie,1.0,Scott,2026-05-06,,141.0
 3382,Susie,0.0,Scott,2026-05-31,,141.0
 3383,Stephen (Steve),2.5,Anderson,2026-05-07,,43.0
@@ -3354,8 +3354,8 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3435,Cathy,0.0,Brugge,2026-05-31,,181.0
 3436,John,1.0,Carter,2026-05-14,,174.0
 3437,John,0.0,Carter,2026-05-31,,174.0
-3438,Nina,2.0,DeLeon,2026-05-14,,152.0
-3439,Nina,0.0,DeLeon,2026-05-31,,152.0
+3438,Nina (time out for pregn.),2.0,DeLeon,2026-05-14,,152.0
+3439,Nina (time out for pregn.),0.0,DeLeon,2026-05-31,,152.0
 3440,Erik,2.0,Wold,2026-05-02,,48.0
 3441,Erik,0.0,Wold,2026-05-31,,48.0
 3442,Pam,2.0,Anderson,2026-05-14,,42.0
@@ -3569,8 +3569,8 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 3650,Carrie,0.0,Compton,2026-06-30,,123.0
 3651,Susie,1.0,Scott,2026-06-03,,141.0
 3652,Susie,0.0,Scott,2026-06-30,,141.0
-3653,Nina,1.0,DeLeon,2026-06-03,,152.0
-3654,Nina,0.0,DeLeon,2026-06-30,,152.0
+3653,Nina (time out for pregn.),1.0,DeLeon,2026-06-03,,152.0
+3654,Nina (time out for pregn.),0.0,DeLeon,2026-06-30,,152.0
 3655,Diane,1.0,Lear,2026-06-03,,86.0
 3656,Diane,0.0,Lear,2026-06-30,,86.0
 3657,Margaret (Peggy),1.0,Ahrens,2026-06-03,,167.0
@@ -4257,3 +4257,16 @@ Time Entry ID,First Name,Hours Worked,Last Name,Time Entry On,Unnamed: 0,Volunte
 4340,James,6.0,Rinker,2026-10-01,,191.0
 4341,James,2.0,Rinker,2026-10-02,,191.0
 4342,Steve,3.0,Bodensteiner,2026-09-29,,45.0
+4343,Darla,1.0,Bauer,2026-10-05,,166.0
+4344,Pamela (Pam),1.5,Dellino,2026-10-05,,162.0
+4345,Anna,2.0,Negaard,2026-10-05,,183.0
+4346,Kathy,1.5,Smith,2026-10-05,,143.0
+4347,Renee,2.5,Rinker,2026-10-05,,192.0
+4348,James,4.5,Rinker,2026-10-05,,191.0
+4349,Diane,3.0,Roberts,2026-10-05,,187.0
+4350,John,7.0,Carter,2026-10-05,,174.0
+4351,Lisa,4.5,Edwards,2026-10-05,,5.0
+4352,James,5.0,Rinker,2026-10-03,,191.0
+4353,James,6.0,Rinker,2026-10-06,,191.0
+4354,James,8.0,Rinker,2026-10-07,,191.0
+4355,James,5.0,Rinker,2026-10-08,,191.0
